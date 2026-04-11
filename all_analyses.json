@@ -15370,6 +15370,70 @@
     }
   },
   {
+    "fake_observer_score": 20,
+    "individuals": [
+      {
+        "name": "Tarpai Viktória",
+        "affiliation": "N/A",
+        "country": "Ukraine",
+        "role": "artist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Tarpai Viktória buzdít a szavazásra."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor tudja garantálni Magyarország békéjét."
+      },
+      {
+        "name": "J. D. Vance",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "J. D. Vance budapesti látogatása."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Szijjártó Péter jellemezte az eseményeket."
+      }
+    ],
+    "topics": [
+      "election",
+      "influencers",
+      "politics"
+    ],
+    "summary": "Various individuals, including artists and politicians, are influencing the election discourse in Hungary.",
+    "analysis_details": "The presence of foreign individuals and local politicians commenting on the elections.",
+    "title_eng": "Famous Faces from Transcarpathia Encourage Voting for the National Government",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Bayer ZsoltMagyar Nemzet",
+      "published_at": "2026-04-11T23:12:19+02:00",
+      "scraped_at": "2026-04-12T00:00:25.889082",
+      "title": "Kárpátalja legismertebb arcai buzdítanak szavazásra a nemzeti kormány mellett",
+      "url": "https://mandiner.hu/kulfold/2026/04/karpatalja-legismertebb-arcai-buzditanak-szavazasra-a-nemzeti-kormany-mellett",
+      "article_id": "mandiner_karpatalja-legismertebb-arcai-buzditanak-szavazasra-a-nemzeti-kormany-mellett"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -26402,6 +26466,103 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke at the campaign closing event."
+      },
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János spoke at the campaign closing event."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter spoke at the campaign closing event."
+      },
+      {
+        "name": "Rákay Philip",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "speaker",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Rákay Philip started speaking on stage."
+      },
+      {
+        "name": "Bazsó Adolf",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "security",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Bazsó Adolf was present and managing security."
+      },
+      {
+        "name": "Gulyás Márton",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Gulyás Márton was present and filming the event."
+      },
+      {
+        "name": "Szabó Bálint",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Szabó Bálint arrived at the event."
+      }
+    ],
+    "topics": [
+      "election",
+      "politicians",
+      "campaign"
+    ],
+    "summary": "The article discusses the campaign closing event of Fidesz, highlighting the attendance and speeches of various politicians.",
+    "analysis_details": "All individuals mentioned are affiliated with Hungarian political entities and are physically present at the event.",
+    "title_eng": "Orbán's Campaign Closing Event",
+    "article_metadata": {
+      "source": "444",
+      "author": "Windisch Judit",
+      "published_at": "2026-04-11T23:53:47+02:00",
+      "scraped_at": "2026-04-12T00:00:03.526132",
+      "title": "A Szentháromság teret sem tudta megtölteni Orbán a kampányzáróján, kivetítővel nem is készültek",
+      "url": "https://444.hu/2026/04/11/a-szentharomsag-teret-sem-tudta-megtolteni-orban-a-kampanyzarojan-kivetitovel-nem-is-keszultek",
+      "article_id": "444_a-szentharomsag-teret-sem-tudta-megtolteni-orban-a-kampanyzarojan-kivetitovel-nem-is-keszultek"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Nagy Dávid",
         "affiliation": "Magyar Kétfarkú Kutya Párt (MKKP)",
         "country": "Hungary",
@@ -28104,6 +28265,23 @@
       "title": "Nagy Dávid az Indexnek: Fogalmam sincs, hogy kik most a szavazóink",
       "url": "https://index.hu/belfold/2026/04/07/nagy-david-magyar-ketfarku-kutyapart-listavezeto-valasztasok-2026-ebek-ura/",
       "article_id": "index_nagy-david-magyar-ketfarku-kutyapart-listavezeto-valasztasok-2026-ebek-ura"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [],
+    "summary": "No relevant individuals mentioned in the article.",
+    "analysis_details": "The article does not provide information about any individuals related to election observation.",
+    "title_eng": "Campaign Closure of Péter Magyar in Debrecen - Gallery",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kőrös Gábor",
+      "published_at": "2026-04-11T23:41:36+02:00",
+      "scraped_at": "2026-04-12T00:00:07.892301",
+      "title": "Így zárta a kampányt Magyar Péter Debrecenben – Galéria | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/11/magyar-peter-kampanyzaro-debrecen-galeria/",
+      "article_id": "24hu_magyar-peter-kampanyzaro-debrecen-galeria"
     }
   },
   {
@@ -39898,6 +40076,140 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter zárta kampányát Debrecenben."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor néhány nappal ezelőtt járt Debrecenben."
+      },
+      {
+        "name": "Kósa Lajos",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kósa Lajos a térség jelenlegi országgyűlési képviselője."
+      },
+      {
+        "name": "Barcsa Lajos",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Deputy Mayor of Debrecen",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Barcsa Lajos Debrecen alpolgármestere."
+      },
+      {
+        "name": "Tárkányi Zsolt",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Press Relations Manager",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Tárkányi Zsolt a párt sajtókapcsolati vezetője."
+      },
+      {
+        "name": "Kapitány István",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Expert",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kapitány István a párt egyik szakértője."
+      },
+      {
+        "name": "Veres Viktor",
+        "affiliation": "HVG",
+        "country": "Hungary",
+        "role": "Journalist",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Veres Viktor a HVG újságírója."
+      },
+      {
+        "name": "Unnamed Young Man",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Voter",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "A fiú, aki a Tiszára tenné az ikszet."
+      },
+      {
+        "name": "Unnamed Young Woman",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Voter",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "A lány, aki Magyar Péter miniszterelnöki ambícióiról beszél."
+      },
+      {
+        "name": "Unnamed Family Mother",
+        "affiliation": "Unknown",
+        "country": "Romania",
+        "role": "Voter",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "A családanya, aki Nagyváradról utazott át."
+      },
+      {
+        "name": "Unnamed Older Couple",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Voters",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Idősebb házaspár, akik a kormány politikájáról beszélnek."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign",
+      "politics"
+    ],
+    "summary": "The article discusses the campaign closing event of Magyar Péter in Debrecen, highlighting the political atmosphere and public sentiments.",
+    "analysis_details": "The article features various individuals involved in the political scene in Hungary, with no foreign influence detected.",
+    "title_eng": "Magyar Péter's Campaign Closing in Debrecen",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "Csendes-Erdei Emese",
+      "published_at": "2026-04-11T21:19:15.0000000Z",
+      "scraped_at": "2026-04-12T00:00:05.265521",
+      "title": "„Nálunk csak a nagymamám hiszi el, hogy háború lesz” – a Tisza debreceni kampányzáróján jártunk",
+      "url": "https://hvg.hu/itthon/20260411_tisza-debrecen-kampanyzaro-magyar-peter-riport",
+      "article_id": "hvg_20260411_tisza-debrecen-kampanyzaro-magyar-peter-riport"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Sohonyai Attila",
         "affiliation": "N/A",
         "country": "Hungary",
@@ -42819,6 +43131,108 @@
       "title": "Publicus Intézet: 52-39 az állás a Tisza Párt és a Fidesz között a biztos szavazó pártválasztók körében",
       "url": "https://telex.hu/belfold/2026/04/10/publicus-intezet-tisza-part-fidesz-kozvelemeny-kutatas",
       "article_id": "telex_publicus-intezet-tisza-part-fidesz-kozvelemeny-kutatas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor conducted a nationwide campaign."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter traveled across the country for the campaign."
+      },
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Government Official",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János participated in forums during the campaign."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Foreign Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter was mentioned as a prominent figure at campaign events."
+      },
+      {
+        "name": "Kocsis Máté",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Government Official",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kocsis Máté was involved in the campaign events."
+      },
+      {
+        "name": "Szabó Bence",
+        "affiliation": "Nemzeti Nyomozó Iroda",
+        "country": "Hungary",
+        "role": "Investigator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szabó Bence spoke about investigations related to the Tisza Párt."
+      },
+      {
+        "name": "Hrabóczki Dániel",
+        "affiliation": "Alkotmányvédelmi Hivatal",
+        "country": "Hungary",
+        "role": "Witness",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hrabóczki Dániel appeared in a video regarding his interrogation."
+      },
+      {
+        "name": "Bede Zsolt",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Activist",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Bede Zsolt was identified as a far-right activist during protests."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign",
+      "politics"
+    ],
+    "summary": "The article discusses the intense election campaign in Hungary, highlighting the activities of key political figures.",
+    "analysis_details": "All individuals mentioned are from Hungary and actively participated in the election campaign.",
+    "title_eng": "The End of the Election Campaign",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Szántó-Nagy Bálint, Ostyáni János",
+      "published_at": "2026-04-11T21:11:50.000Z",
+      "scraped_at": "2026-04-12T00:00:04.652713",
+      "title": "Akkor vége van",
+      "url": "https://telex.hu/belfold/2026/04/11/valasztas-2026-kampany-orszagjaras-tisza-part-fidesz-orban-viktor-magyar-peter",
+      "article_id": "telex_valasztas-2026-kampany-orszagjaras-tisza-part-fidesz-orban-viktor-magyar-peter"
     }
   },
   {
@@ -46217,6 +46631,38 @@
       "title": "Szombat délelőtt 11-kor elkezdődött az országgyűlési választás",
       "url": "https://hvg.hu/vilag/20260411_orszaggyulesi-valasztas-elkezdodott-amerika-kulkepviseletek",
       "article_id": "hvg_20260411_orszaggyulesi-valasztas-elkezdodott-amerika-kulkepviseletek"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor kampányzáró beszédében részletesen foglalkozott a háború következményeivel."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign",
+      "war"
+    ],
+    "summary": "The campaign video focuses on the war theme, reflecting the political communication surrounding the elections.",
+    "analysis_details": "The war issue is central to the campaign, with no foreign observers mentioned.",
+    "title_eng": "Fidesz Campaign Video Highlights War Theme",
+    "article_metadata": {
+      "source": "Index",
+      "author": "- rm -",
+      "published_at": "2026-04-11T23:12:00+02:00",
+      "scraped_at": "2026-04-12T00:00:02.989202",
+      "title": "A Fidesz kampányzáró videójában továbbra is a háború a központi téma",
+      "url": "https://index.hu/belfold/2026/04/11/fidesz-orszaggyulesi-valasztasok-kampany-video-haboru-tema/",
+      "article_id": "index_fidesz-orszaggyulesi-valasztasok-kampany-video-haboru-tema"
     }
   },
   {
@@ -49807,6 +50253,23 @@
       "title": "Magyar Péter Nagykanizsán: Bármennyire is jól nézünk ki, nyomjuk meg – 2026 élőben",
       "url": "https://telex.hu/video/2026/04/08/orszagjaras-kampany-2026-elo-magyar-peter-orban-viktor",
       "article_id": "telex_orszagjaras-kampany-2026-elo-magyar-peter-orban-viktor"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [],
+    "summary": "No relevant individuals mentioned in the article.",
+    "analysis_details": "The article does not provide information about any observers or individuals influencing the election.",
+    "title_eng": "Orbán Viktor's Campaign Closure in Budapest - Gallery",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Varga Jennifer",
+      "published_at": "2026-04-11T23:44:17+02:00",
+      "scraped_at": "2026-04-12T00:00:07.694437",
+      "title": "Így zárta a kampányt Orbán Viktor Budapesten – Galéria | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/11/orban-viktor-budapest-kampanyzaro-galeria/",
+      "article_id": "24hu_orban-viktor-budapest-kampanyzaro-galeria"
     }
   },
   {
