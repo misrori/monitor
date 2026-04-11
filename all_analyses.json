@@ -20533,6 +20533,57 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke at the campaign closing event in Debrecen."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter closed his campaign in Debrecen."
+      },
+      {
+        "name": "Demeter Szilárd",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Cultural Figure",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Demeter Szilárd's dream was realized with the socialization of light music."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The article discusses the closing of the election campaign in Hungary, highlighting the presence of key political figures.",
+    "analysis_details": "No foreign observers or commentators were mentioned in the article.",
+    "title_eng": "The Tisza Became Fidesz, Fidesz Became MSZ(M)P",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "Hamvay Péter",
+      "published_at": "2026-04-11T21:55:36.0000000Z",
+      "scraped_at": "2026-04-12T01:00:03.805396",
+      "title": "A Tisza lett a Fidesz, a Fidesz meg az MSZ(M)P",
+      "url": "https://hvg.hu/360/20260411_a-tisza-lett-a-fidesz-a-fidesz-meg-az-msz-m-p",
+      "article_id": "hvg_20260411_a-tisza-lett-a-fidesz-a-fidesz-meg-az-msz-m-p"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Zelena András",
         "affiliation": "Budapesti Gazdaságtudományi Egyetem",
         "country": "Hungary",
