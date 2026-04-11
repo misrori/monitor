@@ -861,6 +861,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:12.070148",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-orban-viktor-a-leggyavabb-ember-a-86-eves-edesapja-szoknyaja-moge-bujik",
+      "article_id": "24hu__magyar-peter-debrecenben-orban-viktor-a-leggyavabb-ember-a-86-eves-edesapja-szoknyaja-moge-bujik"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -1310,6 +1330,26 @@
       "title": "Trump legidősebb fia szerint Orbánra kell szavazni, hogy ne vegyék át a hatalmat Magyarországon a kommunisták",
       "url": "https://telex.hu/kulfold/2026/04/07/donald-trump-jr-szerbia-orban-kommunizmus",
       "article_id": "telex_donald-trump-jr-szerbia-orban-kommunizmus"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:09.244660",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#egnek-a-faklyak-az-egyetem-teren-es-az-egyetem-sugaruton",
+      "article_id": "24hu__egnek-a-faklyak-az-egyetem-teren-es-az-egyetem-sugaruton"
     }
   },
   {
@@ -4532,6 +4572,26 @@
       "election",
       "campaign"
     ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:10.365136",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#szijjarto-peter-felelossegre-vonasa-a-szolo-utca-botrany-feltarasa-ezeknek-az-igereteknek-tapsoltak-leginkabb",
+      "article_id": "24hu__szijjarto-peter-felelossegre-vonasa-a-szolo-utca-botrany-feltarasa-ezeknek-az-igereteknek-tapsoltak-leginkabb"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
     "summary": "The article discusses the final days of the campaign and mentions the international situation.",
     "analysis_details": "No specific individuals related to election observation are mentioned.",
     "title_eng": "Final Days of the Campaign",
@@ -4628,6 +4688,47 @@
       "title": "„Ez a rendszer embert faragott belőlem” – VV Aurelio úgy buzdít a Fidesz támogatására, hogy el van tiltva a közügyektől",
       "url": "https://444.hu/2026/04/07/ez-a-rendszer-embert-faragott-belolem-vv-aurelio-ugy-buzdit-a-fidesz-tamogatasara-hogy-el-van-tiltva-a-kozugyektol",
       "article_id": "444_ez-a-rendszer-embert-faragott-belolem-vv-aurelio-ugy-buzdit-a-fidesz-tamogatasara-hogy-el-van-tiltva-a-kozugyektol"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Németh Szilárd",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Szilárd is a Fidesz politician participating in the election."
+      },
+      {
+        "name": "Balogh Levente",
+        "affiliation": "Szentkirályi",
+        "country": "Hungary",
+        "role": "business owner",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Balogh Levente is the founder and owner of Szentkirályi."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Németh Szilárd, a Fidesz politician, commented on the upcoming election in a video.",
+    "analysis_details": "No foreign observers or influences mentioned.",
+    "title_eng": "Németh Szilárd's Message to Balogh Levente",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-11T17:00:39.0000000Z",
+      "scraped_at": "2026-04-11T20:00:07.054118",
+      "title": "Videó: Németh Szilárd egy üveg Szentkirályi ásványvíz kiöntésével üzent Balogh Leventének",
+      "url": "https://hvg.hu/itthon/20260411_nemeth-szilard-fidesz-kampany-balogh-levente-szentkiralyi-asvanyviz-video",
+      "article_id": "hvg_20260411_nemeth-szilard-fidesz-kampany-balogh-levente-szentkiralyi-asvanyviz-video"
     }
   },
   {
@@ -6147,6 +6248,26 @@
       "title": "„Az árulás nem teljesítmény” – Wáberer Györgynek üzent Orbán irodavezetője",
       "url": "https://hvg.hu/itthon/20260408_nagy-janos-allamtitkar-waberer-gyorgy-valasztas-uzenet",
       "article_id": "hvg_20260408_nagy-janos-allamtitkar-waberer-gyorgy-valasztas-uzenet"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:12.279550",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-az-orszag-helye-europaban-van-volt-lesz",
+      "article_id": "24hu__magyar-peter-debrecenben-az-orszag-helye-europaban-van-volt-lesz"
     }
   },
   {
@@ -9299,6 +9420,70 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak a Facebookon."
+      },
+      {
+        "name": "Zelenszkij",
+        "affiliation": "N/A",
+        "country": "Ukraine",
+        "role": "politician",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Zelenszkij megszólalt, de bárcsak ne tette volna."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Rubint Réka kimondta – ezért támogatja Orbán Viktort."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Viktor rendkívüli bejelentést tett."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "media"
+    ],
+    "summary": "Various individuals commented on the political situation and elections in Hungary.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Young G Béci's Message - Supporting a Peaceful, Secure Future",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-11T19:41:47+02:00",
+      "scraped_at": "2026-04-11T20:00:07.933088",
+      "title": "Young G Béci üzent – a békés, biztonságos jövőt támogatja - ORIGO",
+      "url": "https://www.origo.hu/itthon/2026/04/young-g-beci-bekes-biztonsagos-jovo-valasztas",
+      "article_id": "origo_young-g-beci-bekes-biztonsagos-jovo-valasztas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [],
     "topics": [
       "election",
@@ -10202,6 +10387,47 @@
       "title": "„Remélem, legalább olyan fáradtak, mint én” – nagyon szófogadó közönség előtt tartott kampánybeszédet Orbán Székesfehérváron",
       "url": "https://444.hu/2026/04/10/remelem-legalabb-olyan-faradtak-mint-en-nagyon-szofogado-kozonseg-elott-tartott-kampanybeszedet-orban-szekesfehervaron",
       "article_id": "444_remelem-legalabb-olyan-faradtak-mint-en-nagyon-szofogado-kozonseg-elott-tartott-kampanybeszedet-orban-szekesfehervaron"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Dúró Dóra",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dúró Dóra spoke at the Mi Hazánk Mozgalom campaign closing event in Budapest."
+      },
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Toroczkai László commented on the election and its significance."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Dúró Dóra and Toroczkai László discussed the importance of the upcoming elections in Hungary.",
+    "analysis_details": "No foreign individuals or observers were mentioned in the article.",
+    "title_eng": "Dúró Dóra: National Radicalism's Role in Parliament",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Krász Zsombor",
+      "published_at": "2026-04-11T17:11:13.000Z",
+      "scraped_at": "2026-04-11T20:00:06.448112",
+      "title": "Dúró Dóra szerint minden eddiginél nagyobb esély van arra, hogy a nemzeti radikalizmus megkerülhetetlen tényező legyen a parlamentben",
+      "url": "https://telex.hu/belfold/2026/04/11/mi-hazank-mozgalom-kampanyzaro-toroczkai-laszlo-duro-dora",
+      "article_id": "telex_mi-hazank-mozgalom-kampanyzaro-toroczkai-laszlo-duro-dora"
     }
   },
   {
@@ -13704,6 +13930,81 @@
     }
   },
   {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Tseber Roland",
+        "affiliation": "Unknown",
+        "country": "Ukraine",
+        "role": "suspected spy",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Mentioned as a suspected spy from Ukraine."
+      },
+      {
+        "name": "Zelenszkij",
+        "affiliation": "Ukrainian Government",
+        "country": "Ukraine",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ukrainian secret service documents indicate his involvement in influencing the Tisza Party."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz Party",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Quoted in a video stating 'we will win everywhere!'"
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Government",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Sent a message to Orbán Viktor regarding strengthening relations."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Public figure",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Described as misleading young people for power."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence",
+      "politics"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, highlighting foreign influence and domestic political dynamics.",
+    "analysis_details": "The presence of foreign individuals and their influence raises concerns about the integrity of the election process.",
+    "title_eng": "Tseber Activates: Hunting for Alleged Fidesz Traitors with Ukrainian Spy Friend",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Pilhál TamásMagyar Nemzet",
+      "published_at": "2026-04-11T19:34:31+02:00",
+      "scraped_at": "2026-04-11T20:00:35.073432",
+      "title": "Aktivizálta magát Tseber: vélt fideszes árulókra vadászik Magyar Péter ukrán kém barátja",
+      "url": "https://mandiner.hu/kulfold/2026/04/aktivizalta-magat-tseber-velt-fideszes-arulokra-vadaszik-magyar-peter-ukran-kem-baratja",
+      "article_id": "mandiner_aktivizalta-magat-tseber-velt-fideszes-arulokra-vadaszik-magyar-peter-ukran-kem-baratja"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -14849,6 +15150,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:12.617253",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-orban-viktor-levaltasa-csak-az-elso-lepes",
+      "article_id": "24hu__magyar-peter-debrecenben-orban-viktor-levaltasa-csak-az-elso-lepes"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Orbán Viktor",
@@ -14962,6 +15283,88 @@
       "title": "Utcai plakátharc: A fideszes túlsúly Magyar Péter politikai brandjét is felülmúlhatja",
       "url": "https://hvg.hu/itthon/20260410_utcai-plakatharc-fidesz-tulsuly-magyar-peter-politikai-brand",
       "article_id": "hvg_20260410_utcai-plakatharc-fidesz-tulsuly-magyar-peter-politikai-brand"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Government",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Robert Fico sent a message to Orbán Viktor regarding their countries' relationship."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor is mentioned as a key figure in the election."
+      },
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János spoke alongside Orbán Viktor."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter also spoke at the event with Orbán Viktor."
+      },
+      {
+        "name": "Máthé Zsuzsa",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Máthé Zsuzsa wrote about the election and the importance of understanding the situation."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Unknown",
+        "country": "Ukraine",
+        "role": "Alleged Spy",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter is mentioned in connection with alleged espionage activities."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The article discusses the upcoming elections in Hungary, mentioning key political figures and their roles.",
+    "analysis_details": "The article features both local and foreign individuals, with a focus on Hungarian political figures.",
+    "title_eng": "Last Moments: Analysts Declare Which Party is More Likely to Win the Election",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-11T19:23:38+02:00",
+      "scraped_at": "2026-04-11T20:00:36.047194",
+      "title": "„Itt senki nem lóbálja a heréjét, és senki nem akar kinyírni senkit!” – elkezdődött a Fidesz kampányzáró rendezvénye a Budai Várban",
+      "url": "https://mandiner.hu/belfold/2026/04/itt-senki-nem-lobalja-a-herejet-es-senki-nem-akar-kinyirni-senkit-elkezdodott-a-fidesz-kampanyzaro-rendezvenye-a-budai-varban",
+      "article_id": "mandiner_itt-senki-nem-lobalja-a-herejet-es-senki-nem-akar-kinyirni-senkit-elkezdodott-a-fidesz-kampanyzaro-rendezvenye-a-budai-varban"
     }
   },
   {
@@ -20322,6 +20725,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen, a stronghold of Fidesz.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:09.721487",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#tarkanyi-zsolt-debrecenben-holnap-levaltjuk-a-foldesurainkat",
+      "article_id": "24hu__tarkanyi-zsolt-debrecenben-holnap-levaltjuk-a-foldesurainkat"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Orbán Viktor",
@@ -20517,6 +20940,26 @@
       "title": "Magyar Péter attól tart, hogy balhékkal, bombariadókkal zavarhatják meg a választásokat",
       "url": "https://index.hu/belfold/2026/04/11/magyar-peter-tisza-part-miskolc-kampany-valasztas-2026-orban-viktor-csobor-katalin/",
       "article_id": "index_magyar-peter-tisza-part-miskolc-kampany-valasztas-2026-orban-viktor-csobor-katalin"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen, a stronghold of Fidesz.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:10.777089",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-uj-alkotmany-lesz-amit-nepszavazas-erosit-meg",
+      "article_id": "24hu__magyar-peter-debrecenben-uj-alkotmany-lesz-amit-nepszavazas-erosit-meg"
     }
   },
   {
@@ -21434,6 +21877,26 @@
       "title": "Fideszes jelölt a szegedi iroda előtti pénzezésről: Nem tilthatom meg, hogy egymásnak adjanak pénzt az aktivisták",
       "url": "https://444.hu/2026/04/11/fideszes-jelolt-a-szegedi-iroda-elotti-penzezesrol-nem-tilthatom-meg-hogy-egymasnak-adjanak-penzt-az-aktivistak",
       "article_id": "444_fideszes-jelolt-a-szegedi-iroda-elotti-penzezesrol-nem-tilthatom-meg-hogy-egymasnak-adjanak-penzt-az-aktivistak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:11.654876",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-nem-arra-kapott-felhatalmazast-orban-viktor-hogy-egy-orosz-babkormanyt-vezetve-uljon-bele-batthyany-lajos-szekebe",
+      "article_id": "24hu__magyar-peter-debrecenben-nem-arra-kapott-felhatalmazast-orban-viktor-hogy-egy-orosz-babkormanyt-vezetve-uljon-bele-batthyany-lajos-szekebe"
     }
   },
   {
@@ -23195,6 +23658,49 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "supporter",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Rubint Réka expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor shared his thoughts on Orbán Viktor via Facebook."
+      }
+    ],
+    "topics": [
+      "election",
+      "support",
+      "commentary"
+    ],
+    "summary": "Rubint Réka and Reviczky Gábor commented on their support for Orbán Viktor.",
+    "analysis_details": "No foreign individuals or accredited observers mentioned.",
+    "title_eng": "Rubint Réka Expresses Support for Orbán Viktor",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-11T19:49:46+02:00",
+      "scraped_at": "2026-04-11T20:00:07.714096",
+      "title": "Rubint Réka kimondta – ezért támogatja Orbán Viktort - ORIGO",
+      "url": "https://www.origo.hu/itthon/2026/04/rubint-reka-valasztas-beke-biztonsag-fidesz",
+      "article_id": "origo_rubint-reka-valasztas-beke-biztonsag-fidesz"
+    }
+  },
+  {
     "fake_observer_score": 80,
     "individuals": [
       {
@@ -24435,6 +24941,78 @@
       "title": "„Ha valaki túl sok hatalmat szerez, velem gyűlik meg a baja” – a Politico felidézte, hogyan lett illiberális vezető a fiatal Orbánból",
       "url": "https://hvg.hu/itthon/20260330_politico-orban-viktor-fidesz-vlagyimir-putyin-szelenyi-zsuzsanna-molnar-peter-silvio-berlusconi",
       "article_id": "hvg_20260330_politico-orban-viktor-fidesz-vlagyimir-putyin-szelenyi-zsuzsanna-molnar-peter-silvio-berlusconi"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dobrev Klára, a Demokratikus Koalíció elnöke, interjút adott az Indexnek."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nagy Dávid, a Magyar Kétfarkú Kutya Párt listavezetője, interjút adott az Indexnek."
+      },
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Toroczkai László, a Mi Hazánk Mozgalom elnöke, interjút adott az Indexnek."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor, miniszterelnök, interjút adott az Indexnek."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter nem fogadta el az Index meghívását."
+      }
+    ],
+    "topics": [
+      "election",
+      "party leaders",
+      "interviews"
+    ],
+    "summary": "The article discusses interviews with party leaders in Hungary regarding their expectations for the upcoming elections.",
+    "analysis_details": "All mentioned individuals are Hungarian party leaders, with no foreign observers or commentators present.",
+    "title_eng": "Predictions from Party Leaders on Election Night",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-11T19:15:00+02:00",
+      "scraped_at": "2026-04-11T20:00:03.539385",
+      "title": "Megjósolták a listavezetők, mit várnak a választás éjszakájától",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/11/valasztas-2026-orban-viktor-toroczkai-laszlo-dobrev-klara-nagy-david-mandatumbecsles/",
+      "article_id": "index_valasztas-2026-orban-viktor-toroczkai-laszlo-dobrev-klara-nagy-david-mandatumbecsles"
     }
   },
   {
@@ -27519,6 +28097,50 @@
       "title": "Magabiztosan vezet a Tisza az Iránytű Intézetnél is, egyre inkább kormányváltó hangulat uralkodik az országban",
       "url": "https://hvg.hu/itthon/20260408_iranytu-intezet-kozvelemeny-kutatas-tisza-part-fidesz",
       "article_id": "hvg_20260408_iranytu-intezet-kozvelemeny-kutatas-tisza-part-fidesz"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Michael Ignatieff",
+        "affiliation": "CEU",
+        "country": "Canada",
+        "role": "former rector",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Michael Ignatieff szerint a holnapi voksolás nemcsak hazai, hanem nemzetközi fordulópont is lehet."
+      },
+      {
+        "name": "Tseber",
+        "affiliation": "Tisza Sziget",
+        "country": "Ukraine",
+        "role": "activist",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Aktivizálta magát Tseber: vélt fideszes árulókra vadászik Magyar Péter ukrán kém barátja."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Foreign individuals are commenting on the upcoming elections in Hungary.",
+    "analysis_details": "Michael Ignatieff is an accredited observer, while Tseber's role is less clear.",
+    "title_eng": "Last Moments: Analysts Predict Which Party is More Likely to Win the Election",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Pilhál TamásMagyar Nemzet",
+      "published_at": "2026-04-11T19:06:54+02:00",
+      "scraped_at": "2026-04-11T20:00:32.709012",
+      "title": "Pilhál Tamás: Tiszások! Szatírt ünnepelni nem kell félnetek, jó lesz!",
+      "url": "https://mandiner.hu/belfold/2026/04/tiszasok-szatirt-unnepelni-nem-kell-felnetek-jo-lesz",
+      "article_id": "mandiner_tiszasok-szatirt-unnepelni-nem-kell-felnetek-jo-lesz"
     }
   },
   {
@@ -34149,6 +34771,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:13.342240",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-megvaltoztattuk-mirol-szol-a-politika",
+      "article_id": "24hu__magyar-peter-debrecenben-megvaltoztattuk-mirol-szol-a-politika"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Orbán Viktor",
@@ -35045,6 +35687,118 @@
       "title": "Budaházy György: A Mi Hazánk helyett egyéniben a Fidesz jelöltjére szavaznék",
       "url": "https://index.hu/belfold/2026/03/30/budahazy-gyorgy-valasztas-2026-fidesz-mi-hazank-egyeni-valasztokerulet-szavazat-podcast/",
       "article_id": "index_budahazy-gyorgy-valasztas-2026-fidesz-mi-hazank-egyeni-valasztokerulet-szavazat-podcast"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Construction and Transport",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János spoke at the campaign closing event."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs and Trade",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter delivered a speech at the event."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor gave a speech at the campaign closing event."
+      },
+      {
+        "name": "Rákay Philip",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Host",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rákay Philip hosted the campaign closing event."
+      },
+      {
+        "name": "Szikora Róbert",
+        "affiliation": "R-Go",
+        "country": "Hungary",
+        "role": "Performer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szikora Róbert performed at the event."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter was referenced in Szijjártó Péter's speech."
+      },
+      {
+        "name": "Szabó Zsófi",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Celebrity",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szabó Zsófi was mentioned as present at the event."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Performer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kis Grófo was mentioned as present at the event."
+      },
+      {
+        "name": "Hajdú Péter",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Celebrity",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hajdú Péter was mentioned as present at the event."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign",
+      "politics"
+    ],
+    "summary": "The Fidesz party held a campaign closing event in Budapest with several speakers and performers.",
+    "analysis_details": "All individuals mentioned are affiliated with the Fidesz party or are Hungarian celebrities, with no foreign observers present.",
+    "title_eng": "Fidesz Campaign Closing Event in Budapest",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-11T19:43:00+02:00",
+      "scraped_at": "2026-04-11T20:00:03.220267",
+      "title": "Orbán Viktor kampányzárója a budai Várban: Mindenhol győzni fogunk!",
+      "url": "https://index.hu/belfold/2026/04/11/fidesz-kampanyzaro-budapest-szentharomsag-ter-orban-viktor/",
+      "article_id": "index_fidesz-kampanyzaro-budapest-szentharomsag-ter-orban-viktor"
     }
   },
   {
@@ -37428,6 +38182,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen, a stronghold of Fidesz.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:13.560696",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-ket-eve-kinevettek-minket-ma-mar-nem-nevetnek",
+      "article_id": "24hu__magyar-peter-debrecenben-ket-eve-kinevettek-minket-ma-mar-nem-nevetnek"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Puzsér Róbert",
@@ -37983,6 +38757,204 @@
     "fake_observer_score": 60,
     "individuals": [
       {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "campaign chief",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Novák Előd reported on the media coverage of Mi Hazánk."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Orbán Viktor discussed the importance of the elections."
+      },
+      {
+        "name": "Ruszin-Szendi Romulusz",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Ruszin-Szendi Romulusz reported an incident involving activists."
+      },
+      {
+        "name": "Vitályos Eszter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "government spokesperson",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Vitályos Eszter addressed mothers regarding the elections."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign."
+      },
+      {
+        "name": "Wáberer György",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "former government commissioner",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Wáberer György offered a reward for reporting electoral fraud."
+      },
+      {
+        "name": "Orbán Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "political director",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Orbán Balázs discussed the importance of the elections."
+      },
+      {
+        "name": "Puzsér Róbert",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Puzsér Róbert commented on political resistance."
+      },
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Toroczkai László criticized the opposition."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "MKKP",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Nagy Dávid expressed confidence in the elections."
+      },
+      {
+        "name": "Kálmán Olga",
+        "affiliation": "DK",
+        "country": "Hungary",
+        "role": "MP",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Kálmán Olga emphasized the importance of participation."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "DK",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Dobrev Klára spoke about the stakes of the election."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "media personality",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Vujity Tvrtko reported voting from Miami."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "USA",
+        "country": "USA",
+        "role": "former President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Donald Trump expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Andrej Babiš",
+        "affiliation": "Czech Republic",
+        "country": "Czech Republic",
+        "role": "former Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Andrej Babiš expressed support for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "foreign_influence"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including local politicians and foreign figures expressing support.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections raises concerns about external influence.",
+    "title_eng": "Election Coverage and Foreign Influence in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-11T19:24:13+02:00",
+      "scraped_at": "2026-04-11T20:00:02.745158",
+      "title": "Letiltotta a Mi Hazánk közleményét az MTI, Novák Előd több médium ellen nyújtott be kifogást",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/novak-elod-mi-hazank-mti-kozlemeny-tiltas-fidesz-viszony-nmhh/",
+      "article_id": "index_novak-elod-mi-hazank-mti-kozlemeny-tiltas-fidesz-viszony-nmhh"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
         "name": "Donald Trump",
         "affiliation": "Former President of the USA",
         "country": "USA",
@@ -38252,6 +39224,26 @@
       "title": "Vance nem gondolja, hogy az USA beleavatkozna a magyar választásokba",
       "url": "https://444.hu/2026/04/08/vance-nem-gondolja-hogy-az-usa-beleavatkozna-a-magyar-valasztasokba",
       "article_id": "444_vance-nem-gondolja-hogy-az-usa-beleavatkozna-a-magyar-valasztasokba"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:11.245043",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-azonnal-vizsgalatot-inditunk-szijjarto-peter-ellen",
+      "article_id": "24hu__magyar-peter-debrecenben-azonnal-vizsgalatot-inditunk-szijjarto-peter-ellen"
     }
   },
   {
@@ -39390,6 +40382,82 @@
       "title": "Szijjártó reagált a francia külügyminiszter árulózására és kiakadt Zelenszkijre",
       "url": "https://444.hu/2026/04/09/szijjarto-reagalt-a-francia-kulugyminiszter-arulozasara-es-kiakadt-zelenszkijre",
       "article_id": "444_szijjarto-reagalt-a-francia-kulugyminiszter-arulozasara-es-kiakadt-zelenszkijre"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Tisza Párt Delegált",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "observer",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "A Tisza Párt delegáltjai a párttól értesültek a bizottság döntéséről."
+      },
+      {
+        "name": "Fidesz Delegált",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "observer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "A Fidesz megfigyelői közül is többeket visszautasítottak."
+      },
+      {
+        "name": "Demokratikus Koalíció Delegált",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "observer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Demokratikus Koalíció 1-ből 1 megfigyelőt delegált."
+      },
+      {
+        "name": "Magyar Kétfarkú Kutya Párt Delegált",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "observer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Magyar Kétfarkú Kutya Párt 10-ből 10 megfigyelőt delegált."
+      },
+      {
+        "name": "Mi Hazánk Delegált",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "observer",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Mi Hazánk 8-ból 8 megfigyelőt delegált."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers"
+    ],
+    "summary": "A külképviseleti megfigyelők listája a pártok által delegált személyekről.",
+    "analysis_details": "A Tisza Párt delegáltjai közül sokan elutasítást kaptak, míg a Fidesz és más kisebb pártok delegáltjai sikeresen átmentek.",
+    "title_eng": "List of Foreign Election Observers Delegated by Parties",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Patakfalvi Dóra",
+      "published_at": "2026-04-11T17:45:37.000Z",
+      "scraped_at": "2026-04-11T20:00:06.147237",
+      "title": "Londonban nem lesz tiszás külképviseleti megfigyelő, de fideszes és mi hazánkos kettő is",
+      "url": "https://telex.hu/belfold/2026/04/11/kulkepviseleti-megfigyelok-london-munchen-berlin-fidesz-tisza-ellenzek-nvb",
+      "article_id": "telex_kulkepviseleti-megfigyelok-london-munchen-berlin-fidesz-tisza-ellenzek-nvb"
     }
   },
   {
@@ -40893,6 +41961,48 @@
     }
   },
   {
+    "fake_observer_score": 10,
+    "individuals": [
+      {
+        "name": "Robert Fico",
+        "affiliation": "Government of Slovakia",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico commented on the Hungarian elections on X."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Government of Hungary",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor is the Prime Minister of Hungary."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Robert Fico expresses support for Orbán Viktor in the Hungarian elections.",
+    "analysis_details": "Fico's comments indicate foreign interest in the election.",
+    "title_eng": "Fico: I wish Viktor all the best in the elections",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kerner Zsolt",
+      "published_at": "2026-04-11T19:31:40+02:00",
+      "scraped_at": "2026-04-11T20:00:11.445476",
+      "title": "Fico: Kívánom, hogy Viktor minden politikai célja megvalósuljon a választásokon | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/robert-fico-orban-valasztas/",
+      "article_id": "24hu_robert-fico-orban-valasztas"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -41408,6 +42518,26 @@
       "title": "Deák Dániel: A Medián egy 1,5 millió eurós üzletért cserébe méri felül a Tisza Pártot",
       "url": "https://index.hu/belfold/2026/04/10/deak-daniel-tisza-part-magyar-peter-kozvelemeny-kutatas-median-hann-endre/",
       "article_id": "index_deak-daniel-tisza-part-magyar-peter-kozvelemeny-kutatas-median-hann-endre"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:10.143836",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-aki-kozpenzt-elemel-szabo-bencekkel-es-palinkas-szazadosokkal-talalja-magat-szembe",
+      "article_id": "24hu__magyar-peter-debrecenben-aki-kozpenzt-elemel-szabo-bencekkel-es-palinkas-szazadosokkal-talalja-magat-szembe"
     }
   },
   {
@@ -48046,6 +49176,81 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "JD Vance",
+        "affiliation": "U.S. Government",
+        "country": "USA",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "JD Vance megüzente Iránnak, súlyos következményekkel számolhatnak, ha..."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "U.S. Government",
+        "country": "USA",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "Donald Trump nem tűr halasztást: Iránnal vagy nélküle, de megnyílik a Hormuzi-szoros"
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "Dutch Government",
+        "country": "Netherlands",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "Mark Rutte beszámolója szerint Trump elégedetlenségének adott hangot a NATO több európai tagállamával szemben."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Government",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "Robert Fico váratlan üzenetet küldött Orbán Viktornak: ezt mindenkinek látnia kell."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor: mindenhol győzni fogunk!"
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders are commenting on the upcoming elections and geopolitical tensions.",
+    "analysis_details": "Multiple foreign officials are involved in discussions related to the elections.",
+    "title_eng": "Geopolitical Tensions and Upcoming Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Pilhál TamásMagyar Nemzet",
+      "published_at": "2026-04-11T19:40:34+02:00",
+      "scraped_at": "2026-04-11T20:00:33.888401",
+      "title": "Kiderült, mekkora károkat okozott az iráni háború a kőolaj- és földgázkínálatban",
+      "url": "https://mandiner.hu/kulfold/2026/04/kiderult-mekkora-karokat-okozott-az-irani-haboru-a-koolaj-es-foldgazkinalatban",
+      "article_id": "mandiner_kiderult-mekkora-karokat-okozott-az-irani-haboru-a-koolaj-es-foldgazkinalatban"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Szijjártó Péter",
         "affiliation": "Hungarian Government",
         "country": "Hungary",
@@ -51581,6 +52786,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:13.068488",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-mara-egy-a-nemzet-egy-a-zaszlo",
+      "article_id": "24hu__magyar-peter-debrecenben-mara-egy-a-nemzet-egy-a-zaszlo"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Márta",
@@ -53130,6 +54355,26 @@
       "election",
       "campaign"
     ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:12.850630",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#ha-mar-itt-vannak-nem-lehet-elkuldeni-oket-debreceniek-az-akkumulatorgyarakrol",
+      "article_id": "24hu__ha-mar-itt-vannak-nem-lehet-elkuldeni-oket-debreceniek-az-akkumulatorgyarakrol"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
     "summary": "The Democratic Coalition is holding a campaign closing event in a small village in Baranya County.",
     "analysis_details": "No foreign individuals or observers mentioned.",
     "title_eng": "The DK Holds a National Campaign Closing Event in a Small Village",
@@ -53557,6 +54802,82 @@
       "title": "Vízválság és politikai csatatér: a szegedi körzetben dőlhet el a választás egyik kulcskérdése",
       "url": "https://index.hu/belfold/2026/04/06/valasztas-billego-merlegnyelve-kampany-tisza-fidesz-mi-hazank-eredmenyek-2026/",
       "article_id": "index_valasztas-billego-merlegnyelve-kampany-tisza-fidesz-mi-hazank-eredmenyek-2026"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "John McLaughlin",
+        "affiliation": "McLaughlin & Associates",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "John McLaughlin, a pollster for Donald Trump, commented on the Hungarian elections."
+      },
+      {
+        "name": "J. D. Vance",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "J. D. Vance's visit to Budapest was mentioned as a significant event during the polling."
+      },
+      {
+        "name": "László Toroczkai",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "László Toroczkai is mentioned as the leader of the Mi Hazánk party."
+      },
+      {
+        "name": "Péter Magyar",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Péter Magyar is referenced in relation to the energy plans that leaked from his party."
+      },
+      {
+        "name": "Viktor Orbán",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Viktor Orbán is mentioned as the leader of the Fidesz party."
+      }
+    ],
+    "topics": [
+      "election",
+      "polling",
+      "politics"
+    ],
+    "summary": "John McLaughlin discusses the sensitive nature of the Hungarian election campaign and the potential outcomes.",
+    "analysis_details": "The article features foreign individuals commenting on the Hungarian elections, with a focus on polling and political dynamics.",
+    "title_eng": "John McLaughlin Discusses Possible Outcomes of the Hungarian Elections",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-11T19:18:00+02:00",
+      "scraped_at": "2026-04-11T20:00:03.910952",
+      "title": "A választások lehetséges eredményeiről beszélt Donald Trump kutatója, így nyerhetnek a kormánypártok",
+      "url": "https://index.hu/belfold/2026/04/11/john-mclaughin-kozvelemeny-kutatas-donald-trump-fidesz-tisza-part-felmeres-interju-valasztas-2026/",
+      "article_id": "index_john-mclaughin-kozvelemeny-kutatas-donald-trump-fidesz-tisza-part-felmeres-interju-valasztas-2026"
     }
   },
   {
@@ -56034,6 +57355,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:13.793696",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#magyar-peter-debrecenben-az-elso-ciklusban-felujitjuk-a-nagyallomast",
+      "article_id": "24hu__magyar-peter-debrecenben-az-elso-ciklusban-felujitjuk-a-nagyallomast"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Viktor Orbán",
@@ -57218,6 +58559,26 @@
       "title": "Toroczkai László: Ma már kiderült, hogy hazudott Magyar Péter",
       "url": "https://telex.hu/belfold/2026/04/10/egyenes-beszed-toroczkai-laszlo-mi-hazank-dobrev-klara-dk-nagy-david-mkkp",
       "article_id": "telex_egyenes-beszed-toroczkai-laszlo-mi-hazank-dobrev-klara-dk-nagy-david-mkkp"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "The leader of Tisza holds a campaign closing speech in Debrecen.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Campaign Closing Speech in Debrecen",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Molnár Dávid, Ősze András, Kerner Zsolt",
+      "published_at": "2026-04-11T17:33:32+02:00",
+      "scraped_at": "2026-04-11T20:00:09.015940",
+      "title": "Magyar Péter Debrecenben: Orbán Viktor leváltása csak az első lépés | 24.hu",
+      "url": "https://24.hu/kozelet/2026/04/11/magyar-peter-debrecen-szombat-beszed-kampanyzaro/#csak-laszlo-decemberben-egy-olyan-orszagot-fogunk-epiteni-ahol-mindenki-elmondhatja-a-velemenyet-felelem-es-negativ-kovetkezmenyek-nelkul",
+      "article_id": "24hu__csak-laszlo-decemberben-egy-olyan-orszagot-fogunk-epiteni-ahol-mindenki-elmondhatja-a-velemenyet-felelem-es-negativ-kovetkezmenyek-nelkul"
     }
   },
   {
