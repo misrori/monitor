@@ -58256,6 +58256,133 @@
     }
   },
   {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "John McLaughlin",
+        "affiliation": "Donald Trump Campaign",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "John McLaughlin, Donald Trump's pollster, commented on the sensitive Hungarian election campaign."
+      },
+      {
+        "name": "Aleksandar Vučić",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Aleksandar Vučić expressed support for Orbán Viktor in the Hungarian elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Prime Minister of Slovakia",
+        "country": "Slovakia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico stated he supports Orbán Viktor and will follow the elections from Vietnam."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "Mentalist",
+        "country": "Unknown",
+        "role": "media personality",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election results."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "Media Personality",
+        "country": "USA",
+        "role": "media commentator",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Vujity Tvrtko announced he voted in Miami before the polls opened in Hungary."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Musician",
+        "country": "Unknown",
+        "role": "media supporter",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "Political Analyst",
+        "country": "Hungary",
+        "role": "analyst",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign on social media."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Nagy Dávid discussed the party's expectations for the elections."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Dobrev Klára emphasized the importance of the election in her speech."
+      },
+      {
+        "name": "Varga Judit",
+        "affiliation": "Former Minister of Justice",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Varga Judit expressed her voting intentions on social media."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence",
+      "media commentary"
+    ],
+    "summary": "The article discusses various individuals, both foreign and domestic, who commented on the Hungarian elections, highlighting their influence and perspectives.",
+    "analysis_details": "Several foreign politicians and media figures expressed their views on the Hungarian elections, indicating a level of foreign interest and influence.",
+    "title_eng": "Comments on the Possible Outcomes of the Elections",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-12T04:39:06+02:00",
+      "scraped_at": "2026-04-12T05:00:03.359078",
+      "title": "A választások lehetséges eredményeiről beszélt Donald Trump kutatója, így nyerhetnek a kormánypártok",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/a-valasztasok-lehetseges-eredmenyeirol-beszelt-donald-trump-kutatoja-igy-nyerhetnek-a-kormanypartok/",
+      "article_id": "index_a-valasztasok-lehetseges-eredmenyeirol-beszelt-donald-trump-kutatoja-igy-nyerhetnek-a-kormanypartok"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
