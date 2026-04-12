@@ -455,6 +455,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:16.962297",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#a-nemet-kancellar-es-a-nato-fotitkar-is-gratulalt-magyarnak",
+      "article_id": "24hu__a-nemet-kancellar-es-a-nato-fotitkar-is-gratulalt-magyarnak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Pulai András",
@@ -3058,6 +3078,59 @@
     }
   },
   {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary."
+      },
+      {
+        "name": "Viktor Orbán",
+        "affiliation": "Fidesz Party",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán congratulated Magyar Péter on election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections.",
+    "analysis_details": "The presence of foreign leaders indicates potential influence on the election narrative.",
+    "title_eng": "Election Results and Reactions in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:16:40+02:00",
+      "scraped_at": "2026-04-12T22:00:29.449203",
+      "title": "Magyar Péter 50 százalékos feldolgozottság mellett nagy előnnyel vezet Budapest 3. számú választókerületében",
+      "url": "https://mandiner.hu/belfold/2026/04/budapest-magyar-peter-valasztas",
+      "article_id": "mandiner_budapest-magyar-peter-valasztas"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -4773,6 +4846,59 @@
       "title": "95-ös benzin piaci ár: 696,1 Ft, védett ár: 595 Ft, eltérés: -101,1 Ft / Gázolaj piaci ár: 809,3 Ft, védett ár: 615 Ft, eltérés: -194,3 Ft - ORIGO",
       "url": "https://www.origo.hu/belpol/2026/03/benzin-piaci-ar-vedett-ar-elteres-gazolaj-piaci-ar-vede",
       "article_id": "origo_benzin-piaci-ar-vedett-ar-elteres-gazolaj-piaci-ar-vede"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Joel Suss",
+        "affiliation": "Financial Times",
+        "country": "UK",
+        "role": "data journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Joel Suss a brit lap adatújságírója."
+      },
+      {
+        "name": "Vladimir Putin",
+        "affiliation": "Government of Russia",
+        "country": "Russia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Putyin orosz is kiállt a miniszterelnök mellett."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "Former President of the USA",
+        "country": "USA",
+        "role": "Former President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Trump amerikai is kiállt a miniszterelnök mellett."
+      }
+    ],
+    "topics": [
+      "economy",
+      "politics",
+      "elections"
+    ],
+    "summary": "The article discusses the economic policies of Viktor Orbán and mentions foreign figures supporting him.",
+    "analysis_details": "The article highlights the influence of foreign leaders and a foreign journalist's perspective on Hungary's economic situation.",
+    "title_eng": "Analysis of Orbán's Economic Policies",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T19:21:22.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.240149",
+      "title": "Financial Times-elemzés: Orbán gazdaságpolitikája megbukott, kiosztották a bizonyítványt a választók",
+      "url": "https://hvg.hu/gazdasag/20260412_valasztas-2026-financial-times-elemzes-orban-gazdasagpolitikaja-megbukott",
+      "article_id": "hvg_20260412_valasztas-2026-financial-times-elemzes-orban-gazdasagpolitikaja-megbukott"
     }
   },
   {
@@ -9000,6 +9126,63 @@
       "title": "Sorra nyílnak a külképviseleti szavazókörök a Közel-Keleten és a balkáni országokban",
       "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/sorra-nyilnak-a-kulkepviseleti-szavazokorok-a-kozel-keleten-es-a-balkani-orszagokban/",
       "article_id": "index_sorra-nyilnak-a-kulkepviseleti-szavazokorok-a-kozel-keleten-es-a-balkani-orszagokban"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Bartosz Węglarczyk",
+        "affiliation": "Onet",
+        "country": "Poland",
+        "role": "editor-in-chief",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Bartosz Węglarczyk, the editor-in-chief of Onet, commented on JD Vance's visit."
+      },
+      {
+        "name": "JD Vance",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "JD Vance's visit to Budapest was discussed as unprecedented for an American vice president."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "former president",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Donald Trump was mentioned in relation to JD Vance's campaign efforts."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence",
+      "media commentary"
+    ],
+    "summary": "The article discusses the implications of foreign political figures on Hungarian elections.",
+    "analysis_details": "Foreign media commentators are analyzing the impact of American political figures on local elections.",
+    "title_eng": "Polish Journalist: What We See in Hungary Now May Happen in Poland and France Next Year",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T18:59:27.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.541270",
+      "title": "Lengyel újságíró: Magyarországon azt nézzük most, ami jövőre Lengyelországban és Franciaországban is történhet",
+      "url": "https://hvg.hu/itthon/20260412_lengyel-ujsagiro-jd-vance-nem-volt-tul-nagy-segitseg",
+      "article_id": "hvg_20260412_lengyel-ujsagiro-jd-vance-nem-volt-tul-nagy-segitseg"
     }
   },
   {
@@ -17272,6 +17455,198 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor gratulated the Tisza Party's victory."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter posted on Facebook about the victory."
+      },
+      {
+        "name": "Balla Mihály",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Balla Mihály is expected to retain his mandate."
+      },
+      {
+        "name": "Gyopáros Alpár",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gyopáros Alpár is expected to retain his mandate."
+      },
+      {
+        "name": "V. Németh Zsolt",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "V. Németh Zsolt is expected to retain his mandate."
+      },
+      {
+        "name": "Tuzson Bence",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Justice",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Tuzson Bence may lose his seat in Parliament."
+      },
+      {
+        "name": "Vitályos Eszter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Government Spokesperson",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vitályos Eszter may lose her seat in Parliament."
+      },
+      {
+        "name": "Tállai András",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Tállai András may lose his seat in Parliament."
+      },
+      {
+        "name": "Cseh Tamás",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Cseh Tamás is in a tight race against Süli János."
+      },
+      {
+        "name": "Süli János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Süli János is in a tight race against Cseh Tamás."
+      },
+      {
+        "name": "Barna-Szabó Tímea",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Barna-Szabó Tímea is competing against Simon Miklós."
+      },
+      {
+        "name": "Simon Miklós",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Incumbent MP",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Simon Miklós is competing against Barna-Szabó Tímea."
+      },
+      {
+        "name": "Navracsics Tibor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Navracsics Tibor congratulated his opponent."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos is in third place in his district."
+      },
+      {
+        "name": "Velkey György László",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Velkey György László is ahead of Hadházy Ákos."
+      },
+      {
+        "name": "Radics Béla",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Radics Béla is ahead of Hadházy Ákos."
+      },
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Toroczkai László's party is currently at 6%."
+      }
+    ],
+    "topics": [
+      "election",
+      "results",
+      "candidates"
+    ],
+    "summary": "The Tisza Party leads significantly in the election results.",
+    "analysis_details": "The article discusses various candidates and their standings in the election.",
+    "title_eng": "Key Election Results Summarized",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Cseke Balázs",
+      "published_at": "2026-04-12T19:42:38.000Z",
+      "scraped_at": "2026-04-12T22:00:13.013698",
+      "title": "A legfontosabb választási eredmények röviden, egy helyen",
+      "url": "https://telex.hu/belfold/2026/04/12/orszaggyulesi-valasztas-eredmenyek-fidesz-tisza-part-orban-viktor-magyar-peter",
+      "article_id": "telex_orszaggyulesi-valasztas-eredmenyek-fidesz-tisza-part-orban-viktor-magyar-peter"
+    }
+  },
+  {
     "fake_observer_score": 80,
     "individuals": [
       {
@@ -17645,6 +18020,49 @@
     }
   },
   {
+    "fake_observer_score": 70,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Ukrainian Intelligence Services",
+        "affiliation": "Ukrainian Government",
+        "country": "Ukraine",
+        "role": "interfering entity",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Reports indicate that Ukrainian intelligence services intervened in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections, with allegations of foreign interference.",
+    "analysis_details": "The presence of foreign individuals and entities raises concerns about the integrity of the election process.",
+    "title_eng": "Macron Congratulates Magyar Péter",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:46:32+02:00",
+      "scraped_at": "2026-04-12T22:00:25.662969",
+      "title": "Ursula von der Leyen azonnal üzent Magyarországra",
+      "url": "https://mandiner.hu/belfold/2026/04/ursula-von-der-leyen-azonnal-uzent-magyarorszagra",
+      "article_id": "mandiner_ursula-von-der-leyen-azonnal-uzent-magyarorszagra"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [],
@@ -17949,6 +18367,175 @@
       "title": "Rendszerváltók, értelmiségiek mesélik el, hogyan jutottunk idáig kilenc választás után",
       "url": "https://index.hu/belfold/2026/04/08/valasztas-2026-dokumentumfilm-kozter-elemzes-orban-viktor-magyar-peter-kampany/",
       "article_id": "index_valasztas-2026-dokumentumfilm-kozter-elemzes-orban-viktor-magyar-peter-kampany"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos only placed third in the election results."
+      },
+      {
+        "name": "Velkey György László",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Velkey György László received 52.54 percent of the votes."
+      },
+      {
+        "name": "Radics Béla",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Radics Béla received 25.29 percent of the votes."
+      },
+      {
+        "name": "Pércsi Viktória",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Pércsi Viktória received 4.55 percent of the votes."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nagy Dávid received 1.19 percent of the votes."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Lutheran Pastor",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Iványi Gábor commented on the election participation."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "Germany",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on the victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO",
+        "country": "Netherlands",
+        "role": "Secretary General",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on the victory."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "France",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on the victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "European People's Party",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on the victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on their decision."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Mayor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Párt on their victory."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "Political Coordinator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs commented on the election results."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Második Reformkor Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "foreign_influence"
+    ],
+    "summary": "The article discusses the results of the Hungarian elections and various individuals' reactions.",
+    "analysis_details": "The article features both local and foreign individuals commenting on the election results.",
+    "title_eng": "Hadházy Ákos's Significant Loss in Zugló",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:06.874632",
+      "title": "Óriásit bukott Hadházy Ákos Zuglóban",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/oriasit-bukott-hadhazy-akos-zugloban/",
+      "article_id": "index_oriasit-bukott-hadhazy-akos-zugloban"
     }
   },
   {
@@ -18295,6 +18882,153 @@
       "title": "Török Gábor leírta, mire számít Sulyok Tamástól, ha a Tisza nyeri a választást",
       "url": "https://hvg.hu/itthon/20260411_torok-gabor-leirta-mire-szamit-sulyok-tamastol-ha-a-tisza-nyeri-a-valasztast",
       "article_id": "hvg_20260411_torok-gabor-leirta-mire-szamit-sulyok-tamastol-ha-a-tisza-nyeri-a-valasztast"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "evangelical pastor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Iványi Gábor appeared at the Democratic Coalition's center and shared his thoughts on voter participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "Chancellor of Germany",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on their victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO Secretary General",
+        "country": "Netherlands",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on their victory."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "President of France",
+        "country": "France",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on their victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "President of the European People's Party",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on their victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "Vice President of the European Parliament",
+        "country": "Romania",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on social media."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Mayor of Budapest",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "political coordinator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs spoke to the media about the election results."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Második Reformkor Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      },
+      {
+        "name": "Majka",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "media personality",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Majka reacted strongly to the election results on social media."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra expressed optimism during the election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "international relations"
+    ],
+    "summary": "The article discusses the reactions and comments from various political figures regarding the recent Hungarian elections.",
+    "analysis_details": "The presence of both local and foreign politicians commenting on the election results indicates a significant interest in the political landscape of Hungary.",
+    "title_eng": "Unexpected Turn in Budapest's Night: Reactions to the Election Results",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:03.276956",
+      "title": "Iványi Gábor: Egy népet nem lehet akarata ellenére kormányozni",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/ivanyi-gabor-egy-nepet-nem-lehet-akarata-ellenere-kormanyozni/",
+      "article_id": "index_ivanyi-gabor-egy-nepet-nem-lehet-akarata-ellenere-kormanyozni"
     }
   },
   {
@@ -19181,6 +19915,26 @@
       "title": "PC-elemzés: Más kémmozit néz a Fidesz- és a Tisza-tábor | 24.hu",
       "url": "https://24.hu/kozelet/2026/04/10/pc-elemzes-valasztasi-csalas-befolyas/",
       "article_id": "24hu_pc-elemzes-valasztasi-csalas-befolyas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:20.893570",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#unneples-hangja-hallatszik-a-tavolban-a-fidesz-eredmenyvaron",
+      "article_id": "24hu__unneples-hangja-hallatszik-a-tavolban-a-fidesz-eredmenyvaron"
     }
   },
   {
@@ -20215,6 +20969,47 @@
       "title": "Történelmi lehet a választás napja – rekordrészvétel az első órákban - ORIGO",
       "url": "https://www.origo.hu/belpol/2026/04/valasztas-napja-rekordreszvetel-az-elso-orakban",
       "article_id": "origo_valasztas-napja-rekordreszvetel-az-elso-orakban"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke after the election results."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter on the election victory."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor addressed the election results and congratulated the winning party.",
+    "analysis_details": "No foreign observers or commentators were mentioned in the article.",
+    "title_eng": "Orbán Viktor: The Election Results are Painful",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "Lőrincz Tamás",
+      "published_at": "2026-04-12T19:15:41.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.394957",
+      "title": "Orbán Viktor: A választási eredmény fájdalmas",
+      "url": "https://hvg.hu/itthon/20260412_orban-viktor-valasztas-ketharmad-tisza-part-magyar-peter",
+      "article_id": "hvg_20260412_orban-viktor-valasztas-ketharmad-tisza-part-magyar-peter"
     }
   },
   {
@@ -22032,6 +22827,61 @@
       "title": "24/7: Fordított szilveszter, megszülető család – három választási éjszaka | 24.hu",
       "url": "https://24.hu/belfold/2026/04/11/24per7-valasztasi-ejszaka-nagykoncert/",
       "article_id": "24hu_24per7-valasztasi-ejszaka-nagykoncert"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary."
+      },
+      {
+        "name": "Ukrainian Intelligence Services",
+        "affiliation": "Ukrainian Government",
+        "country": "Ukraine",
+        "role": "Intelligence Agency",
+        "tags": [
+          "foreign",
+          "observer",
+          "unknown_affiliation"
+        ],
+        "evidence": "Ukrainian intelligence services intervened in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections, with allegations of foreign interference.",
+    "analysis_details": "Comments from foreign officials and claims of interference from Ukrainian intelligence.",
+    "title_eng": "Foreign Reactions to Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:33:46+02:00",
+      "scraped_at": "2026-04-12T22:00:27.487753",
+      "title": "Orbán Viktor: „A kormányzás lehetőségét és felelősségét nem nekünk adták, a győztes pártnak gratuláltam”",
+      "url": "https://mandiner.hu/belfold/2026/04/orban-viktor-a-kormanyzas-lehetoseget-es-felelosseget-nem-nekunk-adtak-a-gyoztes-partnak-gratulaltam",
+      "article_id": "mandiner_orban-viktor-a-kormanyzas-lehetoseget-es-felelosseget-nem-nekunk-adtak-a-gyoztes-partnak-gratulaltam"
     }
   },
   {
@@ -27511,6 +28361,90 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor congratulated the winner and addressed the public after the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor acknowledged the defeat of Fidesz and emphasized the importance of continuing to serve the nation.",
+    "analysis_details": "The article primarily discusses the election results and the response from the Prime Minister without mentioning any foreign observers or commentators.",
+    "title_eng": "Orbán Viktor Acknowledges Fidesz Defeat but Will Continue",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Németh Márton Sándor",
+      "published_at": "2026-04-12T21:24:00+02:00",
+      "scraped_at": "2026-04-12T22:00:10.203105",
+      "title": "Orbán Viktor elismerte a Fidesz vereségét, de folytatja",
+      "url": "https://index.hu/belfold/2026/04/12/orban-viktor-fidesz-kdnp-valasztas-2026-orszaggyulesi-valasztasok-magyar-peter-tisza-part/",
+      "article_id": "index_orban-viktor-fidesz-kdnp-valasztas-2026-orszaggyulesi-valasztasok-magyar-peter-tisza-part"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary following the elections."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter on the election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the recent elections in Hungary, indicating potential international implications.",
+    "analysis_details": "The presence of foreign leaders' comments suggests a level of international interest and potential influence in the Hungarian elections.",
+    "title_eng": "Election Results and Foreign Reactions in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Lentulai KrisztiánFacebook",
+      "published_at": "2026-04-12T21:58:52+02:00",
+      "scraped_at": "2026-04-12T22:00:23.722520",
+      "title": "Lentulai Krisztián: Az egyetlen ember, aki ‘22-ben és ‘26-ban is bulizhatott",
+      "url": "https://mandiner.hu/belfold/2026/04/az-egyetlen-ember-aki-22-ben-es-26-ban-is-bulizhatott",
+      "article_id": "mandiner_az-egyetlen-ember-aki-22-ben-es-26-ban-is-bulizhatott"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Török Gábor",
         "affiliation": "unknown",
         "country": "Hungary",
@@ -28626,6 +29560,47 @@
       "title": "Még be sem fejeződött a szavazás, de már ég a ház Magyar Péteréknél – felháborító adatokat mutattak be",
       "url": "https://mandiner.hu/belfold/2026/04/meg-be-sem-fejezodott-a-szavazas-de-mar-eg-a-haz-magyar-petereknel-felhaborito-adatokat-mutattak-be",
       "article_id": "mandiner_meg-be-sem-fejezodott-a-szavazas-de-mar-eg-a-haz-magyar-petereknel-felhaborito-adatokat-mutattak-be"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Government of Hungary",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor miniszterelnök úr telefonon gratulált a győzelmünkhöz."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "A Tisza Párt elnöke a Facebookon jelentette be a hírt."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor congratulated Magyar Péter on the election victory.",
+    "analysis_details": "No foreign observers or commentators mentioned.",
+    "title_eng": "Orbán Viktor Congratulated Magyar Péter on the Victory",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T19:21:05.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.839994",
+      "title": "Orbán Viktor gratulált Magyar Péternek a győzelemhez",
+      "url": "https://hvg.hu/itthon/20260412_orban-viktor-gratulalt-magyar-peternek-a-gyozelemhez",
+      "article_id": "hvg_20260412_orban-viktor-gratulalt-magyar-peternek-a-gyozelemhez"
     }
   },
   {
@@ -30154,6 +31129,48 @@
       "title": "Hegedűs Dániel: Közvetlenül a választások előtt is történhet olyan, amire a Tisza és a külföld már aligha lesz képes jól reagálni",
       "url": "https://hvg.hu/360/20260408_welt-hegedus-daniel-valasztas-2026-fidesz-tisza",
       "article_id": "hvg_20260408_welt-hegedus-daniel-valasztas-2026-fidesz-tisza"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter on the victory."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor expressed his wishes for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor congratulated Magyar Péter on his victory, while Reviczky Gábor commented on the situation.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Orbán Viktor Congratulated Magyar Péter on the Victory at Tisza",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T21:43:00+02:00",
+      "scraped_at": "2026-04-12T22:00:15.855087",
+      "title": "Orbán Viktor gratulált Magyar Péternek a Tisza győzelméhez - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-gratulalt-magyar-peternek-a-tisza-gyozelmehez",
+      "article_id": "origo_orban-viktor-gratulalt-magyar-peternek-a-tisza-gyozelmehez"
     }
   },
   {
@@ -38093,6 +39110,317 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Toroczkai László is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "independent",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Menczer Tamás",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Menczer Tamás is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Tállai András",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Tállai András is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Csézi Erzsébet",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Csézi Erzsébet is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Szajlai János",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szajlai János is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Sermer Ádám",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sermer Ádám is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Kováts Gábor",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kováts Gábor is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Gönczi György",
+        "affiliation": "Jobbik",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gönczi György is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Forgács Valter Zsolt",
+        "affiliation": "Szolidaritás–Munkáspárt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Forgács Valter Zsolt is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Gajda Attila",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gajda Attila is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Mihálffy Béla",
+        "affiliation": "Fidesz–KNDP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Mihálffy Béla is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Dr. Ferenczi Gábor",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dr. Ferenczi Gábor is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Czirbus Gábor",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Czirbus Gábor is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Veres Csaba",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Veres Csaba is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Mucsi Tamás",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Mucsi Tamás is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Pál Anna Viktória",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Pál Anna Viktória is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Leitner Szilárd",
+        "affiliation": "independent",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Leitner Szilárd is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Ottlokán Radován",
+        "affiliation": "Jobbik",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Ottlokán Radován is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Hegyi Adrián",
+        "affiliation": "Szolidaritás–Munkáspárt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hegyi Adrián is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Bujdosó Andrea Anna",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Bujdosó Andrea Anna is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Dr. Borvendég Zsuzsanna",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dr. Borvendég Zsuzsanna is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Fodor Bettina",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Fodor Bettina is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Vasvári Péter Lajos",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vasvári Péter Lajos is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Deák Balázs",
+        "affiliation": "Jobbik",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Deák Balázs is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Jeckel Nikoletta",
+        "affiliation": "Szolidaritás–Munkáspárt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Jeckel Nikoletta is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Velkey György László",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Velkey György László is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Radics Béla",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Radics Béla is mentioned as a candidate in the elections."
+      },
+      {
+        "name": "Dr. Komáromi Zoltán",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dr. Komáromi Zoltán is mentioned as a candidate in the elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "politicians"
+    ],
+    "summary": "The article discusses the current standings of various politicians in the Hungarian elections.",
+    "analysis_details": "All individuals mentioned are Hungarian politicians participating in the elections.",
+    "title_eng": "Several Well-Known Politicians Face Significant Deficits in Their Electoral Districts",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-12T21:42:00+02:00",
+      "scraped_at": "2026-04-12T22:00:11.006662",
+      "title": "Több ismert politikus is hatalmas vereséget szenvedett, Hadházy Ákos mindössze a harmadik",
+      "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-lazar-janos-menczer-tamas-hadhazy-akos-toroczkai-laszlo-csezi-erzsebet/",
+      "article_id": "index_valasztas-2026-lazar-janos-menczer-tamas-hadhazy-akos-toroczkai-laszlo-csezi-erzsebet"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -38844,6 +40172,26 @@
       "title": "Játék: teszteld a tudásodat, és legyél a következő miniszterelnök! | 24.hu",
       "url": "https://24.hu/belfold/2026/03/25/orszagjaras-kozeleti-kvizjatek/",
       "article_id": "24hu_orszagjaras-kozeleti-kvizjatek"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:19.404468",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#az-ingaban-is-kitoro-az-orom",
+      "article_id": "24hu__az-ingaban-is-kitoro-az-orom"
     }
   },
   {
@@ -40118,6 +41466,57 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Dobrev Klára",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dobrev Klára spoke after the closing of the polls and quickly left for the lift."
+      },
+      {
+        "name": "Gy. Német Erzsébet",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gy. Német Erzsébet was seen among the arriving individuals."
+      },
+      {
+        "name": "Nemes Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nemes Gábor was seen among the arriving individuals."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The article discusses the Democratic Coalition's election results and the avoidance of media by its politicians.",
+    "analysis_details": "No foreign observers or media commentators were mentioned.",
+    "title_eng": "Hiding from the Press: The Democratic Coalition's Election Results",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T19:18:25.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.991330",
+      "title": "Bújtatják a sajtó elől a DK-sokat",
+      "url": "https://hvg.hu/itthon/20260412_eredmenyvaro-demokratikus-koalicio-valasztas-2026-dobrev-klara",
+      "article_id": "hvg_20260412_eredmenyvaro-demokratikus-koalicio-valasztas-2026-dobrev-klara"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Bódi Mátyás",
         "affiliation": "Választási földrajz szakértő",
         "country": "Hungary",
@@ -41373,6 +42772,132 @@
       "title": "Hogy lehet csalni a választáson és hogy lehet védekezni ellene?",
       "url": "https://telex.hu/belfold/2026/04/12/valasztasi-csalas-lancszavazas-szavazatvasarlas-vedekezes",
       "article_id": "telex_valasztasi-csalas-lancszavazas-szavazatvasarlas-vedekezes"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "evangelical pastor",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Iványi Gábor shared his thoughts on the election participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "Chancellor of Germany",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated the winners over the phone."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO Secretary General",
+        "country": "Netherlands",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated the winners over the phone."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "President of France",
+        "country": "France",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated the winners over the phone."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "President of the European People's Party",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated the winners over the phone."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "Vice President of the European Parliament",
+        "country": "Romania",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on Facebook."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Mayor of Budapest",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on social media."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "political coordinator",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Sándor Balázs commented on the election results."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Második Reformkor Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers"
+    ],
+    "summary": "Various individuals commented on the recent election results, including both local and foreign politicians.",
+    "analysis_details": "The article features multiple observers and commentators, with no indication of fake observers.",
+    "title_eng": "Joy in the Pub, the Csurran-Cseppen Booms",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Ch. Gáll András",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:08.264449",
+      "title": "Boldogság a kocsmában, bömböl a Csurran-cseppen",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/polo-club/",
+      "article_id": "index_polo-club"
     }
   },
   {
@@ -42635,6 +44160,138 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Friedrich Merz",
+        "affiliation": "Government of Germany",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on Facebook."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO",
+        "country": "Netherlands",
+        "role": "Secretary General",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on Facebook."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "Government of France",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on Facebook."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "European People's Party",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on Facebook."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on Facebook."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Evangelical Pastor",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Iványi Gábor commented on the election participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Mayor of Budapest",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on social media."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "Political Coordinator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Sándor Balázs spoke to the media about the election results."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Second Reform Era Party",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "Foreign leaders congratulated Hungarian politicians on the election results, while local figures commented on the implications.",
+    "analysis_details": "The article features multiple foreign individuals commenting on the election, indicating international interest but no accredited observers.",
+    "title_eng": "Congratulations from Foreign Leaders to Hungarian Politicians",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kozics Júlia",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:04.787044",
+      "title": "Magyar Péternek gratulált Németország kancellárja és a NATO főtitkára is",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/magyar-peternek-gratulalt-nemetorszag-kancellarja-es-a-nato-fotitkara-is/",
+      "article_id": "index_magyar-peternek-gratulalt-nemetorszag-kancellarja-es-a-nato-fotitkara-is"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Rubint Réka",
         "affiliation": "N/A",
         "country": "Hungary",
@@ -42672,6 +44329,57 @@
       "title": "Rubint Réka kimondta – ezért támogatja Orbán Viktort - ORIGO",
       "url": "https://www.origo.hu/itthon/2026/04/rubint-reka-valasztas-beke-biztonsag-fidesz",
       "article_id": "origo_rubint-reka-valasztas-beke-biztonsag-fidesz"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Budapest Municipality",
+        "country": "Hungary",
+        "role": "Mayor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz Party",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter after the election results."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter received congratulations from Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Local politicians congratulated each other on election results.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Karácsony Congratulated and Lit the Chain Bridge in National Colors",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T19:47:58.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.694112",
+      "title": "Karácsony gratulált és nemzeti színbe kapcsolta a Lánchíd díszkivilágítását",
+      "url": "https://hvg.hu/itthon/20260412_karacsony-gratulalt-es-nemzeti-szinbe-kapcsolta-a-lanchid-diszkivilagitasat",
+      "article_id": "hvg_20260412_karacsony-gratulalt-es-nemzeti-szinbe-kapcsolta-a-lanchid-diszkivilagitasat"
     }
   },
   {
@@ -45367,6 +47075,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:18.357284",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#a-mi-hazank-eredmenyvarojan-elmaradt-az-udvrivalgas",
+      "article_id": "24hu__a-mi-hazank-eredmenyvarojan-elmaradt-az-udvrivalgas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "J. D. Vance",
@@ -45581,6 +47309,26 @@
       "title": "Rövid időre leállt az NVI oldala",
       "url": "https://hvg.hu/itthon/20260412_rovid-idore-leallt-az-nvi-oldala",
       "article_id": "hvg_20260412_rovid-idore-leallt-az-nvi-oldala"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:18.555797",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#dudalo-autok-a-balnanal",
+      "article_id": "24hu__dudalo-autok-a-balnanal"
     }
   },
   {
@@ -47029,6 +48777,59 @@
     }
   },
   {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary following the elections."
+      },
+      {
+        "name": "Viktor Orbán",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán congratulated Magyar Péter on the election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the recent elections in Hungary.",
+    "analysis_details": "The presence of foreign leaders indicates potential influence on the election narrative.",
+    "title_eng": "Election Results and Reactions in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:41:51+02:00",
+      "scraped_at": "2026-04-12T22:00:26.561957",
+      "title": "Győr-Moson-Sopron vármegyében a Tisza négy, a Fidesz egy körzetet nyerhetett meg",
+      "url": "https://mandiner.hu/belfold/2026/04/gyor-moson-sopron-varmegyeben-a-tisza-negy-a-fidesz-egy-korzetet-nyerhetett-meg",
+      "article_id": "mandiner_gyor-moson-sopron-varmegyeben-a-tisza-negy-a-fidesz-egy-korzetet-nyerhetett-meg"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -47277,6 +49078,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned in the provided text.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:16.507845",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#147-szazalekos-feldolgozottsag-tisza-125-fidesz-65-mandatum",
+      "article_id": "24hu__147-szazalekos-feldolgozottsag-tisza-125-fidesz-65-mandatum"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -47328,6 +49149,26 @@
       "title": "Volt MTVA-s vezető: Nem vagyok tiszás, de a rendszerváltásra szavazok",
       "url": "https://telex.hu/belfold/2026/04/12/volt-mtva-s-vezeto-nem-vagyok-tiszas-de-a-rendszervaltasra-szavazok-1",
       "article_id": "telex_volt-mtva-s-vezeto-nem-vagyok-tiszas-de-a-rendszervaltasra-szavazok-1"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "currency"
+    ],
+    "summary": "The article discusses the strengthening of the Hungarian forint against the euro following election results.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Strengthening of the Forint Following Election Results",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Klág Dávid",
+      "published_at": "2026-04-12T19:44:42.000Z",
+      "scraped_at": "2026-04-12T22:00:13.124759",
+      "title": "A Tisza győzelmének hírére erősödni kezdett a forint",
+      "url": "https://telex.hu/gazdasag/2026/04/12/a-tisza-gyozelmenek-hirere-erosodni-kezdett-a-forint",
+      "article_id": "telex_a-tisza-gyozelmenek-hirere-erosodni-kezdett-a-forint"
     }
   },
   {
@@ -47437,6 +49278,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:21.301556",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#siri-csondben-hallgatjak-orbant-a-sajatjai",
+      "article_id": "24hu__siri-csondben-hallgatjak-orbant-a-sajatjai"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Tállai András",
@@ -47495,6 +49356,38 @@
       "title": "„Ti ott Pesten nem tudjátok, mi a diktatúra, mi tudjuk” – a térség, ahol majdnem 30 éve legyőzhetetlen a fideszes politikus",
       "url": "https://hvg.hu/360/20260307_ti-ott-pest-nem-tudjatok-mi-a-diktatura-mi-tudjuk-a-korzet-ahol-majd-30-eve-legyozhetetlen-a-fidesz-politikus-tallai-cezy-riport-valasztas",
       "article_id": "hvg_20260307_ti-ott-pest-nem-tudjatok-mi-a-diktatura-mi-tudjuk-a-korzet-ahol-majd-30-eve-legyozhetetlen-a-fidesz-politikus-tallai-cezy-riport-valasztas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter spoke at the Tisza Párt's result-waiting event."
+      }
+    ],
+    "topics": [
+      "election",
+      "Tisza Párt",
+      "voter participation"
+    ],
+    "summary": "Magyar Péter expressed optimism about the election results and highlighted the importance of voter participation.",
+    "analysis_details": "No foreign observers or individuals mentioned.",
+    "title_eng": "Magyar Péter Speaks Optimistically About Election Results",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Bicsérdi-Fülöp Ádám",
+      "published_at": "2026-04-12T18:28:10.000Z",
+      "scraped_at": "2026-04-12T22:00:13.342800",
+      "title": "Magyar Péter hallucináló állampártról beszélt, és közben bizakodva várja az eredményt",
+      "url": "https://telex.hu/belfold/2026/04/12/magyar-peter-otpmista-az-urnazarasig-bejott-infok-alapjan",
+      "article_id": "telex_magyar-peter-otpmista-az-urnazarasig-bejott-infok-alapjan"
     }
   },
   {
@@ -49501,6 +51394,138 @@
       "title": "Rácz András: Az oroszok mindig fokozatosan avatkoznak be más országok választásaiba, végső esetben „radikális megoldásokig” is elmennek",
       "url": "https://hvg.hu/itthon/20260330_racz-andras-orszaggyulesi-valasztas-orosz-beavatkozas",
       "article_id": "hvg_20260330_racz-andras-orszaggyulesi-valasztas-orosz-beavatkozas"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "European People's Party",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "German Government",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO",
+        "country": "Netherlands",
+        "role": "Secretary General",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Evangelical Pastor",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Iványi Gábor shared his thoughts on voter participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on social media."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Mayor of Budapest",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on social media."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Second Reform Era Party",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "Political Coordinator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Sándor Balázs discussed the election results with the media."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "Foreign leaders congratulated Magyar Péter on his electoral victory, while local politicians commented on the election results.",
+    "analysis_details": "The presence of foreign individuals commenting on the election raises questions about external influence.",
+    "title_eng": "Macron and Weber Congratulate Magyar Péter",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kozics Júlia",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:06.178993",
+      "title": "Magyar Péternek gratulált Macron és Manfred Weber",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/magyar-peternek-gratulalt-macron-es-manfred-weber/",
+      "article_id": "index_magyar-peternek-gratulalt-macron-es-manfred-weber"
     }
   },
   {
@@ -52838,6 +54863,26 @@
       "title": "Szentesre és Debrecenbe is ugyanazokat a provokátorokat küldte Magyar Péter - ORIGO",
       "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-szentesen-debrecenben-ugyanazok-tuntettek",
       "article_id": "origo_orban-viktor-szentesen-debrecenben-ugyanazok-tuntettek"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:18.143314",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#molnar-aron-eletem-legnagyobb-csatajat-megnyertuk",
+      "article_id": "24hu__molnar-aron-eletem-legnagyobb-csatajat-megnyertuk"
     }
   },
   {
@@ -57796,6 +59841,37 @@
       "title": "Orbán Viktor Budapesten: Rendíthetetlenül hiszünk a szeretet és az összefogás erejében | 24.hu",
       "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-kedves-fiatalok-szavazzatok-rank",
       "article_id": "24hu__orban-viktor-budapesten-kedves-fiatalok-szavazzatok-rank"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "former Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke at the election result announcement."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor acknowledged the election results and expressed gratitude for support.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Orbán Viktor Acknowledges Election Defeat",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Thüringer Barbara",
+      "published_at": "2026-04-12T19:37:43.000Z",
+      "scraped_at": "2026-04-12T22:00:13.237167",
+      "title": "Orbán Viktor elismerte a választási vereséget: Mi ellenzékből is a hazánkat fogjuk szolgálni",
+      "url": "https://telex.hu/belfold/2026/04/12/orban-viktor-tisza-part-gyozelem-beszed",
+      "article_id": "telex_orban-viktor-tisza-part-gyozelem-beszed"
     }
   },
   {
@@ -64844,6 +66920,59 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary."
+      },
+      {
+        "name": "Viktor Orbán",
+        "affiliation": "Fidesz Party",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán congratulated Magyar Péter on election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections.",
+    "analysis_details": "Macron and von der Leyen's comments indicate foreign interest in the election outcomes.",
+    "title_eng": "Election Commentary and Reactions in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:08:04+02:00",
+      "scraped_at": "2026-04-12T22:00:30.415677",
+      "title": "Csongrádot is viszi a Tisza",
+      "url": "https://mandiner.hu/belfold/2026/04/csongradot-is-viszi-a-tisza",
+      "article_id": "mandiner_csongradot-is-viszi-a-tisza"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [
@@ -65619,6 +67748,163 @@
       "title": "Vajon milyen jövőt hagyunk a gyerekeinkre? – a családos fiatalok is sorsdöntő választás előtt állnak",
       "url": "https://mandiner.hu/kultura/2026/04/vajon-milyen-jovot-hagyunk-a-gyerekeinkre-a-csalados-fiatalok-is-sorsdonto-valasztas-elott-allnak",
       "article_id": "mandiner_vajon-milyen-jovot-hagyunk-a-gyerekeinkre-a-csalados-fiatalok-is-sorsdonto-valasztas-elott-allnak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Majka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "public figure",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Majka reacted strongly to the election results on social media."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "evangelical pastor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Iványi Gábor expressed his thoughts on voter participation at the Democratic Coalition's headquarters."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "N/A",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "N/A",
+        "country": "Netherlands",
+        "role": "NATO Secretary General",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "N/A",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "N/A",
+        "country": "Germany",
+        "role": "President of the European People's Party",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on social media."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Mayor of Budapest",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "political coordinator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs commented on the election results at the party's event."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Second Reform Era Party",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      },
+      {
+        "name": "G. Fodor Gábor",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "G. Fodor Gábor acknowledged the current state of the election results."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "president of Budapest Fidesz",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra expressed optimism about the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "foreign influence"
+    ],
+    "summary": "The article discusses the reactions of various political figures to the recent Hungarian elections, highlighting both domestic and foreign responses.",
+    "analysis_details": "The presence of foreign individuals commenting on the election indicates international interest, but no accredited observers were mentioned.",
+    "title_eng": "Majka's Reaction to the Election Results",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Domján Anikó",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:07.642779",
+      "title": "„Nem lehet velünk b*szakodni” – így reagált Majka az eredményekre",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/majka/",
+      "article_id": "index_majka"
     }
   },
   {
@@ -68299,6 +70585,60 @@
     }
   },
   {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "JD Vance",
+        "affiliation": "U.S. Government",
+        "country": "USA",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "JD Vance sent a strong message to Iran regarding the peace negotiations."
+      },
+      {
+        "name": "Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "president",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter and expressed readiness for cooperation."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "president",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen quickly sent a message to Hungary."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections, indicating potential influence.",
+    "analysis_details": "The presence of foreign politicians commenting on the elections raises concerns about external influence.",
+    "title_eng": "Foreign Reactions to Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:00:47+02:00",
+      "scraped_at": "2026-04-12T22:00:45.200970",
+      "title": "Radics Béla is megelőzte Zuglóban Hadházy Ákost",
+      "url": "https://mandiner.hu/belfold/2026/04/radics-bela-is-megelozte-zugloban-hadhazy-akost",
+      "article_id": "mandiner_radics-bela-is-megelozte-zugloban-hadhazy-akost"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -70822,6 +73162,159 @@
       "title": "800 egységgel készül a mentőszolgálat a választás napjára",
       "url": "https://telex.hu/belfold/2026/04/10/800-egyseggel-keszul-a-mentoszolgalat-a-valasztas-napjara",
       "article_id": "telex_800-egyseggel-keszul-a-mentoszolgalat-a-valasztas-napjara"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "evangelical pastor",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Iványi Gábor shared his thoughts on voter participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on social media."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter announced congratulations from foreign leaders."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "CDU",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO",
+        "country": "Netherlands",
+        "role": "Secretary General",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "European People's Party",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on social media."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Budapest Municipality",
+        "country": "Hungary",
+        "role": "Mayor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Párt on their victory."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "political coordinator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs discussed the election results at the party's event."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Második Reformkor Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      },
+      {
+        "name": "G. Fodor Gábor",
+        "affiliation": "Patrióta Studio",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "G. Fodor Gábor acknowledged the current state of the election."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "President of Budapest Fidesz",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra expressed hope regarding the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "The article discusses the reactions and comments from various political figures regarding the recent Hungarian elections, highlighting both domestic and foreign responses.",
+    "analysis_details": "The presence of foreign leaders congratulating Hungarian politicians indicates international interest in the election outcomes.",
+    "title_eng": "Nagy Ervin as a Rockstar",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kocsmár-Tóth István",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:05.470587",
+      "title": "Nagy Ervin a rocksztár",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/nagy-ervin-a-rocksztar/",
+      "article_id": "index_nagy-ervin-a-rocksztar"
     }
   },
   {
@@ -73645,6 +76138,47 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor telefonon gratulált a győzelmünkhöz."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter posztja idején az eredmények feldolgozottsága 45,71 százaléknál jár."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor congratulated Magyar Péter on his electoral victory.",
+    "analysis_details": "No foreign observers or commentators mentioned.",
+    "title_eng": "Orbán Viktor Congratulated Magyar Péter",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Túri Csaba",
+      "published_at": "2026-04-12T21:17:00+02:00",
+      "scraped_at": "2026-04-12T22:00:11.426060",
+      "title": "Orbán Viktor telefonon gratulált Magyar Péternek",
+      "url": "https://index.hu/belfold/2026/04/12/magyar-peter-orban-viktor-valasztas-2026/",
+      "article_id": "index_magyar-peter-orban-viktor-valasztas-2026"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Hrabóczki Dániel",
         "affiliation": "Tisza Party",
         "country": "Hungary",
@@ -75158,6 +77692,59 @@
       "title": "Magyar Péter sérója kevés a szavazathoz, a Fidesz a legerősebb triójával zárta a kampányt",
       "url": "https://index.hu/belfold/2026/04/11/orban-viktor-orszagjaras-kampany-budapest-valasztas-2026/",
       "article_id": "index_orban-viktor-orszagjaras-kampany-budapest-valasztas-2026"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary immediately."
+      },
+      {
+        "name": "Viktor Orbán",
+        "affiliation": "Fidesz Party",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán congratulated Magyar Péter on election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the Hungarian elections, indicating potential influence.",
+    "analysis_details": "The presence of foreign leaders' comments raises questions about external influence in the elections.",
+    "title_eng": "Macron and von der Leyen Congratulate Magyar Péter",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:02:59+02:00",
+      "scraped_at": "2026-04-12T22:00:31.376066",
+      "title": "Navracsics Tibor gratulált ellenfelének",
+      "url": "https://mandiner.hu/belfold/2026/04/navracsics-tibor-gratulalt-ellenfelenek",
+      "article_id": "mandiner_navracsics-tibor-gratulalt-ellenfelenek"
     }
   },
   {
@@ -78866,6 +81453,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:20.029539",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#tevedtem-van-euforia",
+      "article_id": "24hu__tevedtem-van-euforia"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Orbán Viktor",
@@ -79591,6 +82198,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:21.498274",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#orban-viktor-az-eredmeny-fajdalmas-de-egyertelmu-a-gyoztes-partnak-gratulalunk",
+      "article_id": "24hu__orban-viktor-az-eredmeny-fajdalmas-de-egyertelmu-a-gyoztes-partnak-gratulalunk"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Pálinkás Szilveszter",
@@ -79716,6 +82343,26 @@
       "title": "Matolcsy György és Nagy Márton bizonyítványa: utánzásból jeles, gazdaságpolitikából bukás",
       "url": "https://hvg.hu/360/20260409_guruk-egymas-kozt-matolcsy-rogeszmei-nagy-marton-szolgalata-negykezes-melleutesekkel-hvg",
       "article_id": "hvg_20260409_guruk-egymas-kozt-matolcsy-rogeszmei-nagy-marton-szolgalata-negykezes-melleutesekkel-hvg"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:20.437280",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#karacsony-gergely-oriasi-gyozelem-oriasi-felelosseg",
+      "article_id": "24hu__karacsony-gergely-oriasi-gyozelem-oriasi-felelosseg"
     }
   },
   {
@@ -81199,6 +83846,69 @@
       "title": "Sulyok Tamás: Megvan a legitim alap, hamarosan összeül az új Országgyűlés - ORIGO",
       "url": "https://www.origo.hu/itthon/2026/04/valasztas-eredmenye-2026-sulyok-tamas-orszaggyules",
       "article_id": "origo_valasztas-eredmenye-2026-sulyok-tamas-orszaggyules"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Magyar Péter was congratulated by Orbán Viktor for winning the elections."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary following the elections."
+      },
+      {
+        "name": "Ukrainian Intelligence Services",
+        "affiliation": "Unknown",
+        "country": "Ukraine",
+        "role": "Intelligence Agency",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Reports indicate that Ukrainian intelligence services intervened in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The article discusses the recent election results in Hungary, highlighting key figures and their reactions.",
+    "analysis_details": "The presence of foreign commentary and allegations of foreign interference raises concerns about the integrity of the election.",
+    "title_eng": "Orbán Viktor Congratulated Magyar Péter on the Tisza Victory",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:55:56+02:00",
+      "scraped_at": "2026-04-12T22:00:24.718408",
+      "title": "Macron is gratulált Magyar Péternek",
+      "url": "https://mandiner.hu/belfold/2026/04/macron-is-gratulalt-magyar-peternek",
+      "article_id": "mandiner_macron-is-gratulalt-magyar-peternek"
     }
   },
   {
@@ -82840,6 +85550,59 @@
     }
   },
   {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Macron congratulated Magyar Péter."
+      },
+      {
+        "name": "Ursula von der Leyen",
+        "affiliation": "European Commission",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Ursula von der Leyen sent a message to Hungary."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor congratulated Magyar Péter on election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign leaders commented on the election results in Hungary.",
+    "analysis_details": "Foreign media commentators and leaders are involved in the election discourse.",
+    "title_eng": "Election Results in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T21:17:50+02:00",
+      "scraped_at": "2026-04-12T22:00:28.486868",
+      "title": "Rendkívüli: Orbán Viktor gratulált Magyar Péternek a Tisza győzelméhez",
+      "url": "https://mandiner.hu/belfold/2026/04/rendkivuli-orban-viktor-gratulalt-magyar-peternek-a-tisza-gyozelmehez",
+      "article_id": "mandiner_rendkivuli-orban-viktor-gratulalt-magyar-peternek-a-tisza-gyozelmehez"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -83238,6 +86001,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The speech reflects on the election results and expresses gratitude for support.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Viktor Orbán's Speech After Election Loss",
+    "article_metadata": {
+      "source": "444",
+      "author": "Windisch Judit",
+      "published_at": "2026-04-12T21:51:13+02:00",
+      "scraped_at": "2026-04-12T22:00:11.949386",
+      "title": "Orbán Viktor bukás után elmondott teljes beszéde",
+      "url": "https://444.hu/2026/04/12/orban-viktor-bukas-utan-elmondott-teljes-beszede",
+      "article_id": "444_orban-viktor-bukas-utan-elmondott-teljes-beszede"
+    }
+  },
+  {
     "fake_observer_score": 80,
     "individuals": [
       {
@@ -83288,6 +86071,26 @@
       "title": "Meduza: Már megvan, hogyan adná el a Kreml a Fidesz vereségét | 24.hu",
       "url": "https://24.hu/kozelet/2026/04/10/kreml-fidesz-valasztasi-vereseg/",
       "article_id": "24hu_kreml-fidesz-valasztasi-vereseg"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:17.391138",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#a-tiszasok-elkezdtek-aterezni-a-rendszervaltast",
+      "article_id": "24hu__a-tiszasok-elkezdtek-aterezni-a-rendszervaltast"
     }
   },
   {
@@ -84219,6 +87022,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:18.780018",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#orbanek-nem-mereszkedtek-ki-a-sajto-ele",
+      "article_id": "24hu__orbanek-nem-mereszkedtek-ki-a-sajto-ele"
+    }
+  },
+  {
     "fake_observer_score": 10,
     "individuals": [
       {
@@ -84761,6 +87584,170 @@
       "title": "Az országos listás pártok jelöltjei közül senki sem lépett vissza csütörtökön a határidőig",
       "url": "https://444.hu/2026/04/09/az-orszagos-listas-partok-jeloltjei-kozul-senki-nem-lepett-vissza-csutortokon-a-hataridoig",
       "article_id": "444_az-orszagos-listas-partok-jeloltjei-kozul-senki-nem-lepett-vissza-csutortokon-a-hataridoig"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Viktor is the Prime Minister of Hungary and leader of the Fidesz party."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor commented on what he wishes for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Orbán Viktor addressed the Hungarian people regarding the election results.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Orbán Viktor: 2.5 million people trusted us today",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T21:51:49+02:00",
+      "scraped_at": "2026-04-12T22:00:15.659213",
+      "title": "Orbán Viktor: 2,5 millió ember bízott bennünk a mai napon is - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-ertekelte-a-fidesz-valasztasi-eredmenyet",
+      "article_id": "origo_orban-viktor-ertekelte-a-fidesz-valasztasi-eredmenyet"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Csiszár Jenő",
+        "affiliation": "RTL",
+        "country": "Hungary",
+        "role": "host",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Csiszár Jenő is the host of the revived Heti Hetes."
+      },
+      {
+        "name": "Nagy Ádám",
+        "affiliation": "RTL",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nagy Ádám participated in the Heti Hetes show."
+      },
+      {
+        "name": "Majka",
+        "affiliation": "TV2",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Majka is a participant in the Heti Hetes show."
+      },
+      {
+        "name": "Hajós András",
+        "affiliation": "TV2",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hajós András is a participant in the Heti Hetes show."
+      },
+      {
+        "name": "Hevér Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hevér Gábor participated in the Heti Hetes show."
+      },
+      {
+        "name": "Thuróczy Szabolcs",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Thuróczy Szabolcs participated in the Heti Hetes show."
+      },
+      {
+        "name": "Parti Nóra",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Parti Nóra was mentioned as a participant in the Heti Hetes show."
+      },
+      {
+        "name": "Fancsikai Eszter",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Fancsikai Eszter participated in the Heti Hetes show."
+      },
+      {
+        "name": "Linczényi Márk",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Linczényi Márk was mentioned as a participant in the Heti Hetes show."
+      },
+      {
+        "name": "Vadon János",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "participant",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vadon János participated in the Heti Hetes show."
+      }
+    ],
+    "topics": [
+      "election",
+      "media",
+      "entertainment"
+    ],
+    "summary": "The article discusses the revival of the Heti Hetes show and its participants, with references to the upcoming elections.",
+    "analysis_details": "All individuals mentioned are Hungarian and involved in the media or entertainment industry.",
+    "title_eng": "The Heti Hetes Remains What It Was: Barroom-Level Mockery from the 90s",
+    "article_metadata": {
+      "source": "444",
+      "author": "Mészáros Juli",
+      "published_at": "2026-04-12T21:05:58+02:00",
+      "scraped_at": "2026-04-12T22:00:12.284530",
+      "title": "A Heti Hetes maradt, ami volt: kocsmai szintű, gúnyolódós heherészés a 90-es évekből",
+      "url": "https://444.hu/2026/04/12/a-heti-hetes-maradt-ami-volt-kocsmai-szintu-gunyolodos-hehereszes-a-90-es-evekbol",
+      "article_id": "444_a-heti-hetes-maradt-ami-volt-kocsmai-szintu-gunyolodos-hehereszes-a-90-es-evekbol"
     }
   },
   {
@@ -91231,6 +94218,47 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Viktor is mentioned as the current prime minister and leader of Fidesz."
+      },
+      {
+        "name": "Nostradamus",
+        "affiliation": "none",
+        "country": "unknown",
+        "role": "historical figure",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Referred to as the 'londonian Nostradamus' in the context of predicting election outcomes."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The article discusses the predictions regarding the Hungarian elections and mentions Orbán Viktor.",
+    "analysis_details": "No foreign observers or commentators were identified in the article.",
+    "title_eng": "Memorable Moments from the 2018 Election",
+    "article_metadata": {
+      "source": "444",
+      "author": "Inkei Bence",
+      "published_at": "2026-04-12T21:13:31+02:00",
+      "scraped_at": "2026-04-12T22:00:12.169663",
+      "title": "Óráid vannak hátra, Orbán – jósolta meg a kormányváltást nyolc éve egy londoni magyar",
+      "url": "https://444.hu/2026/04/12/oraid-vannak-hatra-orban-josolta-meg-a-kormanyvaltast-nyolc-eve-egy-londoni-magyar",
+      "article_id": "444_oraid-vannak-hatra-orban-josolta-meg-a-kormanyvaltast-nyolc-eve-egy-londoni-magyar"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Magyar Péter",
         "affiliation": "Tisza Párt",
         "country": "Hungary",
@@ -93303,6 +96331,26 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned in the provided text.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:16.745270",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#megtalaltuk-az-mkkp-s-magyar-petert",
+      "article_id": "24hu__megtalaltuk-az-mkkp-s-magyar-petert"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [
       {
         "name": "Kiara",
@@ -93902,6 +96950,146 @@
       "title": "A Polymarketen már kétharmada van a Tiszának, rekordrészvételt és hárompárti parlamentet várnak a fogadók",
       "url": "https://hvg.hu/360/20260407_polymarket-valasztas-fogadas-elorejelzes-tisza-part-fidesz-magyar-peter-orban-viktor",
       "article_id": "hvg_20260407_polymarket-valasztas-fogadas-elorejelzes-tisza-part-fidesz-magyar-peter-orban-viktor"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on his social media."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Evangelical Pastor",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Iványi Gábor shared his thoughts on the election participation with Index."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "CDU",
+        "country": "Germany",
+        "role": "Chancellor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated the winners over the phone."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO",
+        "country": "Netherlands",
+        "role": "Secretary General",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated the winners over the phone."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "French Government",
+        "country": "France",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "European People's Party",
+        "country": "Germany",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on his victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "European Parliament",
+        "country": "Romania",
+        "role": "Vice President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on Facebook."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Mayor of Budapest",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on social media."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "Political Coordinator",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs spoke to Index about the election results."
+      },
+      {
+        "name": "Majka",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Public Figure",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Majka reacted strongly on social media after the results."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Second Reform Era Party",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "foreign influence"
+    ],
+    "summary": "The article discusses the reactions to the 2026 Hungarian parliamentary election results, highlighting various political figures and their comments.",
+    "analysis_details": "The article features both local and foreign individuals commenting on the election, with a focus on the reactions of Hungarian politicians and foreign leaders.",
+    "title_eng": "Hadházy Ákos's Political Withdrawal After Election Loss",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:04.034005",
+      "title": "Hadházy Ákos nagyot bukott, visszavonul a politikától",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/hadhazy-akos-szerint-celt-ert-a-fidesz-bukasaval-es-gratulalt-az-utana-jovoknek/",
+      "article_id": "index_hadhazy-akos-szerint-celt-ert-a-fidesz-bukasaval-es-gratulalt-az-utana-jovoknek"
     }
   },
   {
@@ -96226,6 +99414,26 @@
       "title": "A köztársasági elnök is szavazott",
       "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/a-koztarsasagi-elnok-is-szavazott/",
       "article_id": "index_a-koztarsasagi-elnok-is-szavazott"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:18.997854",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#macron-es-weber-is-gratulalt",
+      "article_id": "24hu__macron-es-weber-is-gratulalt"
     }
   },
   {
@@ -99134,6 +102342,137 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "evangelical pastor",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Iványi Gábor expressed his thoughts on voter participation."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Hadházy Ákos commented on the election results on social media."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party president",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Magyar Péter posted about the election results on Facebook."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "Chancellor of Germany",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Friedrich Merz congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO Secretary General",
+        "country": "Netherlands",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Mark Rutte congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "President of France",
+        "country": "France",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Emmanuel Macron congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "President of the European People's Party",
+        "country": "Germany",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Manfred Weber congratulated Magyar Péter on the election victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "Vice President of the European Parliament",
+        "country": "Romania",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on Facebook."
+      },
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Budapest Mayor",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Párt on their victory."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "political coordinator",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Sándor Balázs commented on the election results."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers"
+    ],
+    "summary": "Various individuals commented on the recent Hungarian elections, including local politicians and foreign leaders.",
+    "analysis_details": "The presence of foreign politicians commenting on the election results raises questions about external influence.",
+    "title_eng": "Celebration of Election Results in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Mucsi Viktor",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:09.013095",
+      "title": "Üdvrivalgással fogadták Orbán Viktor bejelentését",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/udvrivalgassal-fogadtak-orban-viktor-bejelenteset/",
+      "article_id": "index_udvrivalgassal-fogadtak-orban-viktor-bejelenteset"
+    }
+  },
+  {
     "fake_observer_score": 60,
     "individuals": [
       {
@@ -99627,6 +102966,59 @@
       "title": "A talpon maradt baloldali jelöltek visszalépését kérik a korábbi szocialista nagyágyúk",
       "url": "https://index.hu/belfold/2026/valasztas/2026/04/07/baloldal-nyilt-level-valasztas-2026-lendvai-ildiko-mszp-demokratikus-koalicio/",
       "article_id": "index_baloldal-nyilt-level-valasztas-2026-lendvai-ildiko-mszp-demokratikus-koalicio"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Mráz Ágoston Sámuel",
+        "affiliation": "Nézőpont Intézet",
+        "country": "Hungary",
+        "role": "director",
+        "tags": [
+          "observer",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Mráz Ágoston Sámuel, the director of Nézőpont Intézet, commented on the election results."
+      },
+      {
+        "name": "Rácz András",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "Russia expert",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Rácz András commented on the document regarding the Tisza party's alleged plans."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "independent candidate",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "observer",
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter ran as an independent candidate in Vas County."
+      }
+    ],
+    "topics": [
+      "election",
+      "media commentary"
+    ],
+    "summary": "The article discusses the biased coverage of the elections by the Hungarian media and comments from various individuals.",
+    "analysis_details": "Mráz Ágoston Sámuel's comments reflect a non-accredited organization, while Rácz András's affiliation is unclear.",
+    "title_eng": "Surprisingly Unbiased Analysis by Public Media, but Outrageous Claims Persist",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "Kovács Bálint",
+      "published_at": "2026-04-12T19:23:31.0000000Z",
+      "scraped_at": "2026-04-12T22:00:14.069381",
+      "title": "Meglepően elfogulatlan a közmédia elemzése, de nem maradnak el a hajmeresztő állítások",
+      "url": "https://hvg.hu/elet/20260412_mraz-agoston-samuel-egyre-valoszinubb-hogy-a-tisza-megszerzi-a-mandatumok-tobbseget-kozmedia-valasztasi-musor-m1",
+      "article_id": "hvg_20260412_mraz-agoston-samuel-egyre-valoszinubb-hogy-a-tisza-megszerzi-a-mandatumok-tobbseget-kozmedia-valasztasi-musor-m1"
     }
   },
   {
@@ -101766,6 +105158,150 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Karácsony Gergely",
+        "affiliation": "Budapest Mayor",
+        "country": "Hungary",
+        "role": "Mayor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Karácsony Gergely congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Iványi Gábor",
+        "affiliation": "Evangelical Pastor",
+        "country": "Hungary",
+        "role": "Media Commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Iványi Gábor shared his thoughts on the election participation with Index."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent Politician",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos reacted to the election results on his social media."
+      },
+      {
+        "name": "Friedrich Merz",
+        "affiliation": "Chancellor of Germany",
+        "country": "Germany",
+        "role": "Foreign Leader",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Friedrich Merz congratulated the Tisza Party on their victory via phone."
+      },
+      {
+        "name": "Mark Rutte",
+        "affiliation": "NATO Secretary General",
+        "country": "Netherlands",
+        "role": "Foreign Leader",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Mark Rutte congratulated the Tisza Party on their victory via phone."
+      },
+      {
+        "name": "Emmanuel Macron",
+        "affiliation": "President of France",
+        "country": "France",
+        "role": "Foreign Leader",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Emmanuel Macron congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Manfred Weber",
+        "affiliation": "President of the European People's Party",
+        "country": "Germany",
+        "role": "Foreign Leader",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Manfred Weber congratulated the Tisza Party on their victory."
+      },
+      {
+        "name": "Nicolae Ștefănuță",
+        "affiliation": "Vice President of the European Parliament",
+        "country": "Romania",
+        "role": "Foreign Politician",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Nicolae Ștefănuță congratulated the Hungarian people on Facebook."
+      },
+      {
+        "name": "Vona Gábor",
+        "affiliation": "Leader of the Second Reform Era Party",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Vona Gábor commented on the election results."
+      },
+      {
+        "name": "Sándor Balázs",
+        "affiliation": "Political Coordinator of the Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Sándor Balázs discussed the election results with Index."
+      },
+      {
+        "name": "Majka",
+        "affiliation": "Public Figure",
+        "country": "Hungary",
+        "role": "Media Commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Majka reacted strongly to the election results on social media."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "President of Fidesz in Budapest",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra expressed optimism during the election night."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "politicians"
+    ],
+    "summary": "The article discusses the reactions and comments from various politicians and foreign leaders regarding the recent election results in Hungary.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the election indicates a significant interest in the electoral process.",
+    "title_eng": "Karácsony Gergely Congratulated the Tisza Party",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kozics Júlia",
+      "published_at": "2026-04-12T21:59:38+02:00",
+      "scraped_at": "2026-04-12T22:00:09.812587",
+      "title": "Karácsony Gergely gratulált a Tisza Pártnak",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/karacsony-gergely-gratulalt-a-tisza-partnak/",
+      "article_id": "index_karacsony-gergely-gratulalt-a-tisza-partnak"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -101887,6 +105423,27 @@
       "title": "Magyar Péter is szavazott",
       "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/magyar-peter-is-szavazott/",
       "article_id": "index_magyar-peter-is-szavazott"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "campaign",
+      "disinformation"
+    ],
+    "summary": "The article discusses the election campaign of Németh Balázs and the results in Budapest's 13th district.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Németh Balázs's Campaign in Budapest's 13th District",
+    "article_metadata": {
+      "source": "444",
+      "author": "Haszán Zoltán,Herczeg Márk",
+      "published_at": "2026-04-12T21:33:27+02:00",
+      "scraped_at": "2026-04-12T22:00:12.075506",
+      "title": "Breaking: nem működött Németh Balázsnak a kampánya, amivel azt bizonygatta, hogy utálják, mint a szart",
+      "url": "https://444.hu/2026/04/12/breaking-nem-mukodott-nemeth-balazsnak-a-kampanya-amivel-azt-bizonygatta-hogy-utaljak-mint-a-szart",
+      "article_id": "444_breaking-nem-mukodott-nemeth-balazsnak-a-kampanya-amivel-azt-bizonygatta-hogy-utaljak-mint-a-szart"
     }
   },
   {
@@ -105613,6 +109170,37 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter alakíthat kormányt."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The Tisza Party has secured a significant lead in the elections, with Magyar Péter set to form a government.",
+    "analysis_details": "No foreign observers or commentators were mentioned in the article.",
+    "title_eng": "The Election Results Are In, Magyar Péter to Form Government",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Borsi Gergely, Németh Márton Sándor",
+      "published_at": "2026-04-12T21:58:00+02:00",
+      "scraped_at": "2026-04-12T22:00:10.617280",
+      "title": "Eldőlt a választás, Magyar Péter alakíthat kormányt",
+      "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-orszaggyulesi-valasztas-magyar-peter-eredmenyek-tisza-part/",
+      "article_id": "index_valasztas-2026-orszaggyulesi-valasztas-magyar-peter-eredmenyek-tisza-part"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Vitézy Dávid",
         "affiliation": "Podmaniczky Mozgalom",
         "country": "Hungary",
@@ -106387,6 +109975,26 @@
       "title": "Itt vannak a 21 Kutatóközpont exkluzív adatai, így áll most a verseny",
       "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-felmeres-eredmenyek-21-kutatokozpont-exkluziv-kutatas/",
       "article_id": "index_valasztas-2026-felmeres-eredmenyek-21-kutatokozpont-exkluziv-kutatas"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "results"
+    ],
+    "summary": "The article discusses the national and Budapest election results.",
+    "analysis_details": "No individuals mentioned.",
+    "title_eng": "National and Budapest Election Results",
+    "article_metadata": {
+      "source": "24hu",
+      "author": "Kovács Márta, Török László, Benke Ágnes, Ürmös Dániel, Kozák Dániel, Vaskor Máté",
+      "published_at": "2026-04-12T05:51:22+02:00",
+      "scraped_at": "2026-04-12T22:00:19.624250",
+      "title": "Választás 2026 - élő hírfolyam: szavazás, részvétel és eredmények percről percre | 24.hu",
+      "url": "https://24.hu/belfold/2026/04/12/valasztas-2026-elo-hirfolyam/#hadhazy-akos-boldog-ujra-allatorvos-lesz-szekszardon",
+      "article_id": "24hu__hadhazy-akos-boldog-ujra-allatorvos-lesz-szekszardon"
     }
   },
   {
@@ -107304,6 +110912,57 @@
       "title": "Azt hiszi, 16 év alatt alaposan kiismerte a NER-t? Ebből a kvízből kiderül",
       "url": "https://hvg.hu/itthon/20260410_ner-kviz-teszt",
       "article_id": "hvg_20260410_ner-kviz-teszt"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "Independent",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Hadházy Ákos is an independent representative who commented on the election results."
+      },
+      {
+        "name": "Velkey György László",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Velkey György László is the candidate from the Tisza Party leading in the election."
+      },
+      {
+        "name": "Radics Béla",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Radics Béla is the candidate from Fidesz–KDNP who is in second place in the election."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "Hadházy Ákos announces his departure from politics after the election results.",
+    "analysis_details": "The article discusses the election results and the reactions of the candidates.",
+    "title_eng": "Hadházy Ákos Leaves Politics",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T19:51:42.0000000Z",
+      "scraped_at": "2026-04-12T22:00:13.915347",
+      "title": "Hadházy Ákos otthagyja a politikát",
+      "url": "https://hvg.hu/itthon/20260412_hadhazy-akos-valasztasi-eredmeny-zuglo",
+      "article_id": "hvg_20260412_hadhazy-akos-valasztasi-eredmeny-zuglo"
     }
   },
   {
