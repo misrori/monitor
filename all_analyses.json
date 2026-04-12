@@ -2128,6 +2128,147 @@
     }
   },
   {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Schobert Norbert shared a video on Facebook encouraging people to vote."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "N/A",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rubint Réka appeared in the video with Schobert Norbert."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szentkirályi Alexandra posted a video on Facebook encouraging voting."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor spoke about the election on a program."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szijjártó Péter posted a photo on social media after voting."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on Facebook."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "N/A",
+        "country": "N/A",
+        "role": "mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election results."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "foreign influence"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including politicians, media commentators, and foreign figures expressing support.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections raises concerns about external influence.",
+    "title_eng": "No Campaign Silence, Only Restrictions Near Polling Stations",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Péter Zsombor",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:05.321057",
+      "title": "Nincs kampánycsend, csak a szavazókörök közelében tiltott a kampány",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/csak-a-szavazokorok-kozeleben-nem-szabad-kampanyolni/",
+      "article_id": "index_csak-a-szavazokorok-kozeleben-nem-szabad-kampanyolni"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [
@@ -8848,6 +8989,109 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs and Trade",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter leadta a szavazatát és sajtótájékoztatót tartott."
+      },
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Fitness Trainer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Schobert Norbert a Facebook-oldalán osztott meg egy videót, amelyen bejelenti, hogy ő már szavazott."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "President of Fidesz in Budapest",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra egy Facebook-oldalán közzétett videóban mutatta meg, hogy milyen egyszerű behúzni a 2X-et."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor a kampányzáró rendezvényen beszédet mondott."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter a Facebook-oldalán tett közzé egy bejegyzést, amelyben mindenkit arra biztat, hogy menjen el szavazni."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "Serbian Government",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Alekszandar Vucsics megerősítette, hogy Orbán Viktor győzelméért szorít a magyar országgyűlési választásokon."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Government",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Robert Fico Orbán Viktor győzelmét kívánta a választásokon."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "Unknown",
+        "country": "USA",
+        "role": "Pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin a választási kampányról nyilatkozott."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "foreign_influence"
+    ],
+    "summary": "The article discusses the Hungarian elections, highlighting various local political figures and their statements, as well as foreign leaders expressing support for Hungarian candidates.",
+    "analysis_details": "The article features both local politicians actively participating in the election and foreign leaders commenting on the election outcomes.",
+    "title_eng": "Szijjártó Péter Cast His Vote",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Simon Barbara Kincső",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:08.654468",
+      "title": "Szijjártó Péter leadta a szavazatát",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/szijjarto-peter-leadta-a-szavazatat/",
+      "article_id": "index_szijjarto-peter-leadta-a-szavazatat"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Rogán Antal",
         "affiliation": "Miniszterelnöki Kabinetiroda",
         "country": "Hungary",
@@ -9227,6 +9471,59 @@
       "title": "Egy nappal az esemény előtt is toboroznak nézőket Orbán Viktor és J. D. Vance keddi gyűlésére",
       "url": "https://444.hu/2026/04/06/egy-nappal-az-esemeny-elott-is-toboroznak-nezoket-orban-viktor-es-jd-vance-keddi-gyulesere",
       "article_id": "444_egy-nappal-az-esemeny-elott-is-toboroznak-nezoket-orban-viktor-es-jd-vance-keddi-gyulesere"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor delivered a closing speech for his campaign."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor expressed his wishes for Orbán Viktor."
+      },
+      {
+        "name": "Zelenszkij",
+        "affiliation": "Unknown",
+        "country": "Ukraine",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Zelenszkij made a statement that was commented on."
+      }
+    ],
+    "topics": [
+      "election",
+      "campaign"
+    ],
+    "summary": "Orbán Viktor concluded his campaign with a heartfelt speech, while Reviczky Gábor and Zelenszkij made comments related to the election.",
+    "analysis_details": "The article discusses the campaign closing and includes comments from both domestic and foreign figures.",
+    "title_eng": "Thank You! Thank You! Thank You! – Viktor Orbán Closed the Campaign with a Touching Speech",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T07:28:56+02:00",
+      "scraped_at": "2026-04-12T08:00:12.580496",
+      "title": "Köszönöm! Köszönöm! Köszönöm! – megható beszéddel zárta a kampányt Orbán Viktor - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-kampanyzaro-koszonet-meghato-beszed",
+      "article_id": "origo_orban-viktor-kampanyzaro-koszonet-meghato-beszed"
     }
   },
   {
@@ -12393,6 +12690,139 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Schobert Norbert shared a video on Facebook announcing he has already voted."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "N/A",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rubint Réka appeared in the video with Schobert Norbert."
+      },
+      {
+        "name": "ifjabb Schóbert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "N/A",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "ifjabb Schóbert Norbert was present in the video with his father."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "president of Fidesz in Budapest",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra encouraged everyone to vote in a video on Facebook."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke about the election stakes in a program."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter urged everyone to vote on Facebook."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs and Trade",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter posted a photo of himself voting."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in the elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor in the elections."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kis Grófo expressed his support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including politicians and public figures encouraging voting.",
+    "analysis_details": "The article features both local and foreign individuals commenting on the elections.",
+    "title_eng": "The Schobert Family Was Among the First to Vote",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Péter Zsombor",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:04.717644",
+      "title": "A Schobert család az elsők között szavazott",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/a-schobert-csalad-az-elsok-kozott-akart-szavazni/",
+      "article_id": "index_a-schobert-csalad-az-elsok-kozott-akart-szavazni"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Magyar Péter",
         "affiliation": "Tisza Párt",
         "country": "Hungary",
@@ -13257,6 +13687,127 @@
       "title": "Hann Endre szerint valószínűtlen, hogy jelentősen alulmérnék a Fidesz támogatottságát",
       "url": "https://hvg.hu/itthon/20260411_hann-endre-fidesz-alulmeres-mandatumbecsles",
       "article_id": "hvg_20260411_hann-endre-fidesz-alulmeres-mandatumbecsles"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness coach, influencer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Schobert Norbert shared a video on Facebook encouraging people to vote."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "influencer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Rubint Réka appeared in a video with Schobert Norbert encouraging voting."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szentkirályi Alexandra posted a video on Facebook urging people to vote."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor spoke about the election on a program called 'Igazság órája'."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on Facebook."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szijjártó Péter posted a photo on social media after voting."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor on social media."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses the participation and influence of various individuals in the Hungarian elections.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections raises concerns about the influence of foreign entities.",
+    "title_eng": "Important Information for Voters in the 2026 Parliamentary Elections",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Mánya Bianka",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:06.686454",
+      "title": "Tudnivalók az átjelentkezéssel szavazóknak",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/tudnivalok-az-atjelentkezessel-szavazoknak/",
+      "article_id": "index_tudnivalok-az-atjelentkezessel-szavazoknak"
     }
   },
   {
@@ -21326,6 +21877,48 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Török Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Török Gábor discusses voter turnout and its implications."
+      },
+      {
+        "name": "Hann Endre",
+        "affiliation": "Medián",
+        "country": "Hungary",
+        "role": "leader",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Hann Endre, the leader of Medián, comments on expected voter turnout."
+      }
+    ],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The article discusses the implications of voter turnout on election outcomes in Hungary.",
+    "analysis_details": "No foreign individuals or observers were mentioned.",
+    "title_eng": "Voter Turnout and Its Implications",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T05:29:07.0000000Z",
+      "scraped_at": "2026-04-12T08:00:11.783047",
+      "title": "Török Gábor: a 70 százalékot meghaladó részvétel inkább a Tiszának kedvezhet",
+      "url": "https://hvg.hu/itthon/20260412_torok-gabor-reszveteli-arany-tisza-kedvez",
+      "article_id": "hvg_20260412_torok-gabor-reszveteli-arany-tisza-kedvez"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Gy. Németh Erzsébet",
         "affiliation": "Demokratikus Koalíció",
         "country": "Hungary",
@@ -22014,6 +22607,26 @@
       "title": "Mi és ők – így tesznek minket egymás ellenségévé a politikai tartalmak",
       "url": "https://index.hu/fomo/2026/04/05/valasztas-2026-politika-kommunikacio-kozossegi-media-tartalomfogyasztas-pszichologia-kovetkezmeny/",
       "article_id": "index_valasztas-2026-politika-kommunikacio-kozossegi-media-tartalomfogyasztas-pszichologia-kovetkezmeny"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The article discusses voter turnout rates in various counties during the elections.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Voter Turnout Rates in Pest and Hajdú-Bihar",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T05:52:48.0000000Z",
+      "scraped_at": "2026-04-12T08:00:11.497955",
+      "title": "Pest megyében és Hajdú-Biharban a legmagasabb eddig a részvételi arány",
+      "url": "https://hvg.hu/itthon/20260412_pest-megyeben-es-hajdu-biharban-a-legmagasabb-eddig-a-reszveteli-arany",
+      "article_id": "hvg_20260412_pest-megyeben-es-hajdu-biharban-a-legmagasabb-eddig-a-reszveteli-arany"
     }
   },
   {
@@ -25933,6 +26546,40 @@
       "title": "Rákay Philip 1867-ről: Mi, magyarok akkor is megbocsátottunk, és kezet nyújtottunk gyakorlatilag a szabadságharcunk eltipróinak",
       "url": "https://444.hu/2026/04/11/rakay-philip-1867-rol-mi-magyarok-akkor-is-megbocsatottunk-es-kezet-nyujtottunk-gyakorlatilag-a-szabadsagharcunk-eltiproinak",
       "article_id": "444_rakay-philip-1867-rol-mi-magyarok-akkor-is-megbocsatottunk-es-kezet-nyujtottunk-gyakorlatilag-a-szabadsagharcunk-eltiproinak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Bódi Mátyás",
+        "affiliation": "Választási földrajz elemző",
+        "country": "Hungary",
+        "role": "analyst",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Bódi Mátyás a Választási földrajz elemzője a Telex élő választási műsorában arról beszél."
+      }
+    ],
+    "topics": [
+      "election",
+      "voter turnout",
+      "analysis"
+    ],
+    "summary": "Bódi Mátyás discusses the low voter turnout in the early hours of the election.",
+    "analysis_details": "The analysis highlights significant regional differences in voter participation.",
+    "title_eng": "Bódi Mátyás on the 3.46% Voter Turnout: If I Were the Fidesz Campaign Chief, I Wouldn't Be Happy",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Dévai László",
+      "published_at": "2026-04-12T05:56:18.000Z",
+      "scraped_at": "2026-04-12T08:00:10.928043",
+      "title": "Bódi Mátyás a 3,46 százalékos részvételről: Ha én lennék a Fidesz kampányfőnöke, nem örülnék",
+      "url": "https://telex.hu/belfold/2026/04/12/bodi-matyas-a-3-46-szazalekos-reszvetelrol-ha-en-lennek-a-fidesz-kampanyfonoke-nem-orulnek",
+      "article_id": "telex_bodi-matyas-a-3-46-szazalekos-reszvetelrol-ha-en-lennek-a-fidesz-kampanyfonoke-nem-orulnek"
     }
   },
   {
@@ -31533,6 +32180,61 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "J. D. Vance",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "J. D. Vance visited Budapest and made statements regarding the elections."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "former president",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Donald Trump commented on the situation with Iran and its implications for the elections."
+      },
+      {
+        "name": "former Polish Prime Minister",
+        "affiliation": "N/A",
+        "country": "Poland",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "The former Polish Prime Minister expressed support for Orbán Viktor in the elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Foreign politicians commented on the Hungarian elections, indicating their support for local candidates.",
+    "analysis_details": "The presence of foreign individuals making statements about the elections raises concerns about external influence.",
+    "title_eng": "The Era of Wars Continues: Iran Will Not Give Up Its Nuclear Weapons, There Is No Peace with the United States",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Megadja GáborFacebook",
+      "published_at": "2026-04-12T07:22:14+02:00",
+      "scraped_at": "2026-04-12T08:00:39.733758",
+      "title": "A háborúk kora folytatódik: Irán nem mond le az atomfegyverről, nincs béke az Egyesült Államokkal",
+      "url": "https://mandiner.hu/kulfold/2026/04/a-haboruk-kora-folytatodik-iran-nem-mond-le-az-atomfegyverrol-nincs-beke-az-egyesult-allamokkal",
+      "article_id": "mandiner_a-haboruk-kora-folytatodik-iran-nem-mond-le-az-atomfegyverrol-nincs-beke-az-egyesult-allamokkal"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -31862,6 +32564,131 @@
       "title": "Gundalf interjút adott: Hazugságvizsgálatnak is alávetettek, azt miért nem hozzák nyilvánosságra?",
       "url": "https://hvg.hu/itthon/20260330_gundalf-dezinformacio-titkosszolgalat-kihallgatas",
       "article_id": "hvg_20260330_gundalf-dezinformacio-titkosszolgalat-kihallgatas"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Government",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico expressed his support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Aleksandar Vucic",
+        "affiliation": "Serbian Government",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Aleksandar Vucic expressed his support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "Polling Expert",
+        "country": "USA",
+        "role": "Pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter voted and held a press conference after."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Hungarian Government",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor voted and spoke at a campaign event."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on social media."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Party President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra encouraged voting in a video."
+      },
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "Fitness Trainer",
+        "country": "Hungary",
+        "role": "Public Figure",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Schobert Norbert shared a video of himself voting."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "Mentalist",
+        "country": "Unknown",
+        "role": "Mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Musician",
+        "country": "Hungary",
+        "role": "Public Figure",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "voting"
+    ],
+    "summary": "The article discusses the Hungarian elections, highlighting various individuals who commented or participated in the voting process, including foreign leaders expressing support for Orbán Viktor.",
+    "analysis_details": "The presence of foreign individuals commenting on the election raises concerns about external influence.",
+    "title_eng": "Robert Fico Wishes Viktor Orbán Success in Political Goals",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Tóth Sára",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:03.348621",
+      "title": "Robert Fico azt kívánja Orbán Viktornak, hogy minden politikai célja megvalósuljon",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/robert-fico-kivanom-orban-viktornak-hogy-a-parlamenti-valasztasokon-minden-politikai-celja-megvalosuljon/",
+      "article_id": "index_robert-fico-kivanom-orban-viktornak-hogy-a-parlamenti-valasztasokon-minden-politikai-celja-megvalosuljon"
     }
   },
   {
@@ -33931,6 +34758,137 @@
       "title": "Vance telefonon kapcsolta Trumpot, majd a nyugati civilizáció sorsa felől vezette le, miért kell Orbánra szavaznia a magyaroknak",
       "url": "https://444.hu/2026/04/07/vance-telefonon-kapcsolta-trumpot-majd-a-nyugati-civilizacio-sorsa-felol-vezette-le-miert-kell-orbanra-szavaznia-a-magyaroknak",
       "article_id": "444_vance-telefonon-kapcsolta-trumpot-majd-a-nyugati-civilizacio-sorsa-felol-vezette-le-miert-kell-orbanra-szavaznia-a-magyaroknak"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness trainer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Schobert Norbert shared a video on Facebook encouraging people to vote."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness trainer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rubint Réka appeared in the video with Schobert Norbert."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szentkirályi Alexandra posted a video on Facebook encouraging voting."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor spoke about the election on a program called 'Igazság órája'."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on Facebook."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szijjártó Péter posted a photo on social media after voting."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico wished Orbán Viktor success in the elections via social media."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses the participation in the Hungarian elections and features various individuals encouraging voting.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections indicates a mix of domestic and international interest.",
+    "title_eng": "First Participation Data of the Elections",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Barta Lóránt",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:04.027139",
+      "title": "Az első adatok szerint csaknem kétszer annyian szavaztak, mint 2022-ben",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/az-elso-adatok-szerint-csaknem-ketszer-annyian-szavaztak-mint-2022-ben/",
+      "article_id": "index_az-elso-adatok-szerint-csaknem-ketszer-annyian-szavaztak-mint-2022-ben"
     }
   },
   {
@@ -47858,6 +48816,121 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke during the election campaign."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Ministry of Foreign Affairs and Trade",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter held a press conference after voting."
+      },
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "Fitness Trainer",
+        "country": "Hungary",
+        "role": "Media Commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Schobert Norbert shared a video encouraging voting."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "President of Fidesz in Budapest",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra encouraged people to vote in a video."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Party",
+        "country": "Hungary",
+        "role": "President",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter urged citizens to vote on Facebook."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Vucsics expressed support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Prime Minister of Slovakia",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Fico expressed support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "Pollster",
+        "country": "USA",
+        "role": "Pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Musician",
+        "country": "Hungary",
+        "role": "Media Commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "media_commentary"
+    ],
+    "summary": "The article discusses the Hungarian elections and various individuals' comments and influences.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections raises concerns about foreign influence.",
+    "title_eng": "Orbán Viktor: The Whole World is Watching What the Hungarians Do",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Tóth Sára",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:07.287711",
+      "title": "Orbán Viktor: Most figyel az egész világ, hogy mit művelnek a magyarok",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/orban-viktor-most-figyel-az-egesz-vilag-hogy-mit-muvelnek-a-magyarok/",
+      "article_id": "index_orban-viktor-most-figyel-az-egesz-vilag-hogy-mit-muvelnek-a-magyarok"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -49820,6 +50893,26 @@
       "title": "Több ötletük is lenne az EU-s diplomatáknak arra az esetre, ha Orbánt újraválasztanák áprilisban",
       "url": "https://telex.hu/kulfold/2026/03/31/europai-unio-orban-viktor-valasztasi-gyozelem-forgatokonyv",
       "article_id": "telex_europai-unio-orban-viktor-valasztasi-gyozelem-forgatokonyv"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "voting"
+    ],
+    "summary": "The article discusses the upcoming Hungarian parliamentary elections and the expectations surrounding them.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Last Moments: Analysts Declare Which Party is More Likely to Win the Election",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T07:53:18+02:00",
+      "scraped_at": "2026-04-12T08:00:19.546373",
+      "title": "Lengyelországból érkezett a segélykiáltás: hátborzongató igazságot tártak fel – ezért kell Orbán Viktorra szavazni",
+      "url": "https://mandiner.hu/belfold/2026/04/lengyelorszagbol-erkezett-a-segelykialtas-hatborzongato-igazsagot-tartak-fel-ezert-kell-orban-viktorra-szavazni",
+      "article_id": "mandiner_lengyelorszagbol-erkezett-a-segelykialtas-hatborzongato-igazsagot-tartak-fel-ezert-kell-orban-viktorra-szavazni"
     }
   },
   {
@@ -53602,6 +54695,48 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Magyar Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "voter advocate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter encourages everyone to vote."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke about the importance of voting in an online program."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses the importance of voting in the ongoing election in Hungary.",
+    "analysis_details": "No foreign observers or commentators mentioned.",
+    "title_eng": "Péter Magyar on the Election: Let's Write Today in History Books",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T05:15:46.0000000Z",
+      "scraped_at": "2026-04-12T08:00:11.922614",
+      "title": "Magyar Péter a választásról: Írjuk be a mai napot a történelemkönyvekbe",
+      "url": "https://hvg.hu/itthon/20260412_magyar-peter-a-valasztasrol-vasarnap-reggel-szavazas-facebook-poszt",
+      "article_id": "hvg_20260412_magyar-peter-a-valasztasrol-vasarnap-reggel-szavazas-facebook-poszt"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [],
     "topics": [
       "election",
@@ -54063,6 +55198,193 @@
       "title": "A kormánysajtó szerint egy ukrán szervezet zavargókat toboroz Magyarországra, de több ponton is sántít a sztori",
       "url": "https://telex.hu/techtud/2026/04/09/valasztas-magyarorszag-ukrajna-kormanysajto-kozmedia-kormanyinfo",
       "article_id": "telex_valasztas-magyarorszag-ukrajna-kormanysajto-kozmedia-kormanyinfo"
+    }
+  },
+  {
+    "fake_observer_score": 10,
+    "individuals": [
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra encouraged people to vote in a video."
+      },
+      {
+        "name": "Michael Caine",
+        "affiliation": "unknown",
+        "country": "UK",
+        "role": "actor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Michael Caine appeared in a video supporting Szentkirályi."
+      },
+      {
+        "name": "Tobey Maguire",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "actor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Tobey Maguire appeared in a video supporting Szentkirályi."
+      },
+      {
+        "name": "Tom Cruise",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "actor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Tom Cruise appeared in a video supporting Szentkirályi."
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "actor",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Leonardo DiCaprio appeared in a video supporting Szentkirályi."
+      },
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Schobert Norbert encouraged people to vote in a video."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rubint Réka appeared in a video with Schobert Norbert."
+      },
+      {
+        "name": "ifjabb Schóbert Norbert",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "unknown",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "ifjabb Schóbert Norbert appeared in a video with Schobert Norbert."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor spoke about the election on a program."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter spoke about the election after voting."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on Facebook."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "unknown",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "unknown",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the Hungarian elections."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue mentioned he would reveal predictions about the election."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "politicians",
+      "foreign influence"
+    ],
+    "summary": "The article discusses various individuals, including politicians and celebrities, who commented on or influenced the Hungarian elections.",
+    "analysis_details": "The presence of foreign individuals expressing support or commenting on the elections raises concerns about external influence.",
+    "title_eng": "Tom Cruise and Leonardo DiCaprio Endorse Szentkirályi Alexandra's Vote",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Tóth Sára",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:05.979986",
+      "title": "Tom Cruise és Leonardo DiCaprio is áldását adta Szentkirályi Alexandra szavazatára",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/tom-cruise-es-leonardo-dicaprio-is-aldasat-adta-szentkiralyi-alexandra-szavazatara/",
+      "article_id": "index_tom-cruise-es-leonardo-dicaprio-is-aldasat-adta-szentkiralyi-alexandra-szavazatara"
     }
   },
   {
@@ -60441,6 +61763,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The National Election Office reported a voter turnout of 3.46% by 7 AM.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Record Voter Turnout at 7 AM",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T05:39:05.0000000Z",
+      "scraped_at": "2026-04-12T08:00:11.636431",
+      "title": "Abszolút rekord: 3,46 százalék ment el szavazni reggel 7 óráig",
+      "url": "https://hvg.hu/itthon/20260412_valasztasok-elso-reszveteli-adatok-szavazas-ebx",
+      "article_id": "hvg_20260412_valasztasok-elso-reszveteli-adatok-szavazas-ebx"
+    }
+  },
+  {
     "fake_observer_score": 80,
     "individuals": [
       {
@@ -64309,6 +65651,109 @@
     }
   },
   {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Magyar Péter a Facebook-oldalán tett közzé egy bejegyzést, melyben mindenkit arra biztat, hogy menjen el szavazni."
+      },
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Schobert Norbert a Facebook-oldalán osztott meg egy videót, melyen a feleségével és fiával bejelenti, hogy ő már szavazott."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "party president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szentkirályi Alexandra egy Facebook-oldalán közzétett videóban mutatta meg, hogy milyen egyszerű behúzni a 2X-et."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor miniszterelnök vasárnap az Igazság órája című műsorban elmondta: a választás tétje az, hogy Magyarországot ne vonják bele a háborúba."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Ministry of Foreign Affairs and Trade",
+        "country": "Hungary",
+        "role": "Foreign Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter a közösség oldalára töltött fel egy fotót, amelyen a feleségével látható."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin, Donald Trump közvélemény-kutatója, soha nem tapasztalt ennyire érzékeny magyar választási kampányt."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Alekszandar Vucsics szerb köztársasági elnök újfent megerősítette, hogy Orbán Viktor győzelméért szorít a magyar országgyűlési választásokon."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Robert Fico szlovák miniszterelnök a közösségi médiában közzétett bejegyzésében Orbán Viktor győzelmét kívánta."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers"
+    ],
+    "summary": "The article discusses the Hungarian elections and various individuals encouraging voter participation.",
+    "analysis_details": "The presence of local political figures and foreign commentators highlights the significance of the election.",
+    "title_eng": "Magyar Péter: Let's Change the System Together, Peacefully",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Péter Zsombor",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:07.970069",
+      "title": "Magyar Péter: Váltsunk közösen, békésen rendszert",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/magyar-peter-megkezdodott-a-sorsdonto-valasztas-amelyen-hosszu-idore-eldol-a-szeretett-hazank-sorsa/",
+      "article_id": "index_magyar-peter-megkezdodott-a-sorsdonto-valasztas-amelyen-hosszu-idore-eldol-a-szeretett-hazank-sorsa"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -65755,6 +67200,38 @@
       "title": "Ez történik, amikor egy ellenzéki szavazó kér közös képet Szijjártó Pétertől (VIDEÓ)",
       "url": "https://mandiner.hu/belfold/2026/04/ez-tortenik-amikor-egy-ellenzeki-szavazo-ker-kozos-kepet-szijjarto-petertol-video",
       "article_id": "mandiner_ez-tortenik-amikor-egy-ellenzeki-szavazo-ker-kozos-kepet-szijjarto-petertol-video"
+    }
+  },
+  {
+    "fake_observer_score": 10,
+    "individuals": [
+      {
+        "name": "Former Polish Prime Minister",
+        "affiliation": "Unknown",
+        "country": "Poland",
+        "role": "commentator",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "The former Polish Prime Minister expressed support for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "A former Polish Prime Minister commented on the Hungarian elections, expressing support for Orbán Viktor.",
+    "analysis_details": "The article highlights foreign commentary on the election.",
+    "title_eng": "Last Moments: Analysts Predict Which Party is More Likely to Win the Election",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T07:31:14+02:00",
+      "scraped_at": "2026-04-12T08:00:20.484973",
+      "title": "Eldördült a startpisztoly: mehetünk szavazni – mindenkit várnak az urnákhoz",
+      "url": "https://mandiner.hu/belfold/2026/04/eldordult-a-startpisztoly-mehetunk-szavazni-mindenkit-varnak-az-urnakhoz",
+      "article_id": "mandiner_eldordult-a-startpisztoly-mehetunk-szavazni-mindenkit-varnak-az-urnakhoz"
     }
   },
   {
@@ -67986,6 +69463,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The article discusses the voter turnout data for the recent elections in Hungary.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "First Election Participation Data Released",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Budai Balázs, Szabó Gyula",
+      "published_at": "2026-04-12T07:38:00+02:00",
+      "scraped_at": "2026-04-12T08:00:09.647511",
+      "title": "Megérkeztek az első választási adatok, egyre valószínűbb, hogy történelmi nap lesz a mai",
+      "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-reszveteli-adatok-7-ora-reggel-rekord/",
+      "article_id": "index_valasztas-2026-reszveteli-adatok-7-ora-reggel-rekord"
+    }
+  },
+  {
     "fake_observer_score": 60,
     "individuals": [
       {
@@ -68885,6 +70382,147 @@
       "title": "Orbán Viktor Budapesten: Rendíthetetlenül hiszünk a szeretet és az összefogás erejében | 24.hu",
       "url": "https://24.hu/belfold/2026/04/11/kampanyzaro-2026-fidesz-orban-viktor-elo-kozvetites/#orban-viktor-budapesten-a-valasztas-legfontosabb-tetje-a-beke",
       "article_id": "24hu__orban-viktor-budapesten-a-valasztas-legfontosabb-tetje-a-beke"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Schobert Norbert",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Schobert Norbert shared a video on Facebook encouraging people to vote."
+      },
+      {
+        "name": "Rubint Réka",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "fitness coach",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rubint Réka appeared in a video with Schobert Norbert."
+      },
+      {
+        "name": "Szentkirályi Alexandra",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szentkirályi Alexandra posted a video on Facebook encouraging voting."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor spoke about the election on a program."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Minister of Foreign Affairs",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szijjártó Péter posted a photo on social media after voting."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter encouraged people to vote on Facebook."
+      },
+      {
+        "name": "John McLaughlin",
+        "affiliation": "N/A",
+        "country": "USA",
+        "role": "pollster",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "John McLaughlin commented on the sensitivity of the Hungarian election campaign."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "N/A",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in a social media post."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "N/A",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "N/A",
+        "country": "N/A",
+        "role": "mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue announced he would reveal predictions about the election."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses the ongoing Hungarian elections, highlighting various public figures encouraging voter participation.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections indicates a mix of domestic and international interest.",
+    "title_eng": "Voting and Election Participation in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Tóth Sára",
+      "published_at": "2026-04-12T07:51:30+02:00",
+      "scraped_at": "2026-04-12T08:00:09.284015",
+      "title": "Délig még lehet mozgóurnát igényelni",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/delig-meg-lehet-mozgournat-igenyelni/",
+      "article_id": "index_delig-meg-lehet-mozgournat-igenyelni"
     }
   },
   {
