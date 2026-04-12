@@ -1558,6 +1558,26 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "reporting"
+    ],
+    "summary": "The article discusses the events following the election closure and the analysis of results.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Votes, Mandates, Analyses, On-Site Reporting",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Gáll Csongor, Nótin Tamás",
+      "published_at": "2026-04-12T17:55:00+02:00",
+      "scraped_at": "2026-04-12T18:00:08.133044",
+      "title": "A választás éjszakája – Élőben az Indexen",
+      "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-elo-kozvetites-eredmenyvaro-tudositas-fidesz-orban-viktor-tisza-part-magyar-peter/",
+      "article_id": "index_valasztas-2026-elo-kozvetites-eredmenyvaro-tudositas-fidesz-orban-viktor-tisza-part-magyar-peter"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -3473,6 +3493,25 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election"
+    ],
+    "summary": "The article discusses the upcoming elections in Hungary and mentions various topics related to the political climate.",
+    "analysis_details": "No foreign individuals or observers were identified in the article.",
+    "title_eng": "Election 2026: We Do Not Want Dictates and Uniformity!",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:31:09+02:00",
+      "scraped_at": "2026-04-12T18:00:12.888923",
+      "title": "Ákos: Nem kérünk a diktátumokból és az uniformizálásból! - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/valasztas-2026-akos-fidesz-kdnp-orban-viktor",
+      "article_id": "origo_valasztas-2026-akos-fidesz-kdnp-orban-viktor"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -4942,6 +4981,38 @@
       "title": "Wáberer György: Az nem létezik, hogy mindig 26-27 országgal szembe megyünk. Nem vesszük észre, hogy esetleg velünk van a baj?",
       "url": "https://telex.hu/gazdasag/2026/04/09/waberer-gyorgy-fidesz-tisza-valasztas-orban-viktor-verseny-demokracia",
       "article_id": "telex_waberer-gyorgy-fidesz-tisza-valasztas-orban-viktor-verseny-demokracia"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "N/A",
+        "country": "Ukraine",
+        "role": "interfering agency",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Az Egyesült Államokból érkezett: ukrán titkosszolgálatok avatkoztak a magyarországi választásokba."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign interference"
+    ],
+    "summary": "The article discusses concerns about foreign interference in Hungarian elections.",
+    "analysis_details": "Ukrainian intelligence agencies are alleged to have interfered in the elections.",
+    "title_eng": "Concerns Over Foreign Interference in Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:53:02+02:00",
+      "scraped_at": "2026-04-12T18:00:20.944644",
+      "title": "Most kell belehúzni! – üzent a Fidesz észak-pesti jelöltje",
+      "url": "https://mandiner.hu/belfold/2026/04/most-kell-belehuzni-uzent-a-fidesz-eszak-pesti-jeloltje",
+      "article_id": "mandiner_most-kell-belehuzni-uzent-a-fidesz-eszak-pesti-jeloltje"
     }
   },
   {
@@ -7043,6 +7114,59 @@
   },
   {
     "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Dömötör Csaba",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Dömötör Csaba raised concerns about dangerous ratios."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor commented on what he wishes for Orbán Viktor."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor expressed wishes for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "politics",
+      "media"
+    ],
+    "summary": "Dömötör Csaba and others discussed the upcoming elections and political sentiments.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Dömötör Csaba Warns of Dangerous Ratios",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:16:43+02:00",
+      "scraped_at": "2026-04-12T18:00:13.255949",
+      "title": "Dömötör Csaba veszélyes arányokra hívta fel a figyelmet - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/domotor-csaba-veszelyes-aranyokra-hivta-fel-a-figyelmet",
+      "article_id": "origo_domotor-csaba-veszelyes-aranyokra-hivta-fel-a-figyelmet"
+    }
+  },
+  {
+    "fake_observer_score": 0,
     "individuals": [],
     "topics": [
       "election",
@@ -7882,6 +8006,116 @@
     }
   },
   {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Bódi Mátyás",
+        "affiliation": "Választási Földrajz",
+        "country": "Hungary",
+        "role": "analyst",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Bódi Mátyás, a Választási Földrajz elemzője."
+      },
+      {
+        "name": "Balogh Levente",
+        "affiliation": "Szentkirályi Magyarország",
+        "country": "Hungary",
+        "role": "founder",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Balogh Levente, a Szentkirályi Magyarország alapító tulajdonosa."
+      },
+      {
+        "name": "Rácz András",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "Russia expert",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Rácz András, Oroszország-szakértő."
+      },
+      {
+        "name": "Kövesdi Veronika",
+        "affiliation": "ELTE",
+        "country": "Hungary",
+        "role": "media researcher",
+        "tags": [
+          "physically_present",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Kövesdi Veronika médiakutató, ELTE."
+      },
+      {
+        "name": "Pál Marci",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "family law activist",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Pál Marci, családjogi aktivista."
+      },
+      {
+        "name": "Kajdi Csaba",
+        "affiliation": "Visage modellügynökség",
+        "country": "Hungary",
+        "role": "owner, influencer",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Kajdi Csaba, Cyla, a Visage modellügynökség tulajdonosa, influenszer."
+      },
+      {
+        "name": "Gyurkó Szilvia",
+        "affiliation": "Hintalovon Gyermekjogi Alapítvány",
+        "country": "Hungary",
+        "role": "founder and leader",
+        "tags": [
+          "physically_present",
+          "affiliated_with_non_accredited_org"
+        ],
+        "evidence": "Gyurkó Szilvia, a Hintalovon Gyermekjogi Alapítvány alapítója és vezetője."
+      },
+      {
+        "name": "Lovas Rozi",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "actress",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Lovas Rozi színművész."
+      }
+    ],
+    "topics": [
+      "election",
+      "analysis",
+      "media"
+    ],
+    "summary": "The article discusses the live coverage of the Hungarian elections, featuring various guests and analysts.",
+    "analysis_details": "All individuals mentioned are from Hungary and are physically present during the election coverage.",
+    "title_eng": "Exciting and Competitive Elections in Hungary",
+    "article_metadata": {
+      "source": "Telex",
+      "author": "Fábián Tamás, Rédli Balázs, Mizsur András",
+      "published_at": "2026-04-12T15:25:15.000Z",
+      "scraped_at": "2026-04-12T18:00:10.869557",
+      "title": "Nem tudja megváltoztatni a trendet a Fidesz: sokkal több az új választó a nagyvárosokban",
+      "url": "https://telex.hu/video/2026/04/12/elo-kozvetites-bodi-matyas-magyar-peter-orban-viktor-szavaz-1",
+      "article_id": "telex_elo-kozvetites-bodi-matyas-magyar-peter-orban-viktor-szavaz-1"
+    }
+  },
+  {
     "fake_observer_score": 70,
     "individuals": [
       {
@@ -8029,6 +8263,71 @@
       "title": "„Rossz irányba halad az EU” – lengyel politikus Orbán Viktor győzelmében bízik - ORIGO",
       "url": "https://www.origo.hu/kulpol/2026/04/orban-viktor-gyozelmeben-bizik-a-lengyel-politikus",
       "article_id": "origo_orban-viktor-gyozelmeben-bizik-a-lengyel-politikus"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Török Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Török Gábor is commenting on the voter turnout."
+      },
+      {
+        "name": "Orbán Balázs",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Balázs commented on the high number of votes."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Orbán Viktor commented on the record high voter turnout."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter reacted to the turnout data."
+      }
+    ],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The article discusses the record high voter turnout in the elections.",
+    "analysis_details": "No foreign observers or influences mentioned.",
+    "title_eng": "Record Voter Turnout in Hungarian Elections",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T15:32:48.0000000Z",
+      "scraped_at": "2026-04-12T18:00:11.475724",
+      "title": "Már délután 5-ig többen mentek el szavazni, mint 1990 óta bármikor egész nap: 74,23 százalékos a részvétel",
+      "url": "https://hvg.hu/itthon/20260412_reszveteli-arany-17-ora-rekorddontes",
+      "article_id": "hvg_20260412_reszveteli-arany-17-ora-rekorddontes"
     }
   },
   {
@@ -8646,6 +8945,26 @@
       "title": "Egy újabb DK-s jelölt kérte, hogy ne rá, hanem a legesélyesebb ellenzékire szavazzanak",
       "url": "https://telex.hu/belfold/2026/04/10/egy-ujabb-dk-s-jelolt-kerte-hogy-ne-ra-hanem-a-legeselyesebb-ellenzekire-szavazzanak",
       "article_id": "telex_egy-ujabb-dk-s-jelolt-kerte-hogy-ne-ra-hanem-a-legeselyesebb-ellenzekire-szavazzanak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [],
+    "topics": [
+      "election",
+      "voter turnout"
+    ],
+    "summary": "The article discusses the voter turnout statistics for the Hungarian elections.",
+    "analysis_details": "No foreign individuals or observers mentioned.",
+    "title_eng": "Voter Turnout Reaches Historical Highs",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Budai Balázs",
+      "published_at": "2026-04-12T17:32:00+02:00",
+      "scraped_at": "2026-04-12T18:00:08.848110",
+      "title": "Szédületes magasságokban a részvétel, megdőlt a történelmi rekord",
+      "url": "https://index.hu/belfold/2026/04/12/valasztas-2026-reszveteli-adatok-17-ora-tortenelmi-csucs-szavazas-urna/",
+      "article_id": "index_valasztas-2026-reszveteli-adatok-17-ora-tortenelmi-csucs-szavazas-urna"
     }
   },
   {
@@ -9486,6 +9805,48 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "voter",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gábor collected and delivered votes from Iceland to Hungary."
+      },
+      {
+        "name": "Nagy Simon Tamás",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "photographer",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Nagy Simon Tamás took a photo related to the voting process."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "expat voting"
+    ],
+    "summary": "Hungarians living in Iceland faced challenges in voting, leading to community efforts to collect and deliver votes.",
+    "analysis_details": "No foreign observers or media commentators were mentioned; the focus was on local voters and their experiences.",
+    "title_eng": "Hungarians in Iceland Successfully Cast Their Votes",
+    "article_metadata": {
+      "source": "444",
+      "author": "Inkei Bence",
+      "published_at": "2026-04-12T17:43:26+02:00",
+      "scraped_at": "2026-04-12T18:00:09.837097",
+      "title": "Sikeresen leadták az Izlandon élő magyarok szavazatait",
+      "url": "https://444.hu/2026/04/12/sikeresen-leadtak-az-izlandon-elo-magyarok-szavazatait",
+      "article_id": "444_sikeresen-leadtak-az-izlandon-elo-magyarok-szavazatait"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Kósa Lajos",
         "affiliation": "Fidesz",
         "country": "Hungary",
@@ -10145,6 +10506,48 @@
       "title": "Saját kamarásával akarták megöletni a gyermek II. Rákóczi Ferencet",
       "url": "https://mandiner.hu/belfold/2026/04/sajat-kamarasaval-akartak-megoletni-a-gyermek-ii-rakoczi-ferencet",
       "article_id": "mandiner_sajat-kamarasaval-akartak-megoletni-a-gyermek-ii-rakoczi-ferencet"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak."
+      }
+    ],
+    "topics": [
+      "election",
+      "commentary"
+    ],
+    "summary": "The article discusses election-related news and commentary.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Election 2026: Incredible Reports of Election Fraud and Violence",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:01:39+02:00",
+      "scraped_at": "2026-04-12T18:00:13.476526",
+      "title": "Választás 2026: elképesztő választási csalásokról és erőszakról érkeznek hírek - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/valasztas-2026-orban-balazs-tisza-part-csalas-eroszak",
+      "article_id": "origo_valasztas-2026-orban-balazs-tisza-part-csalas-eroszak"
     }
   },
   {
@@ -15278,6 +15681,151 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "political director",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor posted about election fraud on Facebook."
+      },
+      {
+        "name": "Hujber Feri",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "volunteer observer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri shared a video about becoming a volunteer observer."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party president",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Magyar Péter posted about the importance of voting on Facebook."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "entertainer",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Fásy Ádám shared thoughts on the significance of voting on Facebook."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "lawyer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Döbrentey Dániel commented on the legality of voting procedures."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Novák Előd reported on organized voting irregularities."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Gulyás Gergely expressed optimism about Fidesz's chances in an interview."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "football player",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel encouraged voting for Fidesz in a TikTok video."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos shared a story about voting irregularities on Facebook."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "writer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Bölöni László",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "former football player",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Bölöni László was mentioned in relation to the election atmosphere."
+      },
+      {
+        "name": "David",
+        "affiliation": "OE24.TV",
+        "country": "Austria",
+        "role": "reporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "David from OE24.TV commented on the interest in the elections from Austria."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "irregularities"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including politicians, entertainers, and foreign media commentators.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections indicates a mix of perspectives, with some individuals showing signs of being observers.",
+    "title_eng": "Election Irregularities and Observations in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:04.968239",
+      "title": "Erőszakoskodó, agresszív tiszásokról posztolt a Fidesz kampányfőnöke",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/eroszakoskodo-agressziv-tiszasokrol-posztolt-a-fidesz-kampanyfonoke/",
+      "article_id": "index_eroszakoskodo-agressziv-tiszasokrol-posztolt-a-fidesz-kampanyfonoke"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [
@@ -15955,6 +16503,58 @@
       "title": "Rendszerváltók, értelmiségiek mesélik el, hogyan jutottunk idáig kilenc választás után",
       "url": "https://index.hu/belfold/2026/04/08/valasztas-2026-dokumentumfilm-kozter-elemzes-orban-viktor-magyar-peter-kampany/",
       "article_id": "index_valasztas-2026-dokumentumfilm-kozter-elemzes-orban-viktor-magyar-peter-kampany"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Pócs János",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "official",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Pócs Jánoshoz érkezett a bejelentés: vérlázító tiszás csalás miatt kellett intézkedni."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Kárpátaljai tévés újságíró mondta el, mi maradt Ukrajnából azután, hogy a háborús időkben egy komolytalan embert, egy „bohócot” választottak meg az emberek."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Various individuals commented on the Hungarian elections, including local candidates and a foreign journalist.",
+    "analysis_details": "The presence of foreign commentary raises concerns about external influence in the election.",
+    "title_eng": "Unexpected Opinions in the Brussels Press: Why Orbán's Victory Would Be Good!",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Kubatov GáborFacebook",
+      "published_at": "2026-04-12T17:11:08+02:00",
+      "scraped_at": "2026-04-12T18:00:30.062833",
+      "title": "Váratlan vélemény a brüsszeli lapban: ezért lenne jó Orbán győzelme!",
+      "url": "https://mandiner.hu/kulfold/2026/04/varatlan-velemeny-a-brusszeli-lapban-ezert-lenne-jo-orban-gyozelme",
+      "article_id": "mandiner_varatlan-velemeny-a-brusszeli-lapban-ezert-lenne-jo-orban-gyozelme"
     }
   },
   {
@@ -21116,6 +21716,120 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "voter",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Fásy Ádám és családja is leadta a szavazatát a vasárnapi országgyűlési választáson."
+      },
+      {
+        "name": "Hujber Feri",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri a Facebookon osztott meg egy videót, amiben arról beszél, hogy önkéntes őrszemnek áll Salgótarjánban."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor a hivatalos Facebook-oldalára feltöltött videóban beszélt a választásról."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter a Facebook-oldalán osztott meg egy videót, melyben elmondja, hogy a választási részvételi adatok már napközben egyértelműen jelezték a változási szándékot."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gulyás Gergely optimistán nyilatkozott a Fidesz esélyeiről."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel egy TikTok-videóban mondta el, hogy kire szavaz április a választáson."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hadházy Ákos a Facebookon osztott meg egy képet, amelyen egy dokumentum látható."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "voter",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Krasznahorkai Lászlót a milánói konzulátus előtt látta a HVG olvasója."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Novák Előd a Facebook-oldalán számolt be a választás rendje elleni bűncselekményről."
+      }
+    ],
+    "topics": [
+      "election",
+      "voting",
+      "politics"
+    ],
+    "summary": "The article discusses the Hungarian parliamentary elections, highlighting various individuals' participation and comments on the voting process.",
+    "analysis_details": "The presence of multiple local politicians and media commentators indicates a high level of engagement in the electoral process.",
+    "title_eng": "Voting in the Hungarian Parliamentary Elections",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Domján Anikó",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:07.129276",
+      "title": "Fásy Ádám szerint most dől el minden",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/fasy-adam/",
+      "article_id": "index_fasy-adam"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -25358,6 +26072,48 @@
     }
   },
   {
+    "fake_observer_score": 70,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "Ukrainian Intelligence Services",
+        "country": "Ukraine",
+        "role": "foreign influence",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Az Egyesült Államokból érkezett: ukrán titkosszolgálatok avatkoztak a magyarországi választásokba."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "The article discusses the high voter turnout and mentions concerns about foreign influence in the Hungarian elections.",
+    "analysis_details": "Németh Balázs warns against foreign agents, while Ukrainian intelligence is accused of interfering.",
+    "title_eng": "Fresh Analysis: A Very Important Detail Found Regarding Record Voter Turnout",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:54:52+02:00",
+      "scraped_at": "2026-04-12T18:00:19.962193",
+      "title": "Friss elemzés: egy nagyon fontos részletre bukkantunk a rekordrészvétel kapcsán",
+      "url": "https://mandiner.hu/belfold/2026/04/friss-elemzes-egy-nagyon-fontos-reszletre-bukkantunk-a-rekordreszvetel-kapcsan",
+      "article_id": "mandiner_friss-elemzes-egy-nagyon-fontos-reszletre-bukkantunk-a-rekordreszvetel-kapcsan"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -26450,6 +27206,148 @@
       "title": "Standard-kommentár: Orbán azt hiszi, ezt is megúszhatja, de a magyarok nem hülyék",
       "url": "https://hvg.hu/360/20260407_standard-kommentar-orban-azt-hiszi-ezt-is-meguszhatja-de-a-magyarok-nem-hulyek",
       "article_id": "hvg_20260407_standard-kommentar-orban-azt-hiszi-ezt-is-meguszhatja-de-a-magyarok-nem-hulyek"
+    }
+  },
+  {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Hujber Feri",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "volunteer observer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri shared a video on Facebook about becoming a volunteer observer."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor posted a video on Facebook urging citizens to vote."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter shared a video on Facebook discussing the election."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Gulyás Gergely gave an interview about the election."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Football Player",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel shared a TikTok video about his voting decision."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Writer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos shared a document about election fraud on Facebook."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Novák Előd reported on election irregularities on Facebook."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Entertainer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Fásy Ádám shared thoughts on the importance of voting on Facebook."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "Lawyer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Döbrentey Dániel commented on voting procedures in an interview."
+      },
+      {
+        "name": "David (OE24.TV)",
+        "affiliation": "OE24.TV",
+        "country": "Austria",
+        "role": "Reporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "David from OE24.TV reported on the election atmosphere in Hungary."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "irregularities"
+    ],
+    "summary": "The article discusses various events and sentiments surrounding the Hungarian elections, including comments from local politicians and foreign media presence.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections indicates a mix of genuine observation and potential misinformation.",
+    "title_eng": "Different Atmospheres Awaiting Election Results",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Domján Anikó",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:03.675701",
+      "title": "Több városban is közös eredményvárókkal hangolódnak",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/tobb-varosban-is-kozos-eredmenyvarokra-hangolodnak/",
+      "article_id": "index_tobb-varosban-is-kozos-eredmenyvarokra-hangolodnak"
     }
   },
   {
@@ -33424,6 +34322,48 @@
     }
   },
   {
+    "fake_observer_score": 70,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "Ukrainian Intelligence Services",
+        "country": "Ukraine",
+        "role": "foreign influence",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Az Egyesült Államokból érkezett: ukrán titkosszolgálatok avatkoztak a magyarországi választásokba."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "Concerns were raised about foreign influence in the Hungarian elections.",
+    "analysis_details": "Németh Balázs highlighted the risk of foreign agents gaining majority influence.",
+    "title_eng": "Concerns Over Foreign Influence in Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:49:47+02:00",
+      "scraped_at": "2026-04-12T18:00:21.896053",
+      "title": "A magas részvétel nem kedvez a Mi Hazánknak – elúszhatnak a szavazatok, az utolsó pillanatban a Fidesz lehet a taktikus választás",
+      "url": "https://mandiner.hu/belfold/2026/04/a-magas-reszvetel-nem-kedvez-a-mi-hazanknak-eluszhatnak-a-szavazatok-az-utolso-pillanatban-a-fidesz-lehet-a-taktikus-valasztas",
+      "article_id": "mandiner_a-magas-reszvetel-nem-kedvez-a-mi-hazanknak-eluszhatnak-a-szavazatok-az-utolso-pillanatban-a-fidesz-lehet-a-taktikus-valasztas"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -36384,6 +37324,148 @@
       "title": "Political Capital: Biztosból bizonytalan választás lett a Fidesz",
       "url": "https://telex.hu/belfold/2026/04/09/political-capital-valasztas-fidesz-tisza-part-mi-hazank-elemzes",
       "article_id": "telex_political-capital-valasztas-fidesz-tisza-part-mi-hazank-elemzes"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Hujber Feri",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "volunteer observer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri shared a video on Facebook about volunteering to prevent election fraud."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Orbán Viktor posted a video on Facebook urging voters to protect Hungary."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Magyar Péter shared a video discussing the significance of the election."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Gulyás Gergely gave an interview about the election participation."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Football Player",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel encouraged voters to support Fidesz in a TikTok video."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos shared a document regarding election fraud on Facebook."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Writer",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "Politician",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Novák Előd reported organized voting irregularities on Facebook."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "Entertainer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Fásy Ádám shared his thoughts on the importance of voting on Facebook."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "Lawyer",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Döbrentey Dániel commented on the legality of voting procedures."
+      },
+      {
+        "name": "David",
+        "affiliation": "OE24.TV",
+        "country": "Austria",
+        "role": "Reporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "David from OE24.TV commented on the interest in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "fraud"
+    ],
+    "summary": "The article discusses the ongoing elections in Hungary, highlighting various individuals' comments and actions related to the voting process.",
+    "analysis_details": "The presence of local and foreign commentators indicates a mix of perspectives on the election's integrity.",
+    "title_eng": "Election Results Announcement",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Domján Anikó",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:04.388267",
+      "title": "Mutatjuk, mikor indul az eredményközlés",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/este-8-tol-jonnek-az-eredmenyek/",
+      "article_id": "index_este-8-tol-jonnek-az-eredmenyek"
     }
   },
   {
@@ -43547,6 +44629,68 @@
     "fake_observer_score": 30,
     "individuals": [
       {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Pócs János",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "official",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Pócs Jánoshoz érkezett a bejelentés: vérlázító tiszás csalás miatt kellett intézkedni."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Kárpátaljai tévés újságíró mondta el, mi maradt Ukrajnából azután, hogy a háborús időkben egy komolytalan embert, egy „bohócot” választottak meg az emberek."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Hoppá: valaki az utolsó pillanatban tett 280 ezer dollárt Orbán Viktor győzelmére."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "The article discusses the influence of foreign entities and individuals on the Hungarian elections.",
+    "analysis_details": "The presence of foreign media commentators and local candidates raises concerns about foreign influence.",
+    "title_eng": "German Press Criticizes Hungary in Election Context",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Kubatov GáborFacebook",
+      "published_at": "2026-04-12T17:08:41+02:00",
+      "scraped_at": "2026-04-12T18:00:31.209363",
+      "title": "Világhírű magyar feltalálóval példálóztak az amerikai lapban: ezért győzhet Orbán!",
+      "url": "https://mandiner.hu/kulfold/2026/04/vilaghiru-magyar-feltalaloval-peldaloztak-az-amerikai-lapban-ezert-gyozhet-orban",
+      "article_id": "mandiner_vilaghiru-magyar-feltalaloval-peldaloztak-az-amerikai-lapban-ezert-gyozhet-orban"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
         "name": "J. D. Vance",
         "affiliation": "N/A",
         "country": "USA",
@@ -44605,6 +45749,138 @@
       "title": "Visszalépések, kitálalások és egy látogatás Amerikából: így robogunk a választási hétvége felé",
       "url": "https://telex.hu/belfold/2026/04/08/valasztasi-hirlevel-kampany-valasztas-orban-viktor-magyar-peter-visszalepes-nyilatkozat",
       "article_id": "telex_valasztasi-hirlevel-kampany-valasztas-orban-viktor-magyar-peter-visszalepes-nyilatkozat"
+    }
+  },
+  {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Nagy Attila",
+        "affiliation": "Nemzeti Választási Iroda",
+        "country": "Hungary",
+        "role": "president",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Nagy Attila, the president of the National Election Office, reported on the website's accessibility issues."
+      },
+      {
+        "name": "Hujber Feri",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Hujber Feri shared a video on Facebook discussing his role as a volunteer observer."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Orbán Viktor posted on Facebook about the election and its significance."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Magyar Péter shared a video discussing the election participation data."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "lawyer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Döbrentey Dániel commented on the legality of voting procedures."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Novák Előd reported on organized voting and alleged electoral fraud."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "minister",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Gulyás Gergely provided an interview regarding the election."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "voter",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "Paks FC",
+        "country": "Hungary",
+        "role": "football player",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Böde Dániel shared a TikTok video discussing his support for Fidesz."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "Hadházy Ákos shared a document regarding electoral fraud."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "fraud"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including officials, politicians, and commentators, highlighting issues of accessibility and allegations of electoral fraud.",
+    "analysis_details": "The presence of multiple observers and commentators indicates a high level of scrutiny on the election process.",
+    "title_eng": "Election Observations and Allegations in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kozics Júlia",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:07.799546",
+      "title": "NVI-elnök: a tűzfal védelmi beállításának finomhangolása miatt nem volt elérhető az új látogatóknak a honlap",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/nvi-elnok-a-tuzfal-vedelmi-beallitasanak-finomhangolasa-miatt-nem-volt-elerheto-az-uj-latogatoknak-a-honlap/",
+      "article_id": "index_nvi-elnok-a-tuzfal-vedelmi-beallitasanak-finomhangolasa-miatt-nem-volt-elerheto-az-uj-latogatoknak-a-honlap"
     }
   },
   {
@@ -46045,6 +47321,48 @@
       "title": "Még a Google is megemlékezik a magyar országgyűlési választásról",
       "url": "https://mandiner.hu/belfold/2026/04/meg-a-google-is-megemlekezik-a-magyar-orszaggyulesi-valasztasrol",
       "article_id": "mandiner_meg-a-google-is-megemlekezik-a-magyar-orszaggyulesi-valasztasrol"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Németh Balázs stated that foreign agents should not gain a majority."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "Unknown",
+        "country": "Ukraine",
+        "role": "intelligence agency",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "It was reported that Ukrainian intelligence agencies interfered in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign interference"
+    ],
+    "summary": "Concerns were raised about foreign interference in the Hungarian elections.",
+    "analysis_details": "Statements from local politicians highlight fears of foreign influence.",
+    "title_eng": "Concerns Over Foreign Interference in Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:36:57+02:00",
+      "scraped_at": "2026-04-12T18:00:24.985931",
+      "title": "Már kora reggel olyan részeg volt a Tisza Párt szavazatszámlálója, hogy haza kellett küldeni",
+      "url": "https://mandiner.hu/belfold/2026/04/mar-kora-reggel-olyan-reszeg-volt-a-tisza-part-szavazatszamlaloja-hogy-haza-kellett-kuldeni",
+      "article_id": "mandiner_mar-kora-reggel-olyan-reszeg-volt-a-tisza-part-szavazatszamlaloja-hogy-haza-kellett-kuldeni"
     }
   },
   {
@@ -47525,6 +48843,48 @@
       "title": "Etikai vizsgálat indulhat egy háziorvos ellen a szavazatvásárlásról szóló dokumentumfilm miatt",
       "url": "https://hvg.hu/itthon/20260331_szavazatvasarlas-nyirbogati-haziorvos-polgarmester-rizsak-ildiko-etikai-vizsgalat-a-szavazat-ara-simon-miklos-fidesz",
       "article_id": "hvg_20260331_szavazatvasarlas-nyirbogati-haziorvos-polgarmester-rizsak-ildiko-etikai-vizsgalat-a-szavazat-ara-simon-miklos-fidesz"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak."
+      }
+    ],
+    "topics": [
+      "election",
+      "commentary"
+    ],
+    "summary": "The article discusses the latest participation rates in the 2026 elections and includes commentary from Reviczky Gábor regarding Orbán Viktor.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Election 2026: Participation Rates Update",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:37:05+02:00",
+      "scraped_at": "2026-04-12T18:00:12.472249",
+      "title": "Toronymagas a részvételi arány: megérkeztek a legfrissebb számok - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/valasztas-2026-reszveteli-szavazas-ot-ora",
+      "article_id": "origo_valasztas-2026-reszveteli-szavazas-ot-ora"
     }
   },
   {
@@ -51999,6 +53359,93 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Lovasi András",
+        "affiliation": "Kiscsillag, Kispál és a Borz",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lovasi András szavazott lánya társaságában."
+      },
+      {
+        "name": "Lovasi Eszter",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Lovasi Eszter is a musician and was mentioned in relation to Lovasi András."
+      },
+      {
+        "name": "Ákos",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Ákos leadta már a szavazatát."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Fásy Ádám és családja is leadta a szavazatát."
+      },
+      {
+        "name": "Majka",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "musician",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Majka és felesége, Majoros Hajnalka is leadta szavazatát."
+      },
+      {
+        "name": "Majoros Hajnalka",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "unknown",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Majoros Hajnalka Instagram-oldalán osztotta meg gondolatait."
+      }
+    ],
+    "topics": [
+      "election",
+      "celebrities",
+      "voting"
+    ],
+    "summary": "Celebrities in Hungary actively participated in the elections and shared their voting experiences on social media.",
+    "analysis_details": "All individuals mentioned are Hungarian and participated in the election.",
+    "title_eng": "How Celebrities Vote in the Crucial Election",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Péter Alvarez",
+      "published_at": "2026-04-12T17:44:00+02:00",
+      "scraped_at": "2026-04-12T18:00:08.510158",
+      "title": "Így szavaznak a sztárok a sorsdöntőnek tartott választáson",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/12/sztarok-szavazas-kozossegi-media-posztok-valasztas-2026/",
+      "article_id": "index_sztarok-szavazas-kozossegi-media-posztok-valasztas-2026"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Magyar Péter",
         "affiliation": "Tisza Párt",
         "country": "Hungary",
@@ -52211,6 +53658,47 @@
       "title": "A Tisza, vagy a Fidesz hívei sem tudják elképzelni, hogy a másik oldal nyerjen",
       "url": "https://hvg.hu/itthon/20260407_tisza-fidesz-median-ketharmad",
       "article_id": "hvg_20260407_tisza-fidesz-median-ketharmad"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "commentator",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor elmondta, mit kíván Orbán Viktornak."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Hajrá Orbán Viktor!"
+      }
+    ],
+    "topics": [
+      "election",
+      "politics"
+    ],
+    "summary": "The article discusses the upcoming elections and includes comments from notable figures.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Olympic Hurdler: Go Hungarian Sports, Go Viktor Orbán!",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:17:43+02:00",
+      "scraped_at": "2026-04-12T18:00:13.072472",
+      "title": "Olimpikon gátfutó: Hajrá magyar sport, hajrá Orbán Viktor! - ORIGO",
+      "url": "https://www.origo.hu/belpol/2026/04/orban-viktor-valasztas-2026-baji-balazs-sport",
+      "article_id": "origo_orban-viktor-valasztas-2026-baji-balazs-sport"
     }
   },
   {
@@ -54496,6 +55984,79 @@
       "title": "Megrázó hírekkel jelentkezett Szijjártó Péter: újabb magyar áldozatai vannak az ukrajnai háborúnak",
       "url": "https://mandiner.hu/kulfold/2026/04/megrazo-hirekkel-jelentkezett-szijjarto-peter-ujabb-magyar-aldozatai-vannak-az-ukrajnai-haborunak",
       "article_id": "mandiner_megrazo-hirekkel-jelentkezett-szijjarto-peter-ujabb-magyar-aldozatai-vannak-az-ukrajnai-haborunak"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Boris Johnson",
+        "affiliation": "Former UK Prime Minister",
+        "country": "United Kingdom",
+        "role": "media_commentator",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Boris Johnson expressed his views on the ongoing war."
+      },
+      {
+        "name": "Volodimir Zelenszkij",
+        "affiliation": "President of Ukraine",
+        "country": "Ukraine",
+        "role": "politician",
+        "tags": [
+          "foreign"
+        ],
+        "evidence": "Zelenszkij's initiatives are being ignored by parliament members."
+      },
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs warned against foreign agents gaining majority."
+      },
+      {
+        "name": "Rogán Antal",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Rogán Antal discussed the importance of voter turnout."
+      },
+      {
+        "name": "Krasznahorkai",
+        "affiliation": "Unknown",
+        "country": "Unknown",
+        "role": "voter",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Krasznahorkai voted from abroad."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "The article discusses various foreign and local individuals commenting on the elections in Hungary.",
+    "analysis_details": "Foreign individuals are influencing the narrative around the elections.",
+    "title_eng": "Shocking: The Perspective of a Transcarpathian Soldier on the Russian-Ukrainian War",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Rajcsányi GellértSzerző követése",
+      "published_at": "2026-04-12T17:06:48+02:00",
+      "scraped_at": "2026-04-12T18:00:42.209815",
+      "title": "Megrázó: ilyen az orosz-ukrán háború egy kárpátaljai katona szemszögéből",
+      "url": "https://mandiner.hu/kultura/2026/04/megrazo-ilyen-az-orosz-ukran-haboru-egy-karpataljai-katona-szemszogebol",
+      "article_id": "mandiner_megrazo-ilyen-az-orosz-ukran-haboru-egy-karpataljai-katona-szemszogebol"
     }
   },
   {
@@ -62262,6 +63823,159 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Hujber Feri",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "volunteer observer",
+        "tags": [
+          "physically_present",
+          "observer",
+          "unknown_affiliation"
+        ],
+        "evidence": "Hujber Feri is volunteering as an observer in Salgótarján."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Orbán Viktor commented on the election on his official Facebook page."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Magyar Péter shared a video discussing the election participation data."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Gulyás Gergely gave an interview about the election."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "football player",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Böde Dániel shared his voting experience in a TikTok video."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Hadházy Ákos shared a post about election irregularities."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "writer",
+        "tags": [
+          "physically_present",
+          "unknown_affiliation"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Novák Előd reported on election irregularities on Facebook."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "entertainer",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Fásy Ádám shared his thoughts on the importance of voting on Facebook."
+      },
+      {
+        "name": "Munk Veronika",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "journalist",
+        "tags": [
+          "physically_present",
+          "media_commentator",
+          "observer"
+        ],
+        "evidence": "Munk Veronika interviewed Gulyás Gergely at a polling station."
+      },
+      {
+        "name": "David (OE24.TV)",
+        "affiliation": "OE24.TV",
+        "country": "Austria",
+        "role": "reporter",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "David from OE24.TV commented on the interest in the elections from Austria."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "irregularities"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including local politicians, entertainers, and foreign media commentators.",
+    "analysis_details": "The presence of both local and foreign individuals commenting on the elections indicates a mix of genuine interest and potential influence.",
+    "title_eng": "Hujber Feri Volunteers to Prevent Vote Buying in Salgótarján",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Somogyi Nóra",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:02.987416",
+      "title": "Hujber Feri is önkéntesnek állt, Salgótarjánban próbálja megakadályozni a szavazatvásárlást",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/hujber-feri/",
+      "article_id": "index_hujber-feri"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -62291,6 +64005,60 @@
       "title": "Publicus Intézet: 52-39 az állás a Tisza Párt és a Fidesz között a biztos szavazó pártválasztók körében",
       "url": "https://telex.hu/belfold/2026/04/10/publicus-intezet-tisza-part-fidesz-kozvelemeny-kutatas",
       "article_id": "telex_publicus-intezet-tisza-part-fidesz-kozvelemeny-kutatas"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs stated that foreign agents should not gain a majority."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "A journalist from Transcarpathia commented on the situation in Ukraine."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "intelligence agency",
+        "tags": [
+          "foreign",
+          "observer",
+          "unknown_affiliation"
+        ],
+        "evidence": "It was reported that Ukrainian intelligence agencies intervened in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "The article discusses concerns about foreign influence in the Hungarian elections, particularly mentioning Ukrainian involvement.",
+    "analysis_details": "The presence of foreign individuals and agencies raises suspicions about their influence on the electoral process.",
+    "title_eng": "Kocsis Máté Dismantles the Narrative of the Tisza Party's Election Delay",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:27:31+02:00",
+      "scraped_at": "2026-04-12T18:00:26.964029",
+      "title": "Kocsis Máté szétcincálta a Tisza narratíváját a választás elhalasztásáról",
+      "url": "https://mandiner.hu/belfold/2026/04/kocsis-mate-szetcincalta-a-tisza-narrativajat-a-valasztas-elhalasztasarol",
+      "article_id": "mandiner_kocsis-mate-szetcincalta-a-tisza-narrativajat-a-valasztas-elhalasztasarol"
     }
   },
   {
@@ -63184,6 +64952,38 @@
       "title": "Magyar Péter: Akik még nem éltek igazi demokráciában, azoknak óriási fellélegzés lesz",
       "url": "https://hvg.hu/360/20260408_magyar-peter-valasztas-interju",
       "article_id": "hvg_20260408_magyar-peter-valasztas-interju"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "G7",
+        "affiliation": "G7",
+        "country": "Hungary",
+        "role": "media_commentator",
+        "tags": [
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "G7 reports on the election participation trends."
+      }
+    ],
+    "topics": [
+      "election",
+      "participation"
+    ],
+    "summary": "The article discusses election participation trends in Fidesz and opposition districts.",
+    "analysis_details": "No foreign observers or individuals mentioned.",
+    "title_eng": "Election Participation Trends in Hungary",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T15:30:36.0000000Z",
+      "scraped_at": "2026-04-12T18:00:11.796583",
+      "title": "A fideszes körzetekben arányaiban nem nőtt annyira a választási részvétel, mint az ellenzékiekben",
+      "url": "https://hvg.hu/itthon/20260412_a-fideszes-korzetekben-aranyaiban-nem-nott-annyira-a-valasztasi-reszvetel-mint-az-ellenzekiekben",
+      "article_id": "hvg_20260412_a-fideszes-korzetekben-aranyaiban-nem-nott-annyira-a-valasztasi-reszvetel-mint-az-ellenzekiekben"
     }
   },
   {
@@ -72875,6 +74675,139 @@
     }
   },
   {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "president",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Magyar Péter, a Tisza Párt elnöke, a választás napján aktívan buzdította a szavazásra az embereket."
+      },
+      {
+        "name": "Hujber Feri",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri a Facebookon osztott meg egy videót, amiben önkéntes őrszemnek áll."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor a választás napján videóüzenetet tett közzé, amelyben a szavazás fontosságát hangsúlyozta."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Gulyás Gergely a választás napján interjút adott, ahol a Fidesz esélyeiről beszélt."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "athlete",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel TikTok-videóban buzdította a szavazásra a Fideszre."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Hadházy Ákos a Facebookon osztott meg információkat a választási csalásokról."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Novák Előd a Facebook-oldalán beszélt a választás rendje elleni bűncselekményekről."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "writer",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Krasznahorkai László a milánói konzulátus előtt szavazott."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "entertainer",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Fásy Ádám a Facebookon osztotta meg gondolatait a voksolás jelentőségéről."
+      },
+      {
+        "name": "Bombicz Tamás",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Bombicz Tamás a választáson fürdőköntösben jelent meg."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "lawyer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Döbrentey Dániel jogvédő szervezet ügyvédje, aki a választási szabálytalanságokról nyilatkozott."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "media"
+    ],
+    "summary": "The article discusses the election participation and various individuals' comments and actions related to the elections in Hungary.",
+    "analysis_details": "The presence of various commentators and politicians indicates a high level of engagement in the electoral process.",
+    "title_eng": "Record Participation in the Election!",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Péter Alvarez",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:05.656354",
+      "title": "Magyar Péter: Most indul a végső nagy mozgósítás",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/magyar-peter-most-indul-a-vegso-nagy-mozgositas/",
+      "article_id": "index_magyar-peter-most-indul-a-vegso-nagy-mozgositas"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -73602,6 +75535,58 @@
       "title": "Végre meglépte Oroszország és Ukrajna: életbe lépett a tűzszünet – Putyinék még az eddig elért eredményt is bemutatták",
       "url": "https://mandiner.hu/kulfold/2026/04/vegre-meglepte-oroszorszag-es-ukrajna-eletbe-lepett-a-tuzszunet-putyinek-meg-az-eddig-elert-eredmenyt-is-bemutattak",
       "article_id": "mandiner_vegre-meglepte-oroszorszag-es-ukrajna-eletbe-lepett-a-tuzszunet-putyinek-meg-az-eddig-elert-eredmenyt-is-bemutattak"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Pócs János",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "official",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Pócs Jánoshoz érkezett a bejelentés: vérlázító tiszás csalás miatt kellett intézkedni."
+      },
+      {
+        "name": "Krasznahorkai",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "voter",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Magányosan és külföldön adta le szavazatát Krasznahorkai, aki minden erejével küzd a „magyarság” ellen."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers"
+    ],
+    "summary": "Various individuals commented on the election, highlighting concerns about foreign influence.",
+    "analysis_details": "Németh Balázs and Pócs János are local officials discussing election integrity, while Krasznahorkai represents a foreign voter perspective.",
+    "title_eng": "Encouragement to Vote for the National Government",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Kubatov GáborFacebook",
+      "published_at": "2026-04-12T17:43:56+02:00",
+      "scraped_at": "2026-04-12T18:00:24.033616",
+      "title": "Tanulság a fiataloknak: az a generáció halt meg a háborúban, aki az „ukrán Magyar Péternek” csápolt",
+      "url": "https://mandiner.hu/kulfold/2026/04/tanulsag-a-fiataloknak-az-a-generacio-halt-meg-a-haboruban-aki-az-ukran-magyar-peternek-csapolt",
+      "article_id": "mandiner_tanulsag-a-fiataloknak-az-a-generacio-halt-meg-a-haboruban-aki-az-ukran-magyar-peternek-csapolt"
     }
   },
   {
@@ -77699,6 +79684,39 @@
     "fake_observer_score": 0,
     "individuals": [
       {
+        "name": "Berencsy Máté",
+        "affiliation": "Local Government",
+        "country": "Hungary",
+        "role": "Municipal Representative",
+        "tags": [
+          "physically_present",
+          "observer"
+        ],
+        "evidence": "Berencsy Máté önkormányzati képviselő a helyszínen tartózkodott."
+      }
+    ],
+    "topics": [
+      "election",
+      "bomb threat",
+      "voting disruption"
+    ],
+    "summary": "Voting was temporarily suspended in Miskolc and Pécs due to bomb threats.",
+    "analysis_details": "Local officials were present during the incidents, but no foreign observers were mentioned.",
+    "title_eng": "Voting Suspended in Miskolc and Pécs Due to Bomb Threat",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kaszás Gábor",
+      "published_at": "2026-04-12T17:00:00+02:00",
+      "scraped_at": "2026-04-12T18:00:09.277460",
+      "title": "Bombariadó miatt Pécsen és Miskolcon is felfüggesztették a szavazást",
+      "url": "https://index.hu/belfold/2026/04/12/bombariado-valasztasok-valasztas-2026-szavazas-miskolc/",
+      "article_id": "index_bombariado-valasztasok-valasztas-2026-szavazas-miskolc"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
         "name": "Hadházy Ákos",
         "affiliation": "Independent",
         "country": "Hungary",
@@ -78368,6 +80386,48 @@
       "title": "Húsz év után valódi ellenfélre lelt Orbán Viktor",
       "url": "https://telex.hu/video/2026/04/11/orban-viktor-magyar-peter-legjobb-pillanatok-osszefoglalo",
       "article_id": "telex_orban-viktor-magyar-peter-legjobb-pillanatok-osszefoglalo"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "Ukrainian Intelligence Services",
+        "country": "Ukraine",
+        "role": "foreign influence",
+        "tags": [
+          "foreign",
+          "unknown_affiliation"
+        ],
+        "evidence": "Az Egyesült Államokból érkezett: ukrán titkosszolgálatok avatkoztak a magyarországi választásokba."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence"
+    ],
+    "summary": "The article discusses the high voter turnout in Hungary and mentions concerns about foreign influence in the elections.",
+    "analysis_details": "Németh Balázs warns against foreign agents, while Ukrainian intelligence services are accused of interfering.",
+    "title_eng": "Record Voter Turnout in Hungary",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:47:23+02:00",
+      "scraped_at": "2026-04-12T18:00:22.845704",
+      "title": "Pócs Jánoshoz érkezett a bejelentés: vérlázító tiszás csalás miatt kellett intézkedni",
+      "url": "https://mandiner.hu/belfold/2026/04/pocs-janoshoz-erkezett-a-bejelentes-verlazito-tiszas-csalas-miatt-kellett-intezkedni",
+      "article_id": "mandiner_pocs-janoshoz-erkezett-a-bejelentes-verlazito-tiszas-csalas-miatt-kellett-intezkedni"
     }
   },
   {
@@ -79172,6 +81232,58 @@
       "title": "Orbán Balázs szerint a Fidesznek kedvez a magas részvétel",
       "url": "https://hvg.hu/itthon/20260412_orban-balazs-valasztas-magas-reszvetel-fidesz-tisza-part",
       "article_id": "hvg_20260412_orban-balazs-valasztas-magas-reszvetel-fidesz-tisza-part"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Mráz Ágoston Sámuel",
+        "affiliation": "Nézőpont Intézet",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Mráz Ágoston Sámuel, a Nézőpont Intézet vezetője, analyzed the election participation."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Magyar Péter is mentioned in the context of the election."
+      },
+      {
+        "name": "Németh Balázs",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Németh Balázs warned against foreign agents influencing the elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "political analysis"
+    ],
+    "summary": "The article discusses the implications of high voter turnout and the potential influence of foreign agents in the Hungarian elections.",
+    "analysis_details": "Mráz Ágoston Sámuel is an accredited observer, while other individuals lack clear affiliations.",
+    "title_eng": "Mráz Ágoston and Kereki Gergő: Everything May Depend on the Last Hours",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:18:35+02:00",
+      "scraped_at": "2026-04-12T18:00:41.015174",
+      "title": "Mráz Ágoston és Kereki Gergő: minden az utolsó órákon múlhat",
+      "url": "https://mandiner.hu/belfold/2026/04/mraz-agoston-es-kereki-gergo-minden-az-utolso-orakon-mulhat",
+      "article_id": "mandiner_mraz-agoston-es-kereki-gergo-minden-az-utolso-orakon-mulhat"
     }
   },
   {
@@ -80763,6 +82875,48 @@
       "title": "Kormánytagok keresik a fogást a rendszerbontó koncerten",
       "url": "https://444.hu/2026/04/10/keresik-a-fogast-a-rendszerbonto-koncerten-kormanytagok-kapaszkodnak-ecku-herejebe",
       "article_id": "444_keresik-a-fogast-a-rendszerbonto-koncerten-kormanytagok-kapaszkodnak-ecku-herejebe"
+    }
+  },
+  {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs stated that foreign agents should not gain a majority."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "A Kárpátaljai journalist commented on the situation in Ukraine."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Concerns were raised about foreign influence in the Hungarian elections.",
+    "analysis_details": "Statements from local politicians and foreign journalists highlight the tension surrounding the elections.",
+    "title_eng": "Concerns Over Foreign Influence in Hungarian Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:23:04+02:00",
+      "scraped_at": "2026-04-12T18:00:27.963079",
+      "title": "Hoppá: valaki az utolsó pillanatban tett 280 ezer dollárt Orbán Viktor győzelmére",
+      "url": "https://mandiner.hu/belfold/2026/04/hoppa-valaki-az-utolso-pillanatban-tett-280-ezer-dollart-orban-viktor-gyozelmere",
+      "article_id": "mandiner_hoppa-valaki-az-utolso-pillanatban-tett-280-ezer-dollart-orban-viktor-gyozelmere"
     }
   },
   {
@@ -83367,6 +85521,48 @@
     }
   },
   {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs szerint nem lehet engedni, hogy külföldi ügynökök kerüljenek többségbe."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "journalist",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Kárpátaljai tévés újságíró mondta el, mi maradt Ukrajnából azután, hogy a háborús időkben egy komolytalan embert, egy „bohócot” választottak meg az emberek."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence"
+    ],
+    "summary": "Concerns were raised about foreign influence in the Hungarian elections, with comments from local politicians and foreign journalists.",
+    "analysis_details": "The article discusses the potential impact of foreign agents on the election outcome, highlighting statements from local politicians and a foreign journalist.",
+    "title_eng": "Bomb Threat Halts Voting in Miskolc",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:12:42+02:00",
+      "scraped_at": "2026-04-12T18:00:28.908112",
+      "title": "Most érkezett: bombafenyegetés miatt leállították a szavazást Miskolcon",
+      "url": "https://mandiner.hu/belfold/2026/04/most-erkezett-bombafenyegetes-miatt-leallitottak-a-szavazast-miskolcon",
+      "article_id": "mandiner_most-erkezett-bombafenyegetes-miatt-leallitottak-a-szavazast-miskolcon"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [
@@ -83487,6 +85683,127 @@
       "title": "„Majd vasárnap eldöntöm, hogy a Fideszre vagy a Tiszára szavazok”",
       "url": "https://444.hu/2026/04/11/majd-vasarnap-eldontom-hogy-a-fideszre-vagy-a-tiszara-szavazok",
       "article_id": "444_majd-vasarnap-eldontom-hogy-a-fideszre-vagy-a-tiszara-szavazok"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Varga Attila",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Varga Attila expressed support for Orbán Viktor and the Fidesz party."
+      },
+      {
+        "name": "Proksa Szandra",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Proksa Szandra supported the government and the Prime Minister."
+      },
+      {
+        "name": "Andor Éva",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Andor Éva expressed support for the Fidesz party."
+      },
+      {
+        "name": "Szentpéteri Eszter",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szentpéteri Eszter emphasized the need for a charismatic leader."
+      },
+      {
+        "name": "Vitányi Judit",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Vitányi Judit supported the government in the video."
+      },
+      {
+        "name": "Szabó Zsófi",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Szabó Zsófi expressed support for the Fidesz party."
+      },
+      {
+        "name": "Zavaros Eszter",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Zavaros Eszter supported the government in the video."
+      },
+      {
+        "name": "Gönczi Gábor",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Gönczi Gábor expressed support for the Fidesz party."
+      },
+      {
+        "name": "Marsi Anikó",
+        "affiliation": "Tv2",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "physically_present",
+          "media_commentator"
+        ],
+        "evidence": "Marsi Anikó supported the government in the video."
+      }
+    ],
+    "topics": [
+      "election",
+      "media",
+      "politics"
+    ],
+    "summary": "Tv2 presenters openly supported Orbán Viktor and the Fidesz party.",
+    "analysis_details": "All individuals are affiliated with a local media outlet and are supporting the ruling party.",
+    "title_eng": "Tv2 Presenters Campaign for Orbán Viktor and Fidesz",
+    "article_metadata": {
+      "source": "HVG",
+      "author": "HVG",
+      "published_at": "2026-04-12T15:32:40.0000000Z",
+      "scraped_at": "2026-04-12T18:00:11.631482",
+      "title": "Nyíltan Orbán Viktor és a Fidesz mellett kampányolnak a Tv2 műsorvezetői",
+      "url": "https://hvg.hu/itthon/20260412_nyiltan-orban-viktor-es-a-fidesz-mellett-kampanyolnak-a-tv2-musorvezetoi",
+      "article_id": "hvg_20260412_nyiltan-orban-viktor-es-a-fidesz-mellett-kampanyolnak-a-tv2-musorvezetoi"
     }
   },
   {
@@ -88735,6 +91052,61 @@
     }
   },
   {
+    "fake_observer_score": 80,
+    "individuals": [
+      {
+        "name": "Németh Balázs",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Németh Balázs stated that foreign agents should not gain a majority."
+      },
+      {
+        "name": "Kárpátaljai tévés újságíró",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "media commentator",
+        "tags": [
+          "foreign",
+          "media_commentator",
+          "unknown_affiliation"
+        ],
+        "evidence": "A journalist from Transcarpathia commented on the situation in Ukraine."
+      },
+      {
+        "name": "Ukrán titkosszolgálatok",
+        "affiliation": "unknown",
+        "country": "Ukraine",
+        "role": "observer",
+        "tags": [
+          "foreign",
+          "observer",
+          "unknown_affiliation"
+        ],
+        "evidence": "It was reported that Ukrainian secret services interfered in the Hungarian elections."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign interference"
+    ],
+    "summary": "The article discusses high voter turnout and mentions concerns about foreign influence in the elections.",
+    "analysis_details": "There are claims of foreign interference and comments from foreign media.",
+    "title_eng": "High Voter Turnout in Hungary's Elections",
+    "article_metadata": {
+      "source": "Mandiner",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:33:20+02:00",
+      "scraped_at": "2026-04-12T18:00:25.988942",
+      "title": "Íme a 17 órás részvételi adatok, soha ennyien nem szavaztak még Magyarországon",
+      "url": "https://mandiner.hu/belfold/2026/04/ime-a-17-oras-reszveteli-adatok",
+      "article_id": "mandiner_ime-a-17-oras-reszveteli-adatok"
+    }
+  },
+  {
     "fake_observer_score": 30,
     "individuals": [
       {
@@ -89304,6 +91676,139 @@
       "title": "Fareed Zakaria: Trump iráni blöffjével vége Amerika szavahihetőségének és tekintélyének",
       "url": "https://hvg.hu/360/20260330_fareed-zakaria-trump-iran-usa-nemzetkozi-lapszemle",
       "article_id": "hvg_20260330_fareed-zakaria-trump-iran-usa-nemzetkozi-lapszemle"
+    }
+  },
+  {
+    "fake_observer_score": 60,
+    "individuals": [
+      {
+        "name": "Hujber Feri",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Hujber Feri shared a video on Facebook discussing election fraud."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor posted on Facebook about the importance of voting."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Magyar Péter shared a video discussing the election participation."
+      },
+      {
+        "name": "Fásy Ádám",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "media commentator",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Fásy Ádám shared thoughts on the significance of voting on Facebook."
+      },
+      {
+        "name": "Gulyás Gergely",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Gulyás Gergely gave an interview about the election."
+      },
+      {
+        "name": "Böde Dániel",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "athlete",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Böde Dániel encouraged voting for Fidesz in a TikTok video."
+      },
+      {
+        "name": "Hadházy Ákos",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Hadházy Ákos shared a story about election fraud on Facebook."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk Mozgalom",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Novák Előd reported on organized voting irregularities on Facebook."
+      },
+      {
+        "name": "Krasznahorkai László",
+        "affiliation": "N/A",
+        "country": "Hungary",
+        "role": "author",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Krasznahorkai László was seen waiting to vote at the Milan consulate."
+      },
+      {
+        "name": "Döbrentey Dániel",
+        "affiliation": "Társaság a Szabadságjogokért",
+        "country": "Hungary",
+        "role": "lawyer",
+        "tags": [
+          "observer",
+          "affiliated_with_accredited_org"
+        ],
+        "evidence": "Döbrentey Dániel commented on voting procedures and legality."
+      },
+      {
+        "name": "Demeter Zoltán",
+        "affiliation": "Fidesz–KDNP",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Demeter Zoltán was reported giving packages to voters."
+      }
+    ],
+    "topics": [
+      "election",
+      "observers",
+      "media commentary"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including politicians, media commentators, and reports of irregularities.",
+    "analysis_details": "The presence of multiple observers and commentators indicates a high level of scrutiny and potential foreign influence.",
+    "title_eng": "Voting Suspended Due to Bomb Threat in Miskolc",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Unknown",
+      "published_at": "2026-04-12T17:57:40+02:00",
+      "scraped_at": "2026-04-12T18:00:06.381564",
+      "title": "Bombariadó miatt függesztették fel a szavazást Miskolcon",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/bombariado-miatt-fuggesztettek-fel-a-szavazast-miskolcon/",
+      "article_id": "index_bombariado-miatt-fuggesztettek-fel-a-szavazast-miskolcon"
     }
   },
   {
@@ -96360,6 +98865,47 @@
       "title": "Orbán Viktort Egerben is elképesztően sokan várták - ORIGO",
       "url": "https://www.origo.hu/belpol/2026/04/orban-viktort-egerben-is-elkepesztoen-sokan-vartak",
       "article_id": "origo_orban-viktort-egerben-is-elkepesztoen-sokan-vartak"
+    }
+  },
+  {
+    "fake_observer_score": 0,
+    "individuals": [
+      {
+        "name": "Szalay-Bobrovniczky Kristóf",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Szalay-Bobrovniczky Kristóf commented on the election."
+      },
+      {
+        "name": "Reviczky Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Commentator",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Reviczky Gábor expressed wishes for Orbán Viktor."
+      }
+    ],
+    "topics": [
+      "election",
+      "commentary"
+    ],
+    "summary": "Local commentators discussed the election and its implications.",
+    "analysis_details": "No foreign observers or accredited organizations mentioned.",
+    "title_eng": "Szalay-Bobrovniczky Kristóf: One Vote Can Really Decide",
+    "article_metadata": {
+      "source": "Origo",
+      "author": "",
+      "published_at": "2026-04-12T17:38:54+02:00",
+      "scraped_at": "2026-04-12T18:00:12.683629",
+      "title": "Szalay-Bobrovniczky Kristóf: Most tényleg egy szavazat dönthet - ORIGO",
+      "url": "https://www.origo.hu/itthon/2026/04/szalay-bobrovniczky-kristof-valasztas-2026-donthet",
+      "article_id": "origo_szalay-bobrovniczky-kristof-valasztas-2026-donthet"
     }
   },
   {
