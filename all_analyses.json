@@ -6955,6 +6955,135 @@
     }
   },
   {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Alekszandar Vucic",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "supporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucic expressed support for Orbán Viktor in the Hungarian elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Prime Minister of Slovakia",
+        "country": "Slovakia",
+        "role": "supporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico stated he wishes Orbán Viktor success in the elections."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "Mentalist",
+        "country": "Unknown",
+        "role": "media commentator",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Danny Blue announced he would reveal predictions about the election results."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "Media personality",
+        "country": "USA",
+        "role": "voter",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "Vujity Tvrtko voted in Miami before the polls opened in Hungary."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "Former President of the USA",
+        "country": "USA",
+        "role": "supporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Donald Trump expressed support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "Political analyst",
+        "country": "Unknown",
+        "role": "analyst",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign on social media."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Musician",
+        "country": "Unknown",
+        "role": "supporter",
+        "tags": [
+          "unknown_affiliation",
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Leader of the Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Nagy Dávid discussed the party's expectations for the elections."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Dobrev Klára emphasized the importance of the election in her speech."
+      },
+      {
+        "name": "Varga Judit",
+        "affiliation": "Former Minister of Justice",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Varga Judit expressed her voting intentions on social media."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence",
+      "supporters"
+    ],
+    "summary": "The article discusses various individuals expressing support or commentary regarding the Hungarian elections, including foreign leaders and local politicians.",
+    "analysis_details": "Several foreign individuals commented on the elections, indicating potential influence.",
+    "title_eng": "Election Commentary and Support in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Dózsa Gergő György",
+      "published_at": "2026-04-12T02:32:10+02:00",
+      "scraped_at": "2026-04-12T03:00:03.259431",
+      "title": "Pártbefolyástól mentesen látják el feladataikat a belügyi szervek",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/partbefolyastol-mentesen-latjak-el-feladataikat-a-belugyi-szervek/",
+      "article_id": "index_partbefolyastol-mentesen-latjak-el-feladataikat-a-belugyi-szervek"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [],
     "topics": [
@@ -17956,6 +18085,192 @@
     }
   },
   {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "Government of Serbia",
+        "country": "Serbia",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in the Hungarian elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Government of Slovakia",
+        "country": "Slovakia",
+        "role": "Prime Minister",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico commented on the Hungarian elections, expressing support for Orbán Viktor."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "Unknown",
+        "country": "Unknown",
+        "role": "Mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue made predictions about the election results."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter spoke at the Fidesz campaign closing event."
+      },
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János spoke at the Fidesz campaign closing event."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Unknown",
+        "country": "Unknown",
+        "role": "Musician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Political Analyst",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign."
+      },
+      {
+        "name": "Wáberer György",
+        "affiliation": "Unknown",
+        "country": "Hungary",
+        "role": "Former Government Official",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Wáberer György offered a reward for reporting electoral fraud."
+      },
+      {
+        "name": "Donald Trump",
+        "affiliation": "Government of the United States",
+        "country": "USA",
+        "role": "President",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Donald Trump expressed support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "Unknown",
+        "country": "USA",
+        "role": "Media Personality",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Vujity Tvrtko reported on voting from Miami."
+      },
+      {
+        "name": "Magyar Péter",
+        "affiliation": "Tisza Párt",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Magyar Péter spoke about electoral integrity."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dobrev Klára spoke at the Democratic Coalition campaign closing event."
+      },
+      {
+        "name": "Radics Béla",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Radics Béla commented on the political climate."
+      },
+      {
+        "name": "Varga Judit",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Former Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Varga Judit expressed her voting intentions on social media."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "MKKP",
+        "country": "Hungary",
+        "role": "Party Leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nagy Dávid spoke about the MKKP's campaign."
+      },
+      {
+        "name": "Kálmán Olga",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "Member of Parliament",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Kálmán Olga opened the Democratic Coalition campaign closing event."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "The article discusses various individuals commenting on or influencing the Hungarian elections, including foreign leaders and local politicians.",
+    "analysis_details": "The presence of foreign individuals commenting on the elections raises concerns about external influence.",
+    "title_eng": "Election Commentary and Influence in Hungary",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-12T02:32:10+02:00",
+      "scraped_at": "2026-04-12T03:00:04.569816",
+      "title": "Lezártuk az urnákat, így áll össze az új parlament az Index-olvasók szerint",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/index-olvasok-pegapoll-kutatas-mandatumbecsles/",
+      "article_id": "index_index-olvasok-pegapoll-kutatas-mandatumbecsles"
+    }
+  },
+  {
     "fake_observer_score": 0,
     "individuals": [
       {
@@ -27328,6 +27643,211 @@
       "title": "A magyar választópolgároknak üzent Matteo Salvini",
       "url": "https://index.hu/belfold/2026/04/09/matteo-salvini-olaszorszag-miniszterelnok-helyettes-lega-nord-interju-orban-viktor-uzenet-valasztas-2026/",
       "article_id": "index_matteo-salvini-olaszorszag-miniszterelnok-helyettes-lega-nord-interju-orban-viktor-uzenet-valasztas-2026"
+    }
+  },
+  {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Molnár Gyula",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Molnár Gyula, a candidate from the Demokratikus Koalíció, reported on his campaign activities."
+      },
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in the Hungarian elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Prime Minister",
+        "country": "Slovakia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico stated his support for Orbán Viktor in the elections."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election results."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Prime Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Orbán Viktor campaigned for the Fidesz party."
+      },
+      {
+        "name": "Szijjártó Péter",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Szijjártó Péter spoke at the Fidesz campaign event."
+      },
+      {
+        "name": "Lázár János",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "Minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Lázár János also spoke at the Fidesz campaign event."
+      },
+      {
+        "name": "Novák Előd",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "campaign manager",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Novák Előd hosted the Mi Hazánk campaign closing event."
+      },
+      {
+        "name": "Dúró Dóra",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "deputy president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dúró Dóra spoke at the Mi Hazánk campaign closing event."
+      },
+      {
+        "name": "Toroczkai László",
+        "affiliation": "Mi Hazánk",
+        "country": "Hungary",
+        "role": "party president",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Toroczkai László spoke at the Mi Hazánk campaign closing event."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "musician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor."
+      },
+      {
+        "name": "Kapu Tibor",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "astronaut",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Kapu Tibor commented on the importance of the elections."
+      },
+      {
+        "name": "Ruszin-Szendi Romulusz",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "candidate",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Ruszin-Szendi Romulusz reported an incident involving Tisza party activists."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "media personality",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Vujity Tvrtko announced he voted in Miami ahead of the Hungarian elections."
+      },
+      {
+        "name": "Varga Judit",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "former Minister of Justice",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Varga Judit expressed her voting intentions on social media."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "political analyst",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Magyar Kétfarkú Kutya Párt",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Nagy Dávid discussed the party's expectations for the elections."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Demokratikus Koalíció",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dobrev Klára spoke at the DK campaign closing event."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "The article discusses various individuals involved in the Hungarian elections, including local politicians and foreign leaders expressing their opinions.",
+    "analysis_details": "The presence of foreign politicians commenting on the elections raises concerns about external influence.",
+    "title_eng": "Molnár Gyula Leaves Hospital After Accident",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-12T02:32:10+02:00",
+      "scraped_at": "2026-04-12T03:00:05.271102",
+      "title": "Elhagyta a kórházat a Demokratikus Koalíció balesetet szenvedett képviselőjelöltje",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/molnar-gyula-demokratikus-koalicio-budafok-ujbuda-kepviselojelolt-baleset/",
+      "article_id": "index_molnar-gyula-demokratikus-koalicio-budafok-ujbuda-kepviselojelolt-baleset"
     }
   },
   {
@@ -38176,6 +38696,231 @@
       "title": "Így alakult a részvétel a parlamenti választásokon",
       "url": "https://hvg.hu/itthon/20260410_reszvetel-a-parlamenti-valasztasokon",
       "article_id": "hvg_20260410_reszvetel-a-parlamenti-valasztasokon"
+    }
+  },
+  {
+    "fake_observer_score": 45,
+    "individuals": [
+      {
+        "name": "Robert Fico",
+        "affiliation": "Slovak Prime Minister",
+        "country": "Slovakia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico expressed support for Orbán Viktor on social media."
+      },
+      {
+        "name": "Aleksandar Vučić",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "politician",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Aleksandar Vučić stated he supports Orbán Viktor in the elections."
+      },
+      {
+        "name": "Gyula Molnár",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Gyula Molnár shared his experience during the campaign on social media."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "mentalist",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election results."
+      },
+      {
+        "name": "Péter Szijjártó",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Péter Szijjártó spoke at the Fidesz campaign closing event."
+      },
+      {
+        "name": "János Lázár",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "János Lázár made statements during the Fidesz campaign event."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "musician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      },
+      {
+        "name": "Tibor Kapu",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "astronaut",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Tibor Kapu commented on the importance of voting in the elections."
+      },
+      {
+        "name": "Romulusz Ruszin-Szendi",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "politician",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Romulusz Ruszin-Szendi reported an incident involving Tisza Party activists."
+      },
+      {
+        "name": "Eszter Vitályos",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "government spokesperson",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Eszter Vitályos made a statement on social media regarding the elections."
+      },
+      {
+        "name": "Gábor Török",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "political analyst",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Gábor Török shared thoughts on the election campaign on social media."
+      },
+      {
+        "name": "György Wáberer",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "former government commissioner",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "György Wáberer offered a reward for reporting electoral fraud."
+      },
+      {
+        "name": "Balázs Orbán",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "political director",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Balázs Orbán discussed the importance of the elections in an interview."
+      },
+      {
+        "name": "Róbert Puzsér",
+        "affiliation": "unknown",
+        "country": "unknown",
+        "role": "commentator",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Róbert Puzsér commented on political resistance on social media."
+      },
+      {
+        "name": "Dávid Nagy",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Dávid Nagy expressed expectations for the elections during a campaign event."
+      },
+      {
+        "name": "Klára Dobrev",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "party leader",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Klára Dobrev spoke at the Democratic Coalition campaign closing event."
+      },
+      {
+        "name": "Béla Radics",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "candidate",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Béla Radics commented on the political climate on social media."
+      },
+      {
+        "name": "Tvrtko Vujity",
+        "affiliation": "unknown",
+        "country": "USA",
+        "role": "media personality",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Tvrtko Vujity reported voting from Miami before the polls opened in Hungary."
+      },
+      {
+        "name": "Judit Varga",
+        "affiliation": "Fidesz",
+        "country": "Hungary",
+        "role": "former minister",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Judit Varga expressed her voting preferences on social media."
+      },
+      {
+        "name": "Klaudia Szemereyné Pataki",
+        "affiliation": "unknown",
+        "country": "Hungary",
+        "role": "mayor",
+        "tags": [
+          "physically_present"
+        ],
+        "evidence": "Klaudia Szemereyné Pataki was involved in a controversy regarding election regulations."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign_influence",
+      "political_commentary"
+    ],
+    "summary": "The article discusses various political figures expressing their views and support regarding the upcoming elections in Hungary, highlighting both domestic and foreign influences.",
+    "analysis_details": "Multiple foreign politicians and local candidates commented on the elections, indicating a mix of support and criticism.",
+    "title_eng": "Robert Fico: I wish for Orbán Viktor's political goals to be fulfilled",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Radakovic Mijat",
+      "published_at": "2026-04-12T02:32:10+02:00",
+      "scraped_at": "2026-04-12T03:00:05.933206",
+      "title": "Robert Fico: Azt kívánom, hogy teljesüljön Orbán Viktor minden politikai célja",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/robert-fico-szlovakia-miniszterelnok-orban-viktor/",
+      "article_id": "index_robert-fico-szlovakia-miniszterelnok-orban-viktor"
     }
   },
   {
@@ -59217,6 +59962,131 @@
       "title": "Hatalmas kampánybravúr a Fidesztől a végére: ilyen népszerű volt Orbán Viktorék kampánybusza (GALÉRIA)",
       "url": "https://mandiner.hu/belfold/2026/04/hatalmas-kampanybravur-a-fidesztol-a-vegere-ilyen-nepszeru-volt-orban-viktorek-kampanybusza-galeria",
       "article_id": "mandiner_hatalmas-kampanybravur-a-fidesztol-a-vegere-ilyen-nepszeru-volt-orban-viktorek-kampanybusza-galeria"
+    }
+  },
+  {
+    "fake_observer_score": 30,
+    "individuals": [
+      {
+        "name": "Alekszandar Vucsics",
+        "affiliation": "President of Serbia",
+        "country": "Serbia",
+        "role": "supporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Alekszandar Vucsics expressed support for Orbán Viktor in the Hungarian elections."
+      },
+      {
+        "name": "Robert Fico",
+        "affiliation": "Prime Minister of Slovakia",
+        "country": "Slovakia",
+        "role": "supporter",
+        "tags": [
+          "foreign",
+          "media_commentator"
+        ],
+        "evidence": "Robert Fico stated he wishes success for Orbán Viktor in the elections."
+      },
+      {
+        "name": "Danny Blue",
+        "affiliation": "Mentalist",
+        "country": "Unknown",
+        "role": "media_commentator",
+        "tags": [
+          "unknown_affiliation"
+        ],
+        "evidence": "Danny Blue claimed to have predictions about the election results."
+      },
+      {
+        "name": "Vujity Tvrtko",
+        "affiliation": "Media Personality",
+        "country": "USA",
+        "role": "voter",
+        "tags": [
+          "foreign",
+          "physically_present"
+        ],
+        "evidence": "Vujity Tvrtko voted in Miami, USA, before the Hungarian elections."
+      },
+      {
+        "name": "Török Gábor",
+        "affiliation": "Political Analyst",
+        "country": "Hungary",
+        "role": "analyst",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Török Gábor shared thoughts on the election campaign on social media."
+      },
+      {
+        "name": "Kis Grófo",
+        "affiliation": "Musician",
+        "country": "Hungary",
+        "role": "supporter",
+        "tags": [
+          "media_commentator"
+        ],
+        "evidence": "Kis Grófo expressed support for Orbán Viktor in a video."
+      },
+      {
+        "name": "Dobrev Klára",
+        "affiliation": "Democratic Coalition",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Dobrev Klára spoke at the Democratic Coalition's campaign closing event."
+      },
+      {
+        "name": "Nagy Dávid",
+        "affiliation": "Hungarian Two-Tailed Dog Party",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Nagy Dávid discussed the party's expectations for the elections."
+      },
+      {
+        "name": "Varga Judit",
+        "affiliation": "Former Minister of Justice",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Varga Judit expressed her voting intentions on social media."
+      },
+      {
+        "name": "Orbán Viktor",
+        "affiliation": "Prime Minister of Hungary",
+        "country": "Hungary",
+        "role": "politician",
+        "tags": [
+          "observer"
+        ],
+        "evidence": "Orbán Viktor campaigned for the elections and made public statements."
+      }
+    ],
+    "topics": [
+      "election",
+      "foreign influence",
+      "supporters"
+    ],
+    "summary": "The article discusses various individuals expressing support or commentary regarding the Hungarian elections, including foreign leaders and local politicians.",
+    "analysis_details": "Foreign individuals expressed support for Orbán Viktor, while local politicians commented on the election dynamics.",
+    "title_eng": "Alekszandar Vucsics: Whatever Happens, I Am Grateful to Orbán Viktor",
+    "article_metadata": {
+      "source": "Index",
+      "author": "Kiss Márton Balázs",
+      "published_at": "2026-04-12T02:32:10+02:00",
+      "scraped_at": "2026-04-12T03:00:03.925982",
+      "title": "Alekszandar Vucsics: Bármi is lesz, hálás vagyok Orbán Viktornak",
+      "url": "https://index.hu/belfold/2026/valasztas/2026/04/10/orszaggyulesi-valasztas_2026_szavazas_reszvetel_eredmeny_percrol_percre/alekszandar-vucsics-barmi-is-lesz-halas-vagyok-orban-viktornak/",
+      "article_id": "index_alekszandar-vucsics-barmi-is-lesz-halas-vagyok-orban-viktornak"
     }
   },
   {
